@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music News Feed — Intelligence at the intersection of music, technology &amp; business</title>
+  <meta name="description" content="Curated RSS aggregator for music industry intelligence, business moves, technology developments, and policy news.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container header-content">
+      <div class="header-text">
+        <h1 class="site-title">Music News Feed<span class="accent-dot">.</span></h1>
+        <p class="tagline">Intelligence at the intersection of music, technology &amp; business</p>
+      </div>
+      <div class="header-meta">
+        <span class="last-updated" id="lastUpdated"></span>
+        <button class="refresh-btn" id="refreshBtn" type="button">
+          <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <path d="M1 8a7 7 0 0 1 13-3.5M15 8a7 7 0 0 1-13 3.5"/>
+            <polyline points="1 1 1 5 5 5"/>
+            <polyline points="15 15 15 11 11 11"/>
+          </svg>
+          Refresh
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Cache Notice (hidden by default) -->
+  <div class="cache-notice" id="cacheNotice" hidden>
+    Showing cached results — live feeds unavailable
+  </div>
+
+  <!-- Filter Bar -->
+  <nav class="filter-bar">
+    <div class="container filter-bar-inner">
+      <div class="category-filters" id="categoryFilters">
+        <button class="pill active" data-category="all" type="button">All</button>
+        <button class="pill" data-category="Industry" type="button">Industry</button>
+        <button class="pill" data-category="Technology" type="button">Technology</button>
+        <button class="pill" data-category="Business & Finance" type="button">Business &amp; Finance</button>
+        <button class="pill" data-category="Policy & Legal" type="button">Policy &amp; Legal</button>
+      </div>
+
+      <div class="source-filter" id="sourceFilter">
+        <button class="source-dropdown-btn" id="sourceDropdownBtn" type="button">All Sources</button>
+        <div class="source-dropdown" id="sourceDropdown">
+          <!-- Populated dynamically -->
+        </div>
+      </div>
+
+      <input
+        type="search"
+        class="search-input"
+        id="searchInput"
+        placeholder="Search articles…"
+        aria-label="Search articles"
+      >
+
+      <span class="article-count" id="articleCount"></span>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="feed-section">
+    <div class="container">
+      <div class="article-grid" id="articleGrid">
+        <!-- Skeleton loaders inserted by JS on load -->
+      </div>
+      <div id="statusMessage"></div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-content">
+      <div class="footer-left">
+        <p class="footer-credit">
+          Built by <a href="https://linkedin.com/in/baxterbrown" target="_blank" rel="noopener noreferrer">Baxter Brown</a>
+        </p>
+        <p class="footer-disclaimer">
+          Aggregates public RSS feeds from leading music industry publications. No affiliation with any source.
+        </p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/baxterharrisbrown/music-news-feed" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
