@@ -30,7 +30,7 @@ export const FEEDS = [
   {
     id: 'hypebot',
     name: 'Hypebot',
-    url: 'https://www.hypebot.com/feed/',
+    url: 'https://www.hypebot.com/hypebot/atom.xml',
     category: 'Industry',
     bias: 'neutral'
   },

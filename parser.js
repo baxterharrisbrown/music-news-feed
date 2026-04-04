@@ -24,7 +24,14 @@ export async function fetchFeedXML(feedUrl) {
     throw new Error(`Empty response for ${feedUrl}`);
   }
 
-  return data.contents;
+  // allorigins sometimes returns base64 data URIs instead of raw XML
+  let contents = data.contents;
+  const dataUriMatch = contents.match(/^data:[^;]+;[^;]*;base64,(.+)$/s);
+  if (dataUriMatch) {
+    contents = atob(dataUriMatch[1]);
+  }
+
+  return contents;
 }
 
 /**
@@ -147,11 +154,15 @@ function stripHTML(html) {
 }
 
 /**
- * Sanitize text to prevent XSS — removes any HTML and trims.
+ * Sanitize text to prevent XSS — removes HTML tags and decodes entities.
+ * Uses a textarea element for safe entity decoding (no script execution).
  */
+const decodeTextarea = document.createElement('textarea');
 function sanitizeText(text) {
   if (!text) return '';
-  return text.replace(/<[^>]*>/g, '').trim();
+  const stripped = text.replace(/<[^>]*>/g, '').trim();
+  decodeTextarea.innerHTML = stripped;
+  return decodeTextarea.value;
 }
 
 function truncate(text, maxLength) {
