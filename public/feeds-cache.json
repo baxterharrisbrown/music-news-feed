@@ -1,24 +1,144 @@
 {
-  "generated": "2026-04-25T07:39:44.632Z",
+  "generated": "2026-04-26T07:49:02.813Z",
   "articles": [
     {
-      "id": "https://www.billboard.com/music/concerts/xaviersobased-australia-tour-2026-1236231414/",
-      "title": "Xaviersobased Announces Debut Australia Tour With Vivid LIVE&#160;Date",
-      "link": "https://www.billboard.com/music/concerts/xaviersobased-australia-tour-2026-1236231414/",
-      "description": "The upcoming Australian dates will feature support from ksuuvi and Backend.",
-      "date": "2026-04-25T06:11:37.000Z",
+      "id": "https://variety.com/2026/music/news/stagecoach-festival-emergency-evacuation-winds-1236730704/",
+      "title": "Stagecoach Festival Issues Emergency Evacuation Due to High Winds — Only to Reopen Less Than Two Hours Later",
+      "link": "https://variety.com/2026/music/news/stagecoach-festival-emergency-evacuation-winds-1236730704/",
+      "description": "There were thousands of unhappy Stagecoach festivalgoers on Saturday night, as the approximately 75,000-80,000 guests were forced to evacuate due to high winds. At 7:46 p.m., the Stagecoach app shared…",
+      "date": "2026-04-26T04:57:55.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/stagecoach-evacuation-high-winds-resume-1236231566/",
+      "title": "Stagecoach Evacuated Amid High Winds; Journey, Riley Green Taken Off&#160;Bill",
+      "link": "https://www.billboard.com/music/music-news/stagecoach-evacuation-high-winds-resume-1236231566/",
+      "description": "Headliner Lainey Wilson will also take the Mane Stage an hour later than originally planned.",
+      "date": "2026-04-26T04:48:49.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/rb-hip-hop/otis-redding-center-arts-celebrates-one-year-anniversary-1236231404/",
-      "title": "Otis Redding Center for the Arts Celebrates One-Year Anniversary: Ensuring the ‘Legacy Keeps Reaching&#160;Forward’",
-      "link": "https://www.billboard.com/music/rb-hip-hop/otis-redding-center-arts-celebrates-one-year-anniversary-1236231404/",
-      "description": "Zelma Redding talks about her late husband’s belief in giving back — and lifting up.",
-      "date": "2026-04-25T00:19:05.000Z",
+      "id": "https://www.billboard.com/music/music-news/cyndi-lauper-vegas-concert-heckler-1236231557/",
+      "title": "Cyndi Lauper Calls Out Crowd Heckler at Vegas Kickoff: &#8216;Please Remember Where You Are,&#160;OK?&#8217;",
+      "link": "https://www.billboard.com/music/music-news/cyndi-lauper-vegas-concert-heckler-1236231557/",
+      "description": "The pop star made it clear she expects some respect at opening night of her mini Las Vegas residency.",
+      "date": "2026-04-26T02:55:26.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/columns/fictional-pop-music-films-feel-phony-mother-mary-1236726251/",
+      "title": "With &#8216;Mother Mary&#8217; as Hollywood&#8217;s Latest Implausible Pop Star, Why Does Every Fictional  Music Movie Have to Feel So Phony?",
+      "link": "https://variety.com/2026/music/columns/fictional-pop-music-films-feel-phony-mother-mary-1236726251/",
+      "description": "Why is it that nearly every fictional movie that is about music, or set in a musical milieu, has to feel as phony as a $2 resale ticket? Biopics like &#8220;Michael,&#8221; &#8220;Back to Black&#8221;…",
+      "date": "2026-04-26T00:30:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/culture/tv-film/snl-uk-nicola-coughlan-monologue-jimmy-fallon-dave-grohl-1236231539/",
+      "title": "Jimmy Fallon and Dave Grohl Make Cameos in Nicola Coughlan&#8217;s &#8216;SNL UK&#8217;&#160;Monologue",
+      "link": "https://www.billboard.com/culture/tv-film/snl-uk-nicola-coughlan-monologue-jimmy-fallon-dave-grohl-1236231539/",
+      "description": "The Bridgerton star has a funny run-in with the Foo Fighters frontman as Fallon encourages her to make the most of hosting live TV.",
+      "date": "2026-04-25T23:48:50.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/megan-thee-stallion-klay-thompson-relationship-timeline/",
+      "title": "A Timeline of Megan Thee Stallion &#038; Klay Thompson’s&#160;Relationship",
+      "link": "https://www.billboard.com/lists/megan-thee-stallion-klay-thompson-relationship-timeline/",
+      "description": "Here’s everything we know about the rapper and the Dallas Mavericks guard.",
+      "date": "2026-04-25T21:46:33.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
+      "title": "Megan Thee Stallion and Klay Thompson&#160;Split",
+      "link": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
+      "description": "The rapper has parted ways with the Dallas Mavericks player, whom she began dating in summer 2025.",
+      "date": "2026-04-25T21:26:27.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/video/cody-johnson-stagecoach-main-stage-debut-breaking-record/",
+      "title": "Cody Johnson Gets Real About His Stagecoach Main Stage Debut &#038; Breaking Records &#124; Billboard&#160;News",
+      "link": "https://www.billboard.com/video/cody-johnson-stagecoach-main-stage-debut-breaking-record/",
+      "description": "Cody Johnson talks about his journey from small-town Texas to breaking attendance records at Houston Rodeo and making his main stage debut at Stagecoach 2026.",
+      "date": "2026-04-25T21:12:41.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/cyndi-lauper-claps-back-heckler-vegas-residency-1236730470/",
+      "title": "Cyndi Lauper Claps Back at Heckler During Vegas Residency Debut: &#8216;If You’re Trying to Shade Me Bitch, I’m Gonna Come for You&#8217;",
+      "link": "https://variety.com/2026/music/news/cyndi-lauper-claps-back-heckler-vegas-residency-1236730470/",
+      "description": "Cyndi Lauper didn’t hold back when a heckler interrupted her opening night in Las Vegas, firing back mid-show with an expletive-laced response that quickly drew cheers from the crowd. The moment unfol…",
+      "date": "2026-04-25T19:57:47.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/demi-lovato-its-not-that-deep-tour-review-new-york-msg/",
+      "title": "Demi Lovato Delights in Madison Square Garden Headlining Debut With Triumphant &#8216;It&#8217;s Not That Deep&#8217; Tour: 5 Best&#160;Moments",
+      "link": "https://www.billboard.com/lists/demi-lovato-its-not-that-deep-tour-review-new-york-msg/",
+      "description": "The Grammy-nominated pop star dazzled in her sold-out NYC show.",
+      "date": "2026-04-25T19:14:14.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/cody-johnson-boyz-ii-men-stagecoach-2026-1236231467/",
+      "title": "Cody Johnson Brings Out Boyz II Men for &#8216;On Bended Knee&#8217; at Stagecoach&#160;2026",
+      "link": "https://www.billboard.com/music/music-news/cody-johnson-boyz-ii-men-stagecoach-2026-1236231467/",
+      "description": "The country star headlined the opening day of the desert festival on April 24.",
+      "date": "2026-04-25T18:23:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/ella-langley-theo-von-duet-stagecoach-2026-1236231463/",
+      "title": "Ella Langley Brings Out Theo Von for Surprise ‘You Look Like You Love Me’ Duet at Stagecoach&#160;2026",
+      "link": "https://www.billboard.com/music/music-news/ella-langley-theo-von-duet-stagecoach-2026-1236231463/",
+      "description": "The country star made her debut at the festival on April 24.",
+      "date": "2026-04-25T17:20:01.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/country/ella-langley-stagecoach-2026-set-1236231442/",
+      "title": "Ella Langley Goes Deep on &#8216;Dandelion,&#8217; Welcomes Theo Von During 2026 Stagecoach&#160;Set",
+      "link": "https://www.billboard.com/music/country/ella-langley-stagecoach-2026-set-1236231442/",
+      "description": "Ella Langley easily commanded the stage during her set on the Mane Stage at Stagecoach.",
+      "date": "2026-04-25T17:07:02.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/alicia-keys-music-industry-good-old-boy-network-1236730439/",
+      "title": "Alicia Keys Calls the Music Industry a &#8216;Good Old Boy Network&#8217;, Says Women Are &#8216;Not Given an Open Door&#8217;",
+      "link": "https://variety.com/2026/music/news/alicia-keys-music-industry-good-old-boy-network-1236730439/",
+      "description": "Alicia Keys recently told The Times of London that the music industry can feel like a boys&#8217; club, and that it is difficult for women, particularly if they are working as producers or studio engi…",
+      "date": "2026-04-25T17:06:15.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
       "category": "Business & Finance"
     },
     {
@@ -42,16 +162,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-      "title": "Billboard&#8217;s Music Industry Events&#160;Calendar",
-      "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-      "description": "A complete rundown of the most important events across the music business.",
-      "date": "2026-04-24T23:00:00.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/digital/news/iheartmedia-siriusxm-merger-talks-azoff-apollo-advising-1236730151/",
       "title": "iHeartRadio and SiriusXM in Early Merger Talks, With Irving Azoff and Apollo Advising",
       "link": "https://variety.com/2026/digital/news/iheartmedia-siriusxm-merger-talks-azoff-apollo-advising-1236730151/",
@@ -62,26 +172,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/video/le-sserafims-celebration-kicks-off-a-new-personal-era/",
-      "title": "LE SSERAFIM’s &#8216;CELEBRATION&#8217; Kicks Off a New &#038; Personal Era &#124; Billboard&#160;News",
-      "link": "https://www.billboard.com/video/le-sserafims-celebration-kicks-off-a-new-personal-era/",
-      "description": "Tetris Kelly caught up with LE SSERAFIM in Seoul, South Korea, and the girls have a “CELEBRATION” that launches them into a new era. They tease what to expect from their upcoming studio album, their e…",
-      "date": "2026-04-24T21:19:51.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/pro/allison-jones-exec-vp-aampr-big-machine-records/",
-      "title": "Allison Jones Named EVP of A&#038;R at Big Machine Records/Nashville Harbor Records &#038;&#160;Entertainment",
-      "link": "https://www.billboard.com/pro/allison-jones-exec-vp-aampr-big-machine-records/",
-      "description": "The executive has played a key role in signing artists including Thomas Rhett, Florida Georgia Line, Riley Green, Carly Pearce and Midland.",
-      "date": "2026-04-24T21:02:37.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/michael-jackson-lawsuit-sexual-abuse-cascio-brainwash-1236730000/",
       "title": "Michael Jackson Estate Faces Sexual Abuse Allegations From Four Siblings Who Claim They Were &#8216;Groomed and Brainwashed&#8217; by Pop Superstar",
       "link": "https://variety.com/2026/music/news/michael-jackson-lawsuit-sexual-abuse-cascio-brainwash-1236730000/",
@@ -89,56 +179,6 @@
       "date": "2026-04-24T21:00:49.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/product-recommendations/bts-arih-noodles-beverage-line-walmart-shop-online-1236231230/",
-      "title": "BTS Is Selling Snacks &#038; Energy Drinks at Walmart Now? Everything You Need to&#160;Know",
-      "link": "https://www.billboard.com/culture/product-recommendations/bts-arih-noodles-beverage-line-walmart-shop-online-1236231230/",
-      "description": "The new line includes noodles, soda &#38; energy drinks.",
-      "date": "2026-04-24T20:40:57.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/product-recommendations/best-cheap-tickets-sites-1235380283/",
-      "title": "The Best Ticketing Sites to Find Affordable Tickets to Ariana Grande, Foo Fighters &#038;&#160;ENHYPEN",
-      "link": "https://www.billboard.com/culture/product-recommendations/best-cheap-tickets-sites-1235380283/",
-      "description": "Whether you're a fan of pop, rock, country or all of the above, these resale sites will have discounted tickets to shows.",
-      "date": "2026-04-24T20:36:14.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/mga-mrs-green-apple-beginners-guide-1236231376/",
-      "title": "Who Are MGA, aka Mrs. GREEN APPLE? A Beginner&#8217;s Guide to Japan&#8217;s Monster&#160;Band",
-      "link": "https://www.billboard.com/music/music-news/mga-mrs-green-apple-beginners-guide-1236231376/",
-      "description": "MGA (outside Japan, Mrs. GREEN APPLE goes by MGA) stood out as the only Japanese act to appear on the IFPI's 2026 Global Artist Chart, landing at No. 13.",
-      "date": "2026-04-24T20:32:18.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/pro/chance-the-rapper-lawyer-pat-the-manager-trial-interview/",
-      "title": "How Chance the Rapper’s Lawyer Helped Him ‘Stand on Principle’ — and Win — in Pat the Manager Contract&#160;Trial",
-      "link": "https://www.billboard.com/pro/chance-the-rapper-lawyer-pat-the-manager-trial-interview/",
-      "description": "Precious Jacobs-Perry, who helped Chance win what she describes as a “decisive outcome” at trial, tells Billboard about her team’s approach.",
-      "date": "2026-04-24T20:27:25.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/video/gloria-trevi-young-miko-becky-g-reveal-latina-muse/",
-      "title": "Gloria Trevi, Young Miko, Becky G &#038; More Reveal Their Latina Muse &#124; Billboard&#160;News",
-      "link": "https://www.billboard.com/video/gloria-trevi-young-miko-becky-g-reveal-latina-muse/",
-      "description": "Who is the Latina muse of Gloria Trevi, Chiquis, Young Miko and Becky G? We caught up with the Latina stars on the red carpet of the Billboard Latin Women in Music 2026, and they shared who they admir…",
-      "date": "2026-04-24T20:18:45.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -402,16 +442,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://variety.com/2026/music/asia/blackpink-jisoo-acting-canneseries-rising-star-1236729637/",
-      "title": "Blackpink’s Jisoo Determined to Play ‘Variety of Roles’ in the Future Following Rising Star Award at Canneseries: ‘It Makes Me Want to Work Harder’",
-      "link": "https://variety.com/2026/music/asia/blackpink-jisoo-acting-canneseries-rising-star-1236729637/",
-      "description": "Famously secretive star Jisoo – known as a member of Blackpink – met with journalists after receiving the Madame Figaro Rising Star Award at Canneseries.&#160; “It was my first time at Cannes alone. S…",
-      "date": "2026-04-24T10:56:03.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.musicbusinessworldwide.com/bang-si-hyuk-police-arrest-bid-rejected-by-korean-prosecutors-report/",
       "title": "Bang Si-hyuk: Police arrest bid rejected by Korean prosecutors (report)",
       "link": "https://www.musicbusinessworldwide.com/bang-si-hyuk-police-arrest-bid-rejected-by-korean-prosecutors-report/",
@@ -532,16 +562,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/music/asia/jisoo-award-blackpink-canneseries-kpop-1236729182/",
-      "title": "Canneseries Goes Crazy for Jisoo as She Picks Up Award, Thanks Fans: ‘I Wanted to Show You a New Side of Me’",
-      "link": "https://variety.com/2026/music/asia/jisoo-award-blackpink-canneseries-kpop-1236729182/",
-      "description": "Fans couldn’t contain their excitement seeing Jisoo at Canneseries. K-pop star picked up the Madame Figaro Rising Star Award during the opening ceremony of the French TV festival to the sound of joyfu…",
-      "date": "2026-04-23T20:46:12.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.musicbusinessworldwide.com/how-will-the-major-labels-overcome-the-copyright-threat-from-ai-music-by-turning-to-the-most-powerful-weapon-available-ai-itself/",
       "title": "How will the major labels overcome the copyright threat from AI music? By turning to the most powerful weapon available: AI itself.",
       "link": "https://www.musicbusinessworldwide.com/how-will-the-major-labels-overcome-the-copyright-threat-from-ai-music-by-turning-to-the-most-powerful-weapon-available-ai-itself/",
@@ -550,16 +570,6 @@
       "source": "Music Business Worldwide",
       "sourceId": "mbw",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/miranda-lambert-mca-records-1236726476/",
-      "title": "Music Industry Moves: Grammys on the Hill Honor Sen. Chris Coons and Rep. María Elvira Salazar; Bella Figura Acquires Publishing Catalog of Adele Collaborator Paul Epworth",
-      "link": "https://variety.com/2026/music/news/miranda-lambert-mca-records-1236726476/",
-      "description": "+ Grammys on the Hill celebrated its 25 th year of service honoring the champions of the music and creator community on Capitol Hll this week, culminating in a celebration paying tribute to Sen. Chris…",
-      "date": "2026-04-23T19:25:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/04/23/live-nation-summer-of-live-2026/",
@@ -580,16 +590,6 @@
       "source": "RAIN News",
       "sourceId": "rain",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/biz/news/tina-knowles-destinys-child-ashley-graham-plus-size-chicago-1236728965/",
-      "title": "LISTEN: Tina Knowles on Dressing Destiny’s Child in the Early Days; Ashley Graham on Fighting for Plus Size Women and Starring in ‘Chicago’",
-      "link": "https://variety.com/2026/biz/news/tina-knowles-destinys-child-ashley-graham-plus-size-chicago-1236728965/",
-      "description": "On today’s episode of &#8220;Daily Variety&#8221; podcast, entrepreneurs Tina Knowles and Ashley Graham explain how they have blazed trails to build powerful media and retail brands in highlights from…",
-      "date": "2026-04-23T18:26:47.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.musicbusinessworldwide.com/record-labels-and-verizon-jointly-dismiss-2-6-billion-copyright-lawsuit-in-wake-of-supreme-courts-cox-ruling/",
