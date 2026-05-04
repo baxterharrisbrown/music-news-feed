@@ -1,54 +1,214 @@
 {
-  "generated": "2026-05-03T08:09:09.963Z",
+  "generated": "2026-05-04T08:39:23.521Z",
   "articles": [
     {
-      "id": "https://www.billboard.com/music/awards/aria-hall-of-fame-2026-inductees-1236237787/",
-      "title": "ARIA Hall of Fame 2026 Inductees Revealed as Awards Mark 40th&#160;Anniversary",
-      "link": "https://www.billboard.com/music/awards/aria-hall-of-fame-2026-inductees-1236237787/",
-      "description": "ARIA CEO Annabelle Herd said that the inductees \"represent the depth, diversity and enduring influence of Australian music across generations.\"",
-      "date": "2026-05-03T06:55:03.000Z",
+      "id": "https://www.digitalmusicnews.com/2026/05/03/spike-lee-michael-abuse-allegations-comments/",
+      "title": "Spike Lee, Who Worked with Michael Jackson, Slams Critics Questioning Why ‘Michael’ Didn’t Include Abuse Allegations",
+      "link": "https://www.digitalmusicnews.com/2026/05/03/spike-lee-michael-abuse-allegations-comments/",
+      "description": "Spike Lee defends Lionsgate’s Michael biopic from critics who questioned why the film stopped short of addressing child sex abuse allegations. Director Spike Lee defended Antoine Fuqua’s Michael Jacks…",
+      "date": "2026-05-04T04:53:26.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/03/suno-songkick-concert-discovery-ai/",
+      "title": "Suno Ambitiously Plans to &#8216;Reimagine&#8217; Songkick and Concert Discovery with AI",
+      "link": "https://www.digitalmusicnews.com/2026/05/03/suno-songkick-concert-discovery-ai/",
+      "description": "After acquiring Songkick from Warner Music Group in November, Suno plans to use the platform’s juicy user data tranche to reimagine concert discovery with AI. AI startup Suno shook hands with Warner M…",
+      "date": "2026-05-04T04:33:52.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/03/barry-manilow-postpones-vegas-residency-due-to-cancer/",
+      "title": "Barry Manilow Postpones Vegas Residency Due to Cancer",
+      "link": "https://www.digitalmusicnews.com/2026/05/03/barry-manilow-postpones-vegas-residency-due-to-cancer/",
+      "description": "Barry Manilow is making great progress with his cancer treatment, but postpones the start of his Vegas residency as a result. He’ll be back in July. Over the weekend, legendary singer Barry Manilow an…",
+      "date": "2026-05-04T04:28:43.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/madonna-sabrina-carpentersbring-your-love-best-new-music-1236238041/",
+      "title": "Fans Choose Madonna &#038; Sabrina Carpenter&#8217;s &#8216;Bring Your Love&#8217; as This Week&#8217;s Favorite New&#160;Music",
+      "link": "https://www.billboard.com/music/music-news/madonna-sabrina-carpentersbring-your-love-best-new-music-1236238041/",
+      "description": "The pop collab brought in nearly 89% of the vote.",
+      "date": "2026-05-04T04:05:32.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/culture/tv-film/debbie-harry-snl-cameo-olivia-rodrigo-1236237766/",
-      "title": "Debbie Harry Makes &#8216;SNL&#8217; Cameo to Introduce Olivia Rodrigo&#8217;s &#8216;drop dead&#8217;&#160;Performance",
-      "link": "https://www.billboard.com/culture/tv-film/debbie-harry-snl-cameo-olivia-rodrigo-1236237766/",
-      "description": "Harry's appearance was one of several surprise cameos on the night.",
-      "date": "2026-05-03T06:35:39.000Z",
+      "id": "https://www.digitalmusicnews.com/2026/05/03/shakira-copacabana-beach-two-million/",
+      "title": "Shakira Crushes Copacabana Beach With a Crowd of 2 Million. Amazingly, That&#8217;s Not a Record.",
+      "link": "https://www.digitalmusicnews.com/2026/05/03/shakira-copacabana-beach-two-million/",
+      "description": "Shakira performed a free concert on Copacabana Beach in Rio de Janeiro over the weekend, an event that the city’s mayor said drew a crowd of 2 million. Colombian singer-songwriter, dancer, and produce…",
+      "date": "2026-05-04T03:53:33.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/03/post-malone-big-ass-stadium-tour-2-dates-canceled/",
+      "title": "Postponed Malone? ‘Big Ass Stadium Tour 2’ Cancels Several Dates As Ticket Sales Stall",
+      "link": "https://www.digitalmusicnews.com/2026/05/03/post-malone-big-ass-stadium-tour-2-dates-canceled/",
+      "description": "Post Malone has cancelled six dates at the beginning of his Big Ass Stadium Tour 2, moving the start of the tour to June 9. Post Malone and Jelly Roll have cancelled several upcoming dates on their Bi…",
+      "date": "2026-05-04T03:47:54.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/lists/olivia-rodrigo-snl-sketches-ranked-2026-episode/",
+      "title": "Olivia Rodrigo&#8217;s Debut as &#8216;SNL&#8217; Host: All 7 Sketches&#160;Ranked",
+      "link": "https://www.billboard.com/lists/olivia-rodrigo-snl-sketches-ranked-2026-episode/",
+      "description": "Here's a breakdown of every 'SNL' sketch with Rodrigo on May 2.",
+      "date": "2026-05-04T02:04:05.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/culture/tv-film/olivia-rodrigo-debuts-begging-snl-1236237765/",
-      "title": "Olivia Rodrigo Performs New Track &#8216;begged&#8217; in &#8216;SNL&#8217; Hosting&#160;Debut",
-      "link": "https://www.billboard.com/culture/tv-film/olivia-rodrigo-debuts-begging-snl-1236237765/",
-      "description": "Connor Storrie introduced Rodrigo's performance of \"begged,\" a previously unreleased track from her forthcoming album.",
-      "date": "2026-05-03T05:48:05.000Z",
+      "id": "https://www.billboard.com/lists/olivia-dean-art-of-loving-tour-london-best-moments/",
+      "title": "Olivia Dean&#8217;s &#8216;The Art of Loving&#8217; Tour Will Be 2026&#8217;s Hottest Ticket: 5 Best Moments from London&#8217;s O2&#160;Arena",
+      "link": "https://www.billboard.com/lists/olivia-dean-art-of-loving-tour-london-best-moments/",
+      "description": "Sam Fender was a special guest at the Saturday night (May 2) show.",
+      "date": "2026-05-03T20:47:33.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/gracie-abrams-hit-the-wall-song-release-date-1236237728/",
-      "title": "Gracie Abrams Announces New Song &#8216;Hit the&#160;Wall&#8217;",
-      "link": "https://www.billboard.com/music/music-news/gracie-abrams-hit-the-wall-song-release-date-1236237728/",
-      "description": "\"Hit the Wall\" will be Abrams' first new release post-The Secret of Us era.",
-      "date": "2026-05-03T00:53:14.000Z",
+      "id": "https://www.billboard.com/music/music-news/donald-trump-ymca-dance-billboard-chart-rise-1236237932/",
+      "title": "Donald Trump Credits His &#8216;Y.M.C.A.&#8217; Viral Dance Moves for Disco Hit&#8217;s Rise on Billboard&#160;Charts",
+      "link": "https://www.billboard.com/music/music-news/donald-trump-ymca-dance-billboard-chart-rise-1236237932/",
+      "description": "The president also said that his wife Melania “hates” his reaction to the classic Village People track.",
+      "date": "2026-05-03T20:11:54.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/charli-xcx-rock-music-song-not-album-1236237667/",
-      "title": "Charli xcx Shares &#8216;Rock Music&#8217; Song Teaser, Says She&#8217;s Not Making a Rock&#160;Album",
-      "link": "https://www.billboard.com/music/music-news/charli-xcx-rock-music-song-not-album-1236237667/",
-      "description": "\"I never said I was making a rock album,\" Charli clarifies -- contrary to reports assuming otherwise last month.",
-      "date": "2026-05-02T23:10:15.000Z",
+      "id": "https://variety.com/2026/music/news/noah-kahan-scores-first-no-1-albums-chart-the-great-divide-1236736424/",
+      "title": "Noah Kahan Scores First No. 1 on Albums Chart With &#8216;The Great Divide&#8217;",
+      "link": "https://variety.com/2026/music/news/noah-kahan-scores-first-no-1-albums-chart-the-great-divide-1236736424/",
+      "description": "Noah Kahan has scored his first No. 1 on the Billboard 200 chart with his fourth album &#8220;The Great Divide,&#8221; opening with 389,000 equivalent album units. Kahan&#8217;s debut marks the bigges…",
+      "date": "2026-05-03T20:05:50.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+      "title": "Michael Jackson Film Moves Up Our List of Highest-Grossing Music Biopics Worldwide: See Where It&#160;Ranks",
+      "link": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+      "description": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+      "date": "2026-05-03T19:38:47.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-number-one-billboard-200-chart-1236237889/",
+      "title": "Noah Kahan Earns First No. 1 Album on Billboard 200 With ‘The Great&#160;Divide’",
+      "link": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-number-one-billboard-200-chart-1236237889/",
+      "description": "Plus: Kehlani’s self-titled set debuts in the top five, while Michael Jackson’s Thriller returns to the top 10.",
+      "date": "2026-05-03T19:00:01.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/amy-allen-sony-music-publishing-die-with-a-smile-among-big-winners-at-2026-ascap-pop-music-awards/",
+      "title": "Amy Allen, Sony Music Publishing ,&#8217;Die With a Smile&#8217; among big winners at 2026 ASCAP Pop Music Awards",
+      "link": "https://www.musicbusinessworldwide.com/amy-allen-sony-music-publishing-die-with-a-smile-among-big-winners-at-2026-ascap-pop-music-awards/",
+      "description": "\"We are honored to be named ASCAP's Pop Publisher of the Year,\" said Katie Welle, Sony Music Publishing President, Head of A&#038;R.\nSource",
+      "date": "2026-05-03T18:59:28.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/warner-music-group-named-to-times-list-of-100-most-influential-companies-for-its-approach-to-ai/",
+      "title": "Warner Music Group named to TIME&#8217;s list of 100 Most Influential Companies for its approach to AI",
+      "link": "https://www.musicbusinessworldwide.com/warner-music-group-named-to-times-list-of-100-most-influential-companies-for-its-approach-to-ai/",
+      "description": "Robert Kyncl told the magazine: \"AI is a fast-growing phenomenon. It's really important that companies like us stand up for artists and songwriters — do it early, and do it together with AI companies.…",
+      "date": "2026-05-03T18:52:20.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/culture/tv-film/devil-wears-prada-2-number-one-box-office-77-million-debut-1236237914/",
+      "title": "&#8216;The Devil Wears Prada 2&#8217; Struts to No. 1 at Box Office With $77M&#160;Debut",
+      "link": "https://www.billboard.com/culture/tv-film/devil-wears-prada-2-number-one-box-office-77-million-debut-1236237914/",
+      "description": "The sequel to the 2006 film The Devil Wears Prada opened in 4,150 theaters across North America.",
+      "date": "2026-05-03T18:47:11.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/suno-is-now-the-controller-of-songkick-user-data-and-is-hiring-a-gm-to-wire-it-into-its-ai-music-platform/",
+      "title": "Suno is now the &#8216;controller&#8217; of Songkick user data – and is hiring a GM to wire it into its AI music platform",
+      "link": "https://www.musicbusinessworldwide.com/suno-is-now-the-controller-of-songkick-user-data-and-is-hiring-a-gm-to-wire-it-into-its-ai-music-platform/",
+      "description": "Emails sent to Songkick users on Thursday (April 30) confirmed that personal data held by the platform \"will be transferred to Suno, who will become the controller responsible for that data going forw…",
+      "date": "2026-05-03T18:25:12.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/olivia-rodrigo-snl-monologue-jake-paul-drivers-license-1236237905/",
+      "title": "Olivia Rodrigo Jokes About Jake Paul, Performs &#8216;Drivers License&#8217; Parody in &#8216;SNL&#8217; Monologue:&#160;Watch",
+      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-snl-monologue-jake-paul-drivers-license-1236237905/",
+      "description": "The pop star pulled double duty as host and musical guest on May 2.",
+      "date": "2026-05-03T18:13:17.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/latin/laura-pausini-ana-torroja-sing-hijo-de-la-luna-tour-mexico-1236237887/",
+      "title": "Laura Pausini Fulfills Her Dream of Singing &#8216;Hijo de la Luna&#8217; With Ana Torroja in&#160;Mexico",
+      "link": "https://www.billboard.com/music/latin/laura-pausini-ana-torroja-sing-hijo-de-la-luna-tour-mexico-1236237887/",
+      "description": "The Italian star had Achille Lauro as a guest at her May 2 show in Mexico City.",
+      "date": "2026-05-03T17:47:24.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/connor-storrie-snl-olivia-rodrigo-new-song-begged-1236237883/",
+      "title": "Connor Storrie Makes Surprise ‘SNL’ Cameo to Introduce Olivia Rodrigo&#8217;s New Song:&#160;Watch",
+      "link": "https://www.billboard.com/music/music-news/connor-storrie-snl-olivia-rodrigo-new-song-begged-1236237883/",
+      "description": "The Heated Rivalry star hosted the comedy show earlier in the year.",
+      "date": "2026-05-03T17:27:06.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://completemusicupdate.com/jobs/deputy-general-manager-o2-academy-oxford/",
+      "title": "Deputy General Manager // O2 Academy Oxford",
+      "link": "https://completemusicupdate.com/jobs/deputy-general-manager-o2-academy-oxford/",
+      "description": "Academy Music Group are seeking a Deputy General Manager for O2 Academy Oxford. Closes Monday 18th May.",
+      "date": "2026-05-03T11:20:16.000Z",
+      "source": "Complete Music Update",
+      "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/tv/news/connor-storrie-introduces-olivia-rodrigo-snl-new-song-1236736153/",
+      "title": "Connor Storrie Introduces Olivia Rodrigo as She Debuts New Song &#8216;Begged&#8217; From Upcoming Album on &#8216;SNL&#8217;",
+      "link": "https://variety.com/2026/tv/news/connor-storrie-introduces-olivia-rodrigo-snl-new-song-1236736153/",
+      "description": "&#8220;Heated Rivalry&#8221; star Connor Storrie introduced Olivia Rodrigo for her second performance on &#8220;Saturday Night Live,&#8221; where she debuted a new, unreleased song from her upcoming a…",
+      "date": "2026-05-03T05:08:17.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
       "category": "Business & Finance"
     },
     {
@@ -62,16 +222,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/chris-brown-la-home-shooting-suspect-taken-into-custody-1236237657/",
-      "title": "Suspect Taken Into Custody in Shooting Near Chris Brown’s L.A.&#160;Home",
-      "link": "https://www.billboard.com/music/music-news/chris-brown-la-home-shooting-suspect-taken-into-custody-1236237657/",
-      "description": "Shots were reportedly fired outside the singer’s residence on May 1.",
-      "date": "2026-05-02T20:29:08.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/pete-hegseth-kid-rock-apache-helicopters-freedom-250-tour-1236736080/",
       "title": "Pete Hegseth and Kid Rock High Five and Fly Apache Helicopters in Pre-Show Hype Video for Freedom 250 Tour",
       "link": "https://variety.com/2026/music/news/pete-hegseth-kid-rock-apache-helicopters-freedom-250-tour-1236736080/",
@@ -82,16 +232,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/country/morgan-wallen-calls-out-people-bailed-walkout-las-vegas-1236237646/",
-      "title": "Morgan Wallen Calls Out Celebs Who Bailed Last-Minute on Walkout at Las Vegas Show: &#8216;Y’all Got Some Flaky A— People in This&#160;Town&#8217;",
-      "link": "https://www.billboard.com/music/country/morgan-wallen-calls-out-people-bailed-walkout-las-vegas-1236237646/",
-      "description": "The country star opened his back-to-back run at Allegiant Stadium on May 1.",
-      "date": "2026-05-02T18:51:04.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/barry-manilow-pushes-las-vegas-dates-cancer-recovery-1236736060/",
       "title": "Barry Manilow Postpones Las Vegas Dates, but Says He&#8217;s Making &#8216;Great Progress&#8217; in Cancer Recovery",
       "link": "https://variety.com/2026/music/news/barry-manilow-pushes-las-vegas-dates-cancer-recovery-1236736060/",
@@ -99,36 +239,6 @@
       "date": "2026-05-02T18:14:12.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/tv-film/madonna-anna-wintour-confessions-promo-devil-wears-prada-2-1236237633/",
-      "title": "Madonna &#038; Anna Wintour Appear in ‘Confessions II’ Theatrical Promo Ahead of ‘Devil Wears Prada&#160;2’",
-      "link": "https://www.billboard.com/culture/tv-film/madonna-anna-wintour-confessions-promo-devil-wears-prada-2-1236237633/",
-      "description": "The pop icon's 15th studio album arrives on July 3.",
-      "date": "2026-05-02T17:47:11.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-      "title": "Every Song That Topped the UK Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot&#160;100",
-      "link": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-      "description": "\"Rein Me In” by Sam Fender and Olivia Dean is now in its ninth week at No. 1 in the U.K., but it’s been slower breaking through on the Hot 100.",
-      "date": "2026-05-02T16:58:01.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-saturday-night-live-watch-livestream-free-1236234206/",
-      "title": "Olivia Rodrigo on &#8216;SNL&#8217;: How to Watch the Pop Star Host and Perform as Music Guest Live Online for&#160;Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-saturday-night-live-watch-livestream-free-1236234206/",
-      "description": "The singer-songwriter hosts and performs as musical guest on May 2.",
-      "date": "2026-05-02T14:53:30.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -162,11 +272,21 @@
       "category": "Industry"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/05/01/ftc-live-nation-bots-act-lawsuit/",
+      "title": "What&#8217;s Next in the FTC&#8217;s Live Nation/Ticketmaster Lawsuit? BOTS Act Case Takes Center Stage Following States&#8217; Antitrust Trial Win",
+      "link": "https://www.digitalmusicnews.com/2026/05/01/ftc-live-nation-bots-act-lawsuit/",
+      "description": "Following a federal ruling confirming that the BOTS Act doesn’t just apply to bot-powered ticket purchases – or individuals – where does the FTC v. Live Nation case go from here? That pressing questio…",
+      "date": "2026-05-02T00:00:49.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://www.digitalmusicnews.com/2026/05/01/spotify-payola-lawsuit-arbitration/",
       "title": "Federal Judge Shuts Down Spotify &#8216;Payola&#8217; Class Action &#8212; Case Officially Stayed, Ordered to Arbitration",
       "link": "https://www.digitalmusicnews.com/2026/05/01/spotify-payola-lawsuit-arbitration/",
       "description": "Six months later, a federal judge has shut down a lawsuit centering on Spotify’s allegedly deceptive editorial playlist placements and algorithmic recommendations. Now, the proposed class action compl…",
-      "date": "2026-05-01T21:41:58.000Z",
+      "date": "2026-05-01T23:00:58.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
@@ -180,16 +300,6 @@
       "source": "Variety",
       "sourceId": "variety-music",
       "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/01/instagram-debuts-more-original-content-protections-for-creators/",
-      "title": "Instagram Debuts More ‘Original Content’ Protections for Creators",
-      "link": "https://www.digitalmusicnews.com/2026/05/01/instagram-debuts-more-original-content-protections-for-creators/",
-      "description": "Instagram announces that accounts regularly reposting content they didn’t create will no longer be eligible for recommendations across the platform. On Thursday, Instagram announced some changes to en…",
-      "date": "2026-05-01T19:49:03.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
     },
     {
       "id": "https://variety.com/2026/music/news/avex-100-million-for-catalog-acquisitions-1236732678/",
@@ -219,16 +329,6 @@
       "date": "2026-05-01T19:37:22.000Z",
       "source": "RAIN News",
       "sourceId": "rain",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/01/ftc-live-nation-bots-act-lawsuit/",
-      "title": "What&#8217;s Next in the FTC&#8217;s Live Nation/Ticketmaster Lawsuit? BOTS Act Case Takes Center Stage Following States&#8217; Antitrust Trial Win",
-      "link": "https://www.digitalmusicnews.com/2026/05/01/ftc-live-nation-bots-act-lawsuit/",
-      "description": "Following a federal ruling confirming that the BOTS Act doesn’t just apply to bot-powered ticket purchases – or individuals – where does the FTC v. Live Nation case go from here? That pressing questio…",
-      "date": "2026-05-01T18:57:49.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -270,26 +370,6 @@
       "source": "Music Business Worldwide",
       "sourceId": "mbw",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/acm-awards-performers-ella-langley-zach-top-country-music-1236735442/",
-      "title": "ACM Awards Add Ella Langley, Zach Top, Red Clay Strays, Jordan Davis and Others as Performers for Telecast",
-      "link": "https://variety.com/2026/music/news/acm-awards-performers-ella-langley-zach-top-country-music-1236735442/",
-      "description": "The Academy of Country Music has announced a round of performers for the upcoming ACM Awards in Las Vegas, including two of the top nominees, Ella Langley and Zach Top, along with other favorites rang…",
-      "date": "2026-05-01T16:01:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/scene/news/hudson-williams-ejae-zohran-mamdani-gold-house-gold100-list-1236733108/",
-      "title": "Hudson Williams, EJAE, Zohran Mamdani and More Honored on Gold House’s Gold100 List",
-      "link": "https://variety.com/2026/scene/news/hudson-williams-ejae-zohran-mamdani-gold-house-gold100-list-1236733108/",
-      "description": "&#8220;Heated Rivalry&#8221; star Hudson Williams, singer and songwriter EJAE and New York mayor Zohran Mamdani are among those being honored on Gold House&#8216;s Gold100 list. Previously known as th…",
-      "date": "2026-05-01T16:00:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.riaa.com/ustr-special-301-report-upholds-intellectual-property-as-us-trade-priority/",
@@ -472,6 +552,16 @@
       "category": "Industry"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/05/01/instagram-debuts-more-original-content-protections-for-creators/",
+      "title": "Instagram Debuts More ‘Original Content’ Protections for Creators",
+      "link": "https://www.digitalmusicnews.com/2026/05/01/instagram-debuts-more-original-content-protections-for-creators/",
+      "description": "Instagram announces that accounts regularly reposting content they didn’t create will no longer be eligible for recommendations across the platform. On Thursday, Instagram announced some changes to en…",
+      "date": "2026-05-01T10:49:03.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://www.digitalmusicnews.com/2026/04/30/youtube-music-subscribers-q1-2026/",
       "title": "What Streaming Plateau? YouTube Music and Premium Achieved Record Subscriber Growth in Q1 2026, Alphabet CEO Says",
       "link": "https://www.digitalmusicnews.com/2026/04/30/youtube-music-subscribers-q1-2026/",
@@ -612,16 +702,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.musicbusinessworldwide.com/believe-and-tunecore-blocking-suno-elevenlabs-and-udio/",
-      "title": "Believe and TuneCore are blocking distribution of Generative AI tracks made on &#8216;pirate studios&#8217; like Suno – while inking new partnerships with ElevenLabs and Udio",
-      "link": "https://www.musicbusinessworldwide.com/believe-and-tunecore-blocking-suno-elevenlabs-and-udio/",
-      "description": "Denis Ladegaillerie walks MBW through company's new policy – and gives his thoughts on AI, Ackman, and more\nSource",
-      "date": "2026-04-30T15:54:48.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
       "id": "https://completemusicupdate.com/approved-basht/",
       "title": "🎧Approved: Basht.",
       "link": "https://completemusicupdate.com/approved-basht/",
@@ -629,16 +709,6 @@
       "date": "2026-04-30T15:20:39.000Z",
       "source": "Complete Music Update",
       "sourceId": "cmu",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/symphonic-targets-catalog-acquisitions-and-indie-artist-financing-deals-with-launch-of-symphonic-next/",
-      "title": "Symphonic targets catalog acquisitions and indie artist financing deals with launch of Symphonic NEXT",
-      "link": "https://www.musicbusinessworldwide.com/symphonic-targets-catalog-acquisitions-and-indie-artist-financing-deals-with-launch-of-symphonic-next/",
-      "description": "Michelle Garramone, who recently joined Symphonic as Head of Strategic Partnerships, will lead the new initiative.\nSource",
-      "date": "2026-04-30T14:24:13.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
       "category": "Industry"
     },
     {
@@ -650,16 +720,6 @@
       "source": "Music Ally",
       "sourceId": "musically",
       "category": "Technology"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/indias-times-music-buys-punjabi-record-label-catrack-entertainment-in-third-acquisition-since-striking-100m-jv-with-primary-wave/",
-      "title": "India&#8217;s Times Music buys Punjabi record label Catrack Entertainment — in third acquisition since striking $100m JV with Primary Wave",
-      "link": "https://www.musicbusinessworldwide.com/indias-times-music-buys-punjabi-record-label-catrack-entertainment-in-third-acquisition-since-striking-100m-jv-with-primary-wave/",
-      "description": "Punjabi specialist Catrack was founded in 1990, with a catalog that spans what the company describes as a 'golden era' of the genre.\nSource",
-      "date": "2026-04-30T13:29:58.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
     },
     {
       "id": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
@@ -1282,16 +1342,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://completemusicupdate.com/music-streaming-services-targeted-as-texas-attorney-general-launches-payola-investigation/",
-      "title": "Music streaming services targeted as Texas Attorney General launches payola investigation",
-      "link": "https://completemusicupdate.com/music-streaming-services-targeted-as-texas-attorney-general-launches-payola-investigation/",
-      "description": "The Attorney General of Texas has launched an investigation into payola in music streaming. He wants to know if any music companies have “undisclosed financial arrangements” with the streaming service…",
-      "date": "2026-04-24T15:34:55.000Z",
-      "source": "Complete Music Update",
-      "sourceId": "cmu",
-      "category": "Industry"
-    },
-    {
       "id": "https://www.digitalmusicnews.com/2026/04/24/suno-universal-music-lawsuit/",
       "title": "Universal Music and Sony Music Aggressively Push to Obtain Warner Music&#8217;s Suno Agreement Terms Amid Discovery Dispute &#8212; As Another &#8216;Rolling Cipher&#8217; Decision Comes Down",
       "link": "https://www.digitalmusicnews.com/2026/04/24/suno-universal-music-lawsuit/",
@@ -1737,56 +1787,6 @@
       "link": "https://www.digitalmusicnews.com/2026/04/20/umg-concord-quince-social-media-infringement/",
       "description": "Universal Music Group and Concord sue fashion startup Quince for “rampant and brazen” copyright infringement on social media posts. Universal Music Group (UMG) and Concord Music Group, along with Capi…",
       "date": "2026-04-21T05:06:24.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/20/deezer-ai-music-detection/",
-      "title": "Deezer Now Identifies Nearly 75,000 &#8216;Fully AI-Generated&#8217; Uploads Per Day, Up 650% from January 2025",
-      "link": "https://www.digitalmusicnews.com/2026/04/20/deezer-ai-music-detection/",
-      "description": "First, the good news: Machine-made audio still accounts for a small percentage of Deezer’s total streams. As for the bad news, 44% of daily uploads – roughly 75,000 tracks – are now “fully” generated…",
-      "date": "2026-04-21T03:00:06.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/20/drake-not-like-us-lawsuit/",
-      "title": "Drake Comes Out Swinging Against Universal Music in &#8216;Not Like Us&#8217; Suit Appeal; Accuses UMG Of Wanting a &#8216;Free Pass for Defamation&#8217;",
-      "link": "https://www.digitalmusicnews.com/2026/04/20/drake-not-like-us-lawsuit/",
-      "description": "Can a diss track go too far? Kendrick Lamar’s “Not Like Us” caused the public to view Drake “as another Jeffrey Epstein” – at least according to Drake himself, who&#8217;s come out swinging against Un…",
-      "date": "2026-04-21T00:59:01.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/20/pops-slump-continues-into-2026-as-global-charts-remain-stagnant/",
-      "title": "The Data Deep-Dive: Pop&#8217;s Slump Continues Into 2026 as Global Charts Remain Stagnant",
-      "link": "https://www.digitalmusicnews.com/2026/04/20/pops-slump-continues-into-2026-as-global-charts-remain-stagnant/",
-      "description": "After a massive year for pop in 2024, the charts have slowed to a crawl. New releases are struggling to compete with long-running hits and resurgent catalog tracks, leaving 2025 –and early 2026– defin…",
-      "date": "2026-04-21T00:03:24.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/20/live-nation-ticketmaster-dc-fine/",
-      "title": "Live Nation/Ticketmaster Ordered to Pay $9.9 Million Back to Residents of Washington, DC",
-      "link": "https://www.digitalmusicnews.com/2026/04/20/live-nation-ticketmaster-dc-fine/",
-      "description": "Live Nation and Ticketmaster will be required to pay $9.9 million for its misleading ticketing practices, the D.C. Attorney General announced. On Monday, Washington D.C. Attorney General Brian L. Schw…",
-      "date": "2026-04-20T23:18:30.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/20/amy-winehouse-dad-court-auction/",
-      "title": "Amy Winehouse&#8217;s Father Loses Court Battle v. Friends Over Auctioned Items",
-      "link": "https://www.digitalmusicnews.com/2026/04/20/amy-winehouse-dad-court-auction/",
-      "description": "Amy Winehouse’s father, Mitch Winehouse, has lost his court case versus friends who auctioned dozens of her belongings. The case was brought against Naomi Parry and Catriona Gourlay, who Mitch Winehou…",
-      "date": "2026-04-20T23:11:53.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
