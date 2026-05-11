@@ -1,35 +1,185 @@
 {
-  "generated": "2026-05-10T08:18:36.526Z",
+  "generated": "2026-05-11T09:54:42.191Z",
   "articles": [
     {
-      "id": "https://www.billboard.com/culture/tv-film/snl-weekend-update-tucker-carlson-met-gala-1236243754/",
-      "title": "&#8216;SNL&#8217; Weekend Update: Tucker Carlson Rants About the Met&#160;Gala",
-      "link": "https://www.billboard.com/culture/tv-film/snl-weekend-update-tucker-carlson-met-gala-1236243754/",
-      "description": "The former Fox News host was portrayed by featured player Jeremy Culhane.",
-      "date": "2026-05-10T07:19:19.000Z",
+      "id": "https://www.billboard.com/music/music-news/keli-holiday-denied-us-reentry-1236244038/",
+      "title": "Keli Holiday Says U.S. Entry Was Revoked Mid-Tour, Forcing Cancellation of New York&#160;Show",
+      "link": "https://www.billboard.com/music/music-news/keli-holiday-denied-us-reentry-1236244038/",
+      "description": "\"I have spent all day detained at the Canadian border and denied entry back into the U.S. despite having the proper visa documentation in place,\" the Australian artist explained.",
+      "date": "2026-05-11T08:23:07.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/culture/tv-film/noah-kahan-snl-musical-guest-host-matt-damon-1236243751/",
-      "title": "Noah Kahan Performs &#8216;Doors&#8217; and &#8216;The Great Divide&#8217; on &#8216;SNL&#8217; in Second Musical Guest&#160;Appearance",
-      "link": "https://www.billboard.com/culture/tv-film/noah-kahan-snl-musical-guest-host-matt-damon-1236243751/",
-      "description": "The Grammy-nominated singer-songwriter appeared on the show two weeks after releasing The Great Divide.",
-      "date": "2026-05-10T06:45:52.000Z",
+      "id": "https://www.billboard.com/music/music-news/ella-mai-teases-do-you-still-love-me-tour-saint-lucia-jazz-1236244063/",
+      "title": "Ella Mai Teases Upcoming Do You Still Love Me Tour: &#8216;We Want to Step It Up a&#160;Bit&#8217;",
+      "link": "https://www.billboard.com/music/music-news/ella-mai-teases-do-you-still-love-me-tour-saint-lucia-jazz-1236244063/",
+      "description": "Billboard caught up with R&#38;B star after her performance at this year's Saint Lucia Jazz &#38; Arts Festival.",
+      "date": "2026-05-11T08:20:26.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/lists/aitana-kuarto-azul-tour-setlist-songs-almeria-spain/",
-      "title": "Aitana Kicks Off Her Cuarto Azul World Tour With Intimate, Emotional Show: Full&#160;Setlist",
-      "link": "https://www.billboard.com/lists/aitana-kuarto-azul-tour-setlist-songs-almeria-spain/",
-      "description": "Here are all the songs the star performed at her inaugural concert on May 9 in Almería, Spain.",
-      "date": "2026-05-10T03:15:44.000Z",
+      "id": "https://www.billboard.com/music/rb-hip-hop/ken-carson-rolling-loud-orlando-recap-young-thug-playboi-carti-1236244021/",
+      "title": "Ken Carson Kicks Off &#8216;The Xperiment&#8217; Rollout With Star-Studded Rolling Loud Orlando Set Feat. Playboi Carti, Young Thug, Destroy Lonely &#038; Lil&#160;Tecca",
+      "link": "https://www.billboard.com/music/rb-hip-hop/ken-carson-rolling-loud-orlando-recap-young-thug-playboi-carti-1236244021/",
+      "description": "The Opium rapper replaced NBA YoungBoy as Sunday night's (May 10) headliner.",
+      "date": "2026-05-11T08:16:17.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/best-new-music-muna-dancing-on-the-wall-1236244036/",
+      "title": "Fans Choose MUNA&#8217;s &#8216;Dancing on the Wall&#8217; as This Week&#8217;s Favorite New&#160;Music",
+      "link": "https://www.billboard.com/music/music-news/best-new-music-muna-dancing-on-the-wall-1236244036/",
+      "description": "Dancing on the Wall rose to the top in a week that also featured Charli xcx's hotly anticipated genre-pivot single \"Rock Music.\"",
+      "date": "2026-05-11T05:52:13.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/10/jason-derulo-sony-copyright-lawsuit-savage-love/",
+      "title": "Jason Derulo, Sony Music Triumph in Heated ‘Savage Love’ Copyright Infringement Lawsuit",
+      "link": "https://www.digitalmusicnews.com/2026/05/10/jason-derulo-sony-copyright-lawsuit-savage-love/",
+      "description": "A federal jury ruled in favor of Jason Derulo in a copyright dispute filed against him and Sony Music over his hit “Savage Love (Laxed &#8211; Siren Beat).” On Thursday (May 7), a federal jury in Los…",
+      "date": "2026-05-11T05:32:16.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/10/hybe-newjeans-copyright-infringement-lawsuit-how-sweet/",
+      "title": "Hybe, NewJeans Slapped With Copyright Infringement Lawsuit Over ‘How Sweet’",
+      "link": "https://www.digitalmusicnews.com/2026/05/10/hybe-newjeans-copyright-infringement-lawsuit-how-sweet/",
+      "description": "The members of NewJeans, as well as their label partners Ador and Hybe, are being sued for copyright infringement over the group’s hit “How Sweet”. A group of four songwriters is suing the members of…",
+      "date": "2026-05-11T05:08:03.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/10/olivia-rodrigo-adds-more-tour-dates-2026/",
+      "title": "More Supply Helps: Olivia Rodrigo ‘Unravels’ 25 More Dates, With Mini-Residencies In NY, LA, London, Amsterdam",
+      "link": "https://www.digitalmusicnews.com/2026/05/10/olivia-rodrigo-adds-more-tour-dates-2026/",
+      "description": "To help meet demand, Olivia Rodrigo expands her world tour with 25 new dates, including 11 nights in London and 10 each in Brooklyn and Los Angeles. Olivia Rodrigo quickly sold out her global arena ou…",
+      "date": "2026-05-11T05:04:42.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/10/dua-lipa-samsung-likeness-lawsuit/",
+      "title": "Dua Lipa Sues Samsung for $15 Million Over a Seriously Strange Brand Sponsorship",
+      "link": "https://www.digitalmusicnews.com/2026/05/10/dua-lipa-samsung-likeness-lawsuit/",
+      "description": "Dua Lipa has filed a $15 million lawsuit against Samsung, claiming the company used her image to sell TVs without permission and without paying her. But did Samsung really whip up an entire brand spon…",
+      "date": "2026-05-11T04:58:23.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/eric-church-unc-chapel-hill-graduation-speech-2206-1236244006/",
+      "title": "Eric Church Delivers UNC-Chapel Hill Commencement Speech Like a Guitar Lesson, Performs &#8216;Carolina&#8217; for&#160;Grads",
+      "link": "https://www.billboard.com/music/music-news/eric-church-unc-chapel-hill-graduation-speech-2206-1236244006/",
+      "description": "Church shared words with the class of 2026 the best way he knows how -- with his guitar.",
+      "date": "2026-05-11T02:42:22.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/dua-lipa-samsung-lawsuit-15-million-tv-boxes-1236243996/",
+      "title": "Dua Lipa Sues Samsung for $15 Million Over &#8216;Unauthorized Commercial Exploitation&#8217; of Her Image on TV&#160;Boxes",
+      "link": "https://www.billboard.com/music/music-news/dua-lipa-samsung-lawsuit-15-million-tv-boxes-1236243996/",
+      "description": "The lawsuit includes complaints of copyright infringement, trademark infringement and violation of Dua Lipa's right of publicity.",
+      "date": "2026-05-10T23:59:50.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/morgan-wallen-caitlin-clark-walkout-indianapolis-concert-1236243974/",
+      "title": "Morgan Wallen Walks Out With Caitlin Clark at Indianapolis Stadium&#160;Concert",
+      "link": "https://www.billboard.com/music/music-news/morgan-wallen-caitlin-clark-walkout-indianapolis-concert-1236243974/",
+      "description": "The WNBA star made a stadium entrance with Wallen following Indiana Fever's game against the Dallas Wings on Saturday (May 9).",
+      "date": "2026-05-10T22:03:05.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+      "title": "&#8216;Michael&#8217; Becomes 2nd Music Biopic to Top $500 Million in Global Boxoffice Grosses: See the Full&#160;List",
+      "link": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+      "description": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+      "date": "2026-05-10T20:44:49.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+      "link": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "description": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice…",
+      "date": "2026-05-10T20:42:08.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/kacey-musgraves-billboard-noah-kahan-michael-jackson-albums-1236744199/",
+      "title": "Kacey Musgraves Has Career-Best Opening Week With &#8216;Middle of Nowhere,&#8217; as Michael Jackson Lands Two Albums in the Top 10",
+      "link": "https://variety.com/2026/music/news/kacey-musgraves-billboard-noah-kahan-michael-jackson-albums-1236744199/",
+      "description": "It&#8217;s anything but a dry spell commercially for Kacey Musgraves right now, as her &#8220;Middle of Nowhere&#8221; album debuted with the best opening-week numbers of her career to date, 100,000 e…",
+      "date": "2026-05-10T20:30:10.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/rock/slipknot-shawn-crahan-clown-heart-surgery-rick-rubin-1236243964/",
+      "title": "Slipknot’s M. Shawn Crahan Reveals He Needs Heart&#160;Surgery",
+      "link": "https://www.billboard.com/music/rock/slipknot-shawn-crahan-clown-heart-surgery-rick-rubin-1236243964/",
+      "description": "The percussionist shared the news during an appearance on Rick Rubin’s Tetragrammaton podcast.",
+      "date": "2026-05-10T20:16:24.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/rita-wilson-music-sound-woman-album-interview-1236741922/",
+      "title": "Rita Wilson on Her &#8216;Sound of a Woman&#8217; Album, Growing Up a Music Lover in L.A. and the Advice From Nora Ephron and Bruce Springsteen That Kickstarted Her Second Act",
+      "link": "https://variety.com/2026/music/news/rita-wilson-music-sound-woman-album-interview-1236741922/",
+      "description": "Rita Wilson is hardly the first Hollywood actress who&#8217;s complained of a dearth of interesting parts for women, or to have met that by realizing that she might have to proactively create challeng…",
+      "date": "2026-05-10T19:55:17.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-second-week-atop-billboard-200-1236243954/",
+      "title": "Noah Kahan’s ‘The Great Divide’ Spends Second Week Atop Billboard&#160;200",
+      "link": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-second-week-atop-billboard-200-1236243954/",
+      "description": "Plus: Kacey Musgraves has the week’s top debut, while Michael Jackson has two albums in the top 10.",
+      "date": "2026-05-10T19:02:45.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
+      "title": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
+      "link": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
+      "description": "I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their de…",
+      "date": "2026-05-10T16:52:41.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
     },
     {
       "id": "https://variety.com/2026/music/news/dua-lipa-sues-samsung-sell-tvs-1236742471/",
@@ -39,46 +189,6 @@
       "date": "2026-05-10T00:55:21.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/tv-film/riley-green-the-voice-coach-season-30-1236243535/",
-      "title": "Riley Green Joining &#8216;The Voice&#8217; as Coach for Season&#160;30",
-      "link": "https://www.billboard.com/culture/tv-film/riley-green-the-voice-coach-season-30-1236243535/",
-      "description": "The country star will serve alongside previously announced coaches Kelly Clarkson and Adam Levine.",
-      "date": "2026-05-09T22:56:07.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/charli-xcx-keep-on-thinking-bout-you-every-single-day-night-1236243591/",
-      "title": "Charli xcx Releases &#8216;I Keep On Thinking Bout You Every Single Day and Night&#8217; as &#8216;Rock Music&#8217; Vinyl&#160;B-Side",
-      "link": "https://www.billboard.com/music/music-news/charli-xcx-keep-on-thinking-bout-you-every-single-day-night-1236243591/",
-      "description": "There's a music video on Charli's Instagram side account, but the track is otherwise exclusive to the \"Rock Music\" 7\" single.",
-      "date": "2026-05-09T22:44:30.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/tekashi-6ix9ine-girlfriend-abortion-if-not-boy-1236243588/",
-      "title": "6ix9ine Makes Shocking Comments About Girlfriend’s Pregnancy at Gender Reveal&#160;Party",
-      "link": "https://www.billboard.com/music/music-news/tekashi-6ix9ine-girlfriend-abortion-if-not-boy-1236243588/",
-      "description": "The rapper’s girlfriend, Aliday Alter, revealed her pregnancy in April.",
-      "date": "2026-05-09T19:22:32.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/lists/grammy-hall-of-fame-gala-2026-highlights-janet-jackson/",
-      "title": "8 Highlights From 2026 Grammy Hall of Fame Gala: Janet Jackson, Heart, Lucinda Williams &#038;&#160;More",
-      "link": "https://www.billboard.com/lists/grammy-hall-of-fame-gala-2026-highlights-janet-jackson/",
-      "description": "The third annual gala was a diverse and eclectic program.",
-      "date": "2026-05-09T18:01:34.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -92,16 +202,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-2026-2027-tour-tickets-buy-online-1236243454/",
-      "title": "Olivia Rodrigo &#8216;Unraveled&#8217; Tour 2026-27: Here&#8217;s Where to Get Affordable Concert Tickets&#160;Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-2026-2027-tour-tickets-buy-online-1236243454/",
-      "description": "Starting on Sept. 25, the pop star hits the road with tour dates across the U.S.",
-      "date": "2026-05-09T17:23:27.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/jake-shane-kacey-musgraves-time-zone-lyric-slow-burn-1236742359/",
       "title": "Jake Shane Slammed Online for Asking Kacey Musgraves to Explain Time Zone Lyric: &#8216;Literally Just Means What it Means&#8217;",
       "link": "https://variety.com/2026/music/news/jake-shane-kacey-musgraves-time-zone-lyric-slow-burn-1236742359/",
@@ -112,24 +212,14 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/matt-damon-noah-kahan-snl-watch-livestream-free-1236243383/",
-      "title": "Matt Damon and Noah Kahan on &#8216;SNL&#8217;: How to Watch the Sketch Comedy TV Series Live&#160;Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/matt-damon-noah-kahan-snl-watch-livestream-free-1236243383/",
-      "description": "Livestream a new episode of Saturday Night Live on May 9 for free.",
-      "date": "2026-05-09T15:37:32.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/product-recommendations/ufc-328-chimaev-strickland-how-to-watch-mma-online-free-1236239553/",
-      "title": "UFC 328 Livestream: Here&#8217;s Where to Watch Khamzat Chimaev vs. Sean Strickland Live&#160;Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/ufc-328-chimaev-strickland-how-to-watch-mma-online-free-1236239553/",
-      "description": "Watch the entire MMA event, including the middleweight title bout, live on May 9.",
-      "date": "2026-05-09T14:58:39.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/05/08/is-the-wasserman-sorry-the-team-sale-still-happening/",
+      "title": "Is the Wasserman (Sorry, ‘The Team’) Sale Still Happening?",
+      "link": "https://www.digitalmusicnews.com/2026/05/08/is-the-wasserman-sorry-the-team-sale-still-happening/",
+      "description": "The pool seems to have narrowed for contenders to buy the talent agency, but whether a sale actually takes place remains up in the air. Here’s the latest. The Team, the Westwood-based talent agency fo…",
+      "date": "2026-05-09T06:00:22.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/05/08/live-nation-penalties/",
@@ -147,16 +237,6 @@
       "link": "https://www.digitalmusicnews.com/2026/05/08/music-industry-hires-may-8-2026/",
       "description": "Here’s a recap of recent music industry hires and in-house promotions as of May 8th, 2026. If you have a job shuffle to share, we’re all ears. Send us a note to news@digitalmusicnews.com. If you’d lik…",
       "date": "2026-05-09T00:29:40.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/08/is-the-wasserman-sorry-the-team-sale-still-happening/",
-      "title": "Is the Wasserman (Sorry, ‘The Team’) Sale Still Happening?",
-      "link": "https://www.digitalmusicnews.com/2026/05/08/is-the-wasserman-sorry-the-team-sale-still-happening/",
-      "description": "The pool seems to have narrowed for contenders to buy the talent agency, but whether a sale actually takes place remains up in the air. Here’s the latest. The Team, the Westwood-based talent agency fo…",
-      "date": "2026-05-08T22:12:22.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
@@ -302,16 +382,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/music/news/ariana-grande-hate-that-i-made-you-love-me-song-may-release-1236741601/",
-      "title": "Ariana Grande to Release First Song From &#8216;Petal&#8217; in May: &#8216;Hate That I Made You Love Me&#8217; Is &#8216;One of My Favorite Songs I&#8217;ll Ever Write&#8217;",
-      "link": "https://variety.com/2026/music/news/ariana-grande-hate-that-i-made-you-love-me-song-may-release-1236741601/",
-      "description": "Ariana Grande has announced the first single from “Petal,” her forthcoming eighth studio album: It’s called “Hate That I Made You Love Me,” it’s out on May 29 and she described the song in an Instagra…",
-      "date": "2026-05-08T15:21:06.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.theverge.com/entertainment/926841/native-instruments-inmusic",
       "title": "The company that owns Moog, Akai Pro, and Numark is buying Native Instruments",
       "link": "https://www.theverge.com/entertainment/926841/native-instruments-inmusic",
@@ -320,16 +390,6 @@
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/allison-russell-third-album-in-hour-of-chaos-cold-april-1236741452/",
-      "title": "Allison Russell Announces Third Album, &#8216;In the Hour of Chaos&#8217;",
-      "link": "https://variety.com/2026/music/news/allison-russell-third-album-in-hour-of-chaos-cold-april-1236741452/",
-      "description": "Singer-songwriter and actress Allison Russell has announced the coming release of her third solo album, and her first in three years, &#8220;In the Hour of Chaos.&#8221; It arrives July 10 and is prec…",
-      "date": "2026-05-08T15:10:12.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://completemusicupdate.com/mighty-hoopla-malta-cancelled-because-of-jet-fuel-shortages/",
@@ -1762,61 +1822,11 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.digitalmusicnews.com/2026/04/27/avex-music-catalog-expansion/",
-      "title": "Avex Music Kicks Off Catalog Expansion With $100 Million &#8216;Initial Commitment,&#8217; Scores Deal With &#8216;Lose Control&#8217; Co-Writer Infamous",
-      "link": "https://www.digitalmusicnews.com/2026/04/27/avex-music-catalog-expansion/",
-      "description": "A year and change after purchasing S10 Music Publishing, Avex Music Group has unveiled plans to scoop up $100 million worth of catalogs and companies during the next 12 months. LA-based Avex Music for…",
-      "date": "2026-04-27T19:30:48.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/27/taylor-swift-trademark-voice-likeness/",
-      "title": "Trademark (Taylor’s Version): Swift Strikes Back Against Deepfakes by Trademarking Her Voice and Likeness to Combat AI Misuse",
-      "link": "https://www.digitalmusicnews.com/2026/04/27/taylor-swift-trademark-voice-likeness/",
-      "description": "Taylor Swift has just filed multiple new trademark applications to protect her voice and image, specifically designed to guard her against increasing threats from AI. She&#8217;s one of the first majo…",
-      "date": "2026-04-27T19:24:21.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/27/michael-sequel-rumors-following-opening-week-success/",
-      "title": "Too Soon? ‘Michael’ Opening Weekend Success Stirs Sequel Chatter — But Will &#8216;Part 2&#8217; Head to the Dark Recesses of Neverland?",
-      "link": "https://www.digitalmusicnews.com/2026/04/27/michael-sequel-rumors-following-opening-week-success/",
-      "description": "After the Antoine Fuqua-directed Michael made history in its opening weekend, talk of a sequel emerges. But would a Lionsgate sequel head to the dark recesses of Neverland? The ending of the Michael J…",
-      "date": "2026-04-27T19:06:41.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/04/26/iheartmedia-and-siriusxm-reportedly-in-merger-talks/",
-      "title": "iHeartMedia and SiriusXM Are Reportedly In Merger Talks",
-      "link": "https://www.digitalmusicnews.com/2026/04/26/iheartmedia-and-siriusxm-reportedly-in-merger-talks/",
-      "description": "iHeartMedia and SiriusXM are reportedly in early merger discussions, with music industry vet Irving Azoff and Apollo Global Management advising on the matter. Following early rumblings of a potential…",
-      "date": "2026-04-27T06:15:02.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
       "id": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
       "title": "Tomora’s Come Closer is an ecstatic love letter to ’90s dance music",
       "link": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
       "description": "Before Coachella, Tomora wasn't on my radar at all. It's actually only by chance that I stumbled upon them - I opened the wrong stream because my TV was lagging like a MFer. I paused for a few moments…",
       "date": "2026-04-26T16:00:00.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
-      "title": "25 years later, is it time for a new iPod?",
-      "link": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
-      "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year marks the 25th anniversar…",
-      "date": "2026-04-23T15:30:00.000Z",
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
@@ -1829,16 +1839,6 @@
       "date": "2026-04-21T13:00:00.000Z",
       "source": "TechCrunch",
       "sourceId": "techcrunch-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
-      "title": "Deezer says AI song uploads have nearly overtaken human music",
-      "link": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
-      "description": "Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch. D…",
-      "date": "2026-04-20T17:56:26.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
       "category": "Technology"
     },
     {
