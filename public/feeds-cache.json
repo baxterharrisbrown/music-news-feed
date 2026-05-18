@@ -1,54 +1,204 @@
 {
-  "generated": "2026-05-17T08:29:24.217Z",
+  "generated": "2026-05-18T10:19:10.748Z",
   "articles": [
     {
-      "id": "https://www.billboard.com/music/pop/kylie-minogue-40th-anniversary-tour-1236250106/",
-      "title": "Kylie Minogue Confirms 40th Anniversary Tour Plans: &#8216;I&#8217;m Probably Not Meant to Say This, But&#160;Yes&#8217;",
-      "link": "https://www.billboard.com/music/pop/kylie-minogue-40th-anniversary-tour-1236250106/",
-      "description": "Minogue launched her pop career in 1987, while still starring in Australian TV soap Neighbours.",
-      "date": "2026-05-17T07:45:38.000Z",
+      "id": "https://www.billboard.com/music/concerts/osamason-australia-tour-2026-1236250497/",
+      "title": "OsamaSon to Make Australian Live Debut on Three-City October&#160;Tour",
+      "link": "https://www.billboard.com/music/concerts/osamason-australia-tour-2026-1236250497/",
+      "description": "The 22-year-old South Carolina rapper will play three shows across Melbourne, Sydney and Brisbane in October.",
+      "date": "2026-05-18T09:59:29.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/concerts/bassinthegrass-2026-darwin-1236250100/",
-      "title": "Denzel Curry, Galantis, Peking Duk and More Perform at BASSINTHEGRASS 2026 in&#160;Darwin",
-      "link": "https://www.billboard.com/music/concerts/bassinthegrass-2026-darwin-1236250100/",
-      "description": "The annual festival drew close to 12,000 attendees to one of Australia's most distinctive live music settings.",
-      "date": "2026-05-17T06:37:05.000Z",
+      "id": "https://www.musicbusinessworldwide.com/warner-music-forms-cross-border-artist-development-platform-gliide-with-thailands-gmm-music/",
+      "title": "Warner Music forms cross-border artist development platform GLIIDE with Thailand’s GMM Music",
+      "link": "https://www.musicbusinessworldwide.com/warner-music-forms-cross-border-artist-development-platform-gliide-with-thailands-gmm-music/",
+      "description": "The platform's first signing is SVRN, a performance-driven artist whose music video for his debut single \"WHY\" was released on Thursday.\nSource",
+      "date": "2026-05-18T09:48:19.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/madonna-peggy-gous-i-feel-so-free-peggy-gou-energy-mix-best-new-music-1236250527/",
+      "title": "Fans Choose Madonna and Peggy Gou&#8217;s &#8216;I Feel So Free (Peggy Gou Energy Mix)&#8217; as This Week&#8217;s Favorite New&#160;Music",
+      "link": "https://www.billboard.com/music/music-news/madonna-peggy-gous-i-feel-so-free-peggy-gou-energy-mix-best-new-music-1236250527/",
+      "description": "The winning single is the latest preview of Madonna's forthcoming album Confessions II, due July 3.",
+      "date": "2026-05-18T07:54:09.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/eurovision-2026-winner-bulgaria-dara-1236250096/",
-      "title": "Dara&#8217;s &#8216;Bangaranga&#8217; Wins Eurovision 2026 for&#160;Bulgaria",
-      "link": "https://www.billboard.com/music/music-news/eurovision-2026-winner-bulgaria-dara-1236250096/",
-      "description": "Australia's Delta Goodrem finished fourth with her power ballad \"Eclipse\" — the country's strongest Eurovision result in several years",
-      "date": "2026-05-17T05:43:25.000Z",
+      "id": "https://variety.com/2026/music/global/kylie-minogue-netflix-docuseries-90s-tabloids-michael-hutchence-1236751681/",
+      "title": "Kylie Minogue on Opening Up for a Netflix Docuseries, Refusing to Be &#8216;Boxed In&#8217; and Navigating &#8217;90s Tabloids: &#8216;Thankfully, I Gave Myself a Chance&#8217;",
+      "link": "https://variety.com/2026/music/global/kylie-minogue-netflix-docuseries-90s-tabloids-michael-hutchence-1236751681/",
+      "description": "Kylie Minogue cannot be summed up easily. A three-decade career with era-defining tracks. An unmistakable aura that makes it feel like you know her. And a knack for constant reinvention that defies ex…",
+      "date": "2026-05-18T07:00:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/acm-awards-photo-gallery-carpet-ella-langley-kacey-musgraves-1236752016/",
+      "title": "ACM Awards Photo Gallery: See Ella Langley, Kacey Musgraves, Shania Twain, Lainey Wilson, Miranda Lambert and Other Stars on the Red Carpet and Backstage",
+      "link": "https://variety.com/2026/music/news/acm-awards-photo-gallery-carpet-ella-langley-kacey-musgraves-1236752016/",
+      "description": "Country stars were choosin&#8217; fashion as they took to the stage and the red carpet Sunday night at the Academy of Country Music Awards in Las Vegas. Ella Langley was the top winner, with seven tro…",
+      "date": "2026-05-18T06:08:35.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/concerts/killswitch-engage-australia-new-zealand-tour-1236250493/",
+      "title": "Killswitch Engage Announce First Australian and New Zealand Headline Run in Eight&#160;Years",
+      "link": "https://www.billboard.com/music/concerts/killswitch-engage-australia-new-zealand-tour-1236250493/",
+      "description": "English metal outfit Sylosis will serve as special guests across all dates.",
+      "date": "2026-05-18T06:04:46.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/pro/cean-sleeper-deal-rise-records-bmg/",
-      "title": "Australian Metalcore Band Ocean Sleeper Sign Global Deal With Rise&#160;Records/BMG",
-      "link": "https://www.billboard.com/pro/cean-sleeper-deal-rise-records-bmg/",
-      "description": "Heath Johns, President of Australia, New Zealand and Southeast Asia at BMG, called Ocean Sleeper \"one of Australian heavy music's best kept secrets\"",
-      "date": "2026-05-17T02:53:49.000Z",
+      "id": "https://www.digitalmusicnews.com/2026/05/17/sphere-investment-for-abu-dhabi-expansion/",
+      "title": "James Dolan’s Sphere Secures a $1.7B Investment for Abu Dhabi Expansion",
+      "link": "https://www.digitalmusicnews.com/2026/05/17/sphere-investment-for-abu-dhabi-expansion/",
+      "description": "Abu Dhabi’s Department of Culture and Tourism will invest $1.7 billion in the construction phase of Sphere Abu Dhabi on Yas Island. Construction is expected to be completed by the end of 2029. The Dep…",
+      "date": "2026-05-18T05:34:33.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/17/drake-three-albums-umg-speculation/",
+      "title": "Is Drake&#8217;s Three-Album Drop A Sans Label Finagle?",
+      "link": "https://www.digitalmusicnews.com/2026/05/17/drake-three-albums-umg-speculation/",
+      "description": "Drake released three albums simultaneously, starting with his highly anticipated ICEMAN. But rumors abound that he’s looking for a swift exit from UMG. Over the weekend, Drake surprised fans with not…",
+      "date": "2026-05-18T05:15:20.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/05/17/michael-global-box-office-receipts-surge-past-700m-closing-in-on-bohemian-rhapsody/",
+      "title": "‘Michael’ Global Box Office Receipts Surge Past $700M—Closing in on &#8216;Bohemian Rhapsody&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/05/17/michael-global-box-office-receipts-surge-past-700m-closing-in-on-bohemian-rhapsody/",
+      "description": "Michael is back on top at the domestic box office with a cool $26 million in its fourth weekend, and a staggering $700 million worldwide. In its fourth week, Michael is back in the top slot at the dom…",
+      "date": "2026-05-18T05:04:21.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/lists/acm-awards-performances-ranked-2026/",
+      "title": "Every 2026 ACMs Performance,&#160;Ranked",
+      "link": "https://www.billboard.com/lists/acm-awards-performances-ranked-2026/",
+      "description": "Billboard ranks each performance at the 2026 ACM Awards.",
+      "date": "2026-05-18T04:35:53.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/rb-hip-hop/baker-boy-nba-house-australia-1236250086/",
-      "title": "Baker Boy Headlines NBA House Australia in&#160;Melbourne",
-      "link": "https://www.billboard.com/music/rb-hip-hop/baker-boy-nba-house-australia-1236250086/",
-      "description": "Friday's programming also included appearances from Atlanta Hawks center and Australian NBA representative Jock Landale.",
-      "date": "2026-05-17T01:58:03.000Z",
+      "id": "https://www.digitalmusicnews.com/2026/05/17/kiefer-sutherland-cancels-us-tour/",
+      "title": "Kiefer Sutherland Cancels US Tour in Latest Case of ‘Blue Dot Fever’",
+      "link": "https://www.digitalmusicnews.com/2026/05/17/kiefer-sutherland-cancels-us-tour/",
+      "description": "Kiefer Sutherland cancels the US leg of his tour due to “very low ticket sales” in the latest case of “Blue Dot Fever.” Sutherland added that he doesn’t think it’s fair to the venues or those who boug…",
+      "date": "2026-05-18T04:33:05.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/concerts/harry-styles-adds-melbourne-australia-tour-1236250427/",
+      "title": "Harry Styles&#8217; Together, Together Tour Gets a Fourth Melbourne Show at Marvel&#160;Stadium",
+      "link": "https://www.billboard.com/music/concerts/harry-styles-adds-melbourne-australia-tour-1236250427/",
+      "description": "The new date — Friday, Dec. 4 at Marvel Stadium — joins three previously announced Melbourne shows.",
+      "date": "2026-05-18T03:58:28.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/video/cody-johnson-on-winning-entertainer-of-the-year/",
+      "title": "Cody Johnson On Winning Entertainer of the Year, Calls New Album &#8220;Best Piece Yet&#8221; &#124; ACMs&#160;2026",
+      "link": "https://www.billboard.com/video/cody-johnson-on-winning-entertainer-of-the-year/",
+      "description": "Cody Johnson caught up with Ellie Thumann &#38; Billboard&#8217;s Tetris Kelly at the ACM Awards 2026.",
+      "date": "2026-05-18T03:51:42.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/acm-awards-2026-snubs-surprises/",
+      "title": "Snubs and Surprises at the 2026 ACM&#160;Awards",
+      "link": "https://www.billboard.com/lists/acm-awards-2026-snubs-surprises/",
+      "description": "Megan Moroney, Lainey Wilson, Chris Stapleton and Zach Top had 27 nominations between them. They were all shut out.",
+      "date": "2026-05-18T03:26:23.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/ella-langley-acm-awards-record/",
+      "title": "Ella Langley &#038; More Record-Setters at 2026 ACM&#160;Awards",
+      "link": "https://www.billboard.com/lists/ella-langley-acm-awards-record/",
+      "description": "It was also a history-making night for Cody Johnson, Miranda Lambert, The Red Clay Strays and Brooks &#38; Dunn.",
+      "date": "2026-05-18T03:15:44.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/acm-awards-winners-ella-langley-cody-johnson-country-1236751957/",
+      "title": "Ella Langley Sweeps ACM Awards With Seven Wins; Cody Johnson Wins His First Entertainer of the Year Prize",
+      "link": "https://variety.com/2026/music/news/acm-awards-winners-ella-langley-cody-johnson-country-1236751957/",
+      "description": "The Academy of Country Music Awards were choosing Ella Langley every chance they got, as the &#8220;Choosin&#8217; Texas&#8221; charttopper won all seven trophies she was nominated for before and duri…",
+      "date": "2026-05-18T02:45:58.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/awards/lauren-alaina-dan-shay-say-so-acm-awards-acm-lifting-lives-1236250373/",
+      "title": "Dan + Shay Remember Ben Vaughn at 2026 ACM Awards With &#8216;Say&#160;So&#8217;",
+      "link": "https://www.billboard.com/music/awards/lauren-alaina-dan-shay-say-so-acm-awards-acm-lifting-lives-1236250373/",
+      "description": "The emotional segment as part of ACM Lifting Lives was introduced by American Idol alum Lauren Alaina.",
+      "date": "2026-05-18T02:45:55.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/awards/blake-shelton-the-gambler-don-schlitz-acm-awards-1236250395/",
+      "title": "Blake Shelton Pays Tribute to the Late Don Schlitz by Leading &#8216;The Gambler&#8217; Singalong at ACM&#160;Awards",
+      "link": "https://www.billboard.com/music/awards/blake-shelton-the-gambler-don-schlitz-acm-awards-1236250395/",
+      "description": "The performance follows the legendary country songwriter Schlitz dying at age 73 in April.",
+      "date": "2026-05-18T02:34:38.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/acm-awards-producers-shania-twain-ella-langley-preview-1236751769/",
+      "title": "ACM Awards Producers on What to Expect Sunday Night: Shania&#8217;s First Country Hosting Gig, Show&#8217;s Return to Vegas, 17 Performances in 2½ Hours and Meeting the Ella Langley Moment",
+      "link": "https://variety.com/2026/music/news/acm-awards-producers-shania-twain-ella-langley-preview-1236751769/",
+      "description": "Ella Langley has conquered not just the country world but the music world generally this year with her song &#8220;Choosin&#8217; Texas.&#8221; But for the producers of the Academy of Country Music Aw…",
+      "date": "2026-05-17T20:00:31.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/pet-sounds-beach-boys-60th-classic-album-interviews-1236751617/",
+      "title": "Happy 60th Birthday, &#8216;Pet Sounds&#8217;: Beach Boys Mike Love, Al Jardine and Bruce Johnston Recall the Making and Aftermath of One of Rock&#8217;s Greatest Albums",
+      "link": "https://variety.com/2026/music/news/pet-sounds-beach-boys-60th-classic-album-interviews-1236751617/",
+      "description": "Once upon a time, &#8220;Pet Sounds&#8221; seemed like the runt of the Beach Boys&#8217; litter, at least on the record company ledger, if hardly by artistic reputation. But as the album turns 60 year…",
+      "date": "2026-05-17T16:19:46.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
       "category": "Business & Finance"
     },
     {
@@ -59,26 +209,6 @@
       "date": "2026-05-16T23:53:46.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/lists/harry-styles-amsterdam-together-tour-recap-best-moments/",
-      "title": "Harry Styles Opens Together, Together Tour With Electrifying Amsterdam Show: 7 Best&#160;Moments",
-      "link": "https://www.billboard.com/lists/harry-styles-amsterdam-together-tour-recap-best-moments/",
-      "description": "Styles stands at the cusp of his Together, Together Tour, which opened at Amsterdam’s 56,000-capacity Johan Cruijff Arena on Saturday.",
-      "date": "2026-05-16T23:05:30.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/lists/drakes-habibti-tracks-ranked/",
-      "title": "Drake&#8217;s &#8216;Habibti&#8217; Album: All 11 Tracks&#160;Ranked",
-      "link": "https://www.billboard.com/lists/drakes-habibti-tracks-ranked/",
-      "description": "Drake delivers an R&#38;B collection of songs on 'Habibti,' one of three new LPs he just released.",
-      "date": "2026-05-16T22:38:16.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -102,26 +232,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/lists/harry-styles-setlist-together-together-tour-2026-every-song/",
-      "title": "Harry Styles&#8217; Together, Together Tour 2026 Setlist: Every Song Played at the First&#160;Show",
-      "link": "https://www.billboard.com/lists/harry-styles-setlist-together-together-tour-2026-every-song/",
-      "description": "The pop star launched his residency-style world tour in Amsterdam, the Netherlands, on May 16.",
-      "date": "2026-05-16T21:04:47.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/lists/drake-iceman-album-videos-watch-all/",
-      "title": "Watch All 18 of Drake&#8217;s &#8216;Iceman&#8217; Music Videos From His Three-Album Rollout in One&#160;Place",
-      "link": "https://www.billboard.com/lists/drake-iceman-album-videos-watch-all/",
-      "description": "Three album releases were accompanied by a whole lot of new visuals uploaded back-to-back. This is the place to be to see them all.",
-      "date": "2026-05-16T20:10:39.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/harry-styles-2026-tour-set-list-amsterdam-1236749242/",
       "title": "Harry Styles Set List: Every Song Played at His &#8216;Together Together&#8217; Tour&#8217;s Opening Night in Amsterdam",
       "link": "https://variety.com/2026/music/news/harry-styles-2026-tour-set-list-amsterdam-1236749242/",
@@ -132,14 +242,14 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "title": "&#8216;Saturday Night Live UK&#8217;: Where to Watch the Season 1 Finale&#160;Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "description": "SNL UK has Ncuti Gatwa as host and Holly Humberstone as musical guest.",
-      "date": "2026-05-16T15:38:16.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/05/15/apple-music-club-live-launch/",
+      "title": "Apple Music Launches &#8216;Club Live&#8217; EDM Streaming Series, Tees Up Exclusive EDC Las Vegas Broadcast and On-Demand Tracks",
+      "link": "https://www.digitalmusicnews.com/2026/05/15/apple-music-club-live-launch/",
+      "description": "Apple Music has stepped up its EDM game with the launch of “Club Live,” which is preparing to stream EDC Las Vegas before select performances are made available for on-demand listening in spatial audi…",
+      "date": "2026-05-16T06:00:46.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/05/15/robert-kyncl-ai-comments/",
@@ -182,36 +292,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/music/news/best-iceman-lyrics-drake-1236750378/",
-      "title": "Drake&#8217;s Best &#8216;Iceman&#8217; Lyrics, From &#8216;Make Them Cry&#8217; to &#8216;Make Them Know&#8217;",
-      "link": "https://variety.com/2026/music/news/best-iceman-lyrics-drake-1236750378/",
-      "description": "While streaming the fourth episode of his &#8220;Iceman&#8221; series on Thursday night, Drake essentially premiered the entire album before its release at midnight ET. But he had two more tricks up h…",
-      "date": "2026-05-15T22:04:23.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/album-reviews/drake-iceman-album-review-1236750318/",
-      "title": "Drake&#8217;s &#8216;Iceman&#8217; Is Exactly the Fun and Vindictive Comeback Record He Needed: Album Review",
-      "link": "https://variety.com/2026/music/album-reviews/drake-iceman-album-review-1236750318/",
-      "description": "Toward the beginning of his new song “Janice STFU,” Drake conducts one of his customary exercises in emo theater: “You say what my work means to me will one day be the death of me / They tried to kill…",
-      "date": "2026-05-15T21:09:58.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/jack-johnson-surfilmusic-surfing-injury-documentary-1236750260/",
-      "title": "Jack Johnson on How a Surfing Injury, Warning From Chris Rock and Deadly Shark Attack Shaped ‘SURFILMUSIC’ Documentary (EXCLUSIVE)",
-      "link": "https://variety.com/2026/music/news/jack-johnson-surfilmusic-surfing-injury-documentary-1236750260/",
-      "description": "Chris Rock had it all wrong, as it turned out, when he once laid some cynical conventional wisdom about show business on Jack Johnson. In May 2003, a 28-year-old Johnson found his way onto “The Late S…",
-      "date": "2026-05-15T20:09:49.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.digitalmusicnews.com/2026/05/15/jermaine-jackson-rape-accuser-no-show-default-judgment/",
       "title": "After Blowing Off the Lawsuit, Jermaine Jackson Ordered to Pay $6.5 Million to Rape Accuser",
       "link": "https://www.digitalmusicnews.com/2026/05/15/jermaine-jackson-rape-accuser-no-show-default-judgment/",
@@ -232,31 +312,11 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/film/reviews/john-lennon-the-last-interview-review-steven-soderbergh-1236749625/",
-      "title": "&#8216;John Lennon: The Last Interview&#8217; Review: Steven Soderbergh&#8217;s Documentary Captures John Lennon at His Happiest&#8230;and Most Messianic",
-      "link": "https://variety.com/2026/film/reviews/john-lennon-the-last-interview-review-steven-soderbergh-1236749625/",
-      "description": "John, in \"The Last Interview,\" comes off as just about the happiest he has ever been. But he’s so high on the life he’s leading that he’s also at his most messianic. And a little of that goes a long w…",
-      "date": "2026-05-15T19:23:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/digital/news/spotify-new-logo-disco-ball-party-of-the-year-1236750201/",
-      "title": "Spotify Debuts New Logo: A Disco Ball to Celebrate Its &#8216;Party of the Year(s)&#8217;",
-      "link": "https://variety.com/2026/digital/news/spotify-new-logo-disco-ball-party-of-the-year-1236750201/",
-      "description": "Spotify users who updated their mobile app this week saw something new and unexpected: a new icon on their phones that&#8217;s a shimmering green 3D disco ball. Spotify has been a bit coy about what t…",
-      "date": "2026-05-15T19:00:05.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/15/apple-music-club-live-launch/",
-      "title": "Apple Music Launches &#8216;Club Live&#8217; EDM Streaming Series, Tees Up Exclusive EDC Las Vegas Broadcast and On-Demand Tracks",
-      "link": "https://www.digitalmusicnews.com/2026/05/15/apple-music-club-live-launch/",
-      "description": "Apple Music has stepped up its EDM game with the launch of “Club Live,” which is preparing to stream EDC Las Vegas before select performances are made available for on-demand listening in spatial audi…",
-      "date": "2026-05-15T18:40:46.000Z",
+      "id": "https://www.digitalmusicnews.com/2026/05/15/xijuan-zong-pianist/",
+      "title": "Pianist Xijuan Zong Releases Global Album &#8216;Presence in Sound, Resonant Voices,&#8217; Connecting Contemporary Women’s Voices to the World Stage",
+      "link": "https://www.digitalmusicnews.com/2026/05/15/xijuan-zong-pianist/",
+      "description": "Pianist Xijuan Zong, an emerging presence on the international stage, is recognized as one of the new generation of young artists with a distinctive artistic voice.  The following artist profile was p…",
+      "date": "2026-05-15T18:30:57.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
@@ -289,16 +349,6 @@
       "date": "2026-05-15T17:33:44.000Z",
       "source": "Music Business Worldwide",
       "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/15/xijuan-zong-pianist/",
-      "title": "Pianist Xijuan Zong Releases Global Album &#8216;Presence in Sound, Resonant Voices,&#8217; Connecting Contemporary Women’s Voices to the World Stage",
-      "link": "https://www.digitalmusicnews.com/2026/05/15/xijuan-zong-pianist/",
-      "description": "Pianist Xijuan Zong, an emerging presence on the international stage, is recognized as one of the new generation of young artists with a distinctive artistic voice.  The following artist profile was p…",
-      "date": "2026-05-15T17:28:57.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -563,7 +613,7 @@
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/05/14/post-malone-jelly-roll-bigxthaplug-nashville/",
-      "title": "Post Malone Swaps Out Jelly Roll for BigXThaPlug at Failing Nashville Concert",
+      "title": "Can BigXThaPlug Help Save Post Malone from Blue Dot Fever?",
       "link": "https://www.digitalmusicnews.com/2026/05/14/post-malone-jelly-roll-bigxthaplug-nashville/",
       "description": "Struggling to sell tickets to his upcoming tour with Jelly Roll, Post Malone has called in BigXThaPlug for support at the tour’s stop in Nashville. Post Malone is still having trouble selling tickets…",
       "date": "2026-05-14T19:02:02.000Z",
@@ -630,16 +680,6 @@
       "source": "Music Ally",
       "sourceId": "musically",
       "category": "Technology"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/taylor-swifts-1989-and-beyonces-single-ladies-among-25-recordings-inducted-into-library-of-congress-national-recording-registry/",
-      "title": "Taylor Swift&#8217;s 1989 and Beyoncé&#8217;s Single Ladies among 25 recordings inducted into Library of Congress National Recording Registry",
-      "link": "https://www.musicbusinessworldwide.com/taylor-swifts-1989-and-beyonces-single-ladies-among-25-recordings-inducted-into-library-of-congress-national-recording-registry/",
-      "description": "Other inductees include The Go-Go's' debut album Beauty and the Beat, Weezer's self-titled Blue Album, Chaka Khan's I Feel for You and others\nSource",
-      "date": "2026-05-14T16:50:17.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
     },
     {
       "id": "https://completemusicupdate.com/horizon-future-leaders-liv-buckley/",
@@ -1737,46 +1777,6 @@
       "link": "https://www.digitalmusicnews.com/2026/05/04/lizzo-not-settling-lawsuit-heres-why/",
       "description": "Lizzo knows that a settlement with her accusers would probably be easier than continuing to fight, but the singer says she is ready to go to court if necessary. In an interview with Gayle King on CBS…",
       "date": "2026-05-04T20:45:24.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/04/dolly-parton-vegas-residency-canceled/",
-      "title": "Dolly Parton Cancels Las Vegas Residency Due to Ongoing Health Issues",
-      "link": "https://www.digitalmusicnews.com/2026/05/04/dolly-parton-vegas-residency-canceled/",
-      "description": "Dolly Parton cancels her Las Vegas residency, which had been rescheduled for September, citing her previously announced health concerns. Dolly Parton’s Las Vegas residency has been cancelled, after or…",
-      "date": "2026-05-04T20:38:58.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/04/steven-tyler-trial-allegations/",
-      "title": "Steven Tyler Accused of Child Sexual Assault Back in the ‘70s, Heading to Trial After Judge Dismisses Much of the Case",
-      "link": "https://www.digitalmusicnews.com/2026/05/04/steven-tyler-trial-allegations/",
-      "description": "Steven Tyler heads to trial for allegations of child sexual assault back in the ‘70s. A judge has dismissed much of the case, citing the statute of limitations in Massachusetts. Aerosmith frontman Ste…",
-      "date": "2026-05-04T20:35:20.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/04/suno-series-d-reports/",
-      "title": "Suno Targets Series D Funding at a $5 Billion Valuation &#8212; And Plots &#8216;An AI Native Legal Operations&#8217; Expansion Amid Copyright Lawsuits",
-      "link": "https://www.digitalmusicnews.com/2026/05/04/suno-series-d-reports/",
-      "description": "Six months later, Suno is reportedly closing in on another massive funding round – this time at a $5 billion valuation. Meanwhile, as it grapples with ultra-expensive copyright litigation, the startup…",
-      "date": "2026-05-04T18:50:03.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/05/04/rcn-umg-sony-wmg-lawsuit-pause/",
-      "title": "RCN’s Long-Running Legal Battle Against UMG, Sony, WMG Hits the Pause Button",
-      "link": "https://www.digitalmusicnews.com/2026/05/04/rcn-umg-sony-wmg-lawsuit-pause/",
-      "description": "Internet provider RCN’s legal battle against the major labels seems to be winding down, with proceedings officially paused until June 29. The long-running legal battle between internet provider RCN an…",
-      "date": "2026-05-04T18:38:45.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
