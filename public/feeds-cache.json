@@ -1,55 +1,265 @@
 {
-  "generated": "2026-06-14T09:48:30.848Z",
+  "generated": "2026-06-15T12:32:48.067Z",
   "articles": [
     {
-      "id": "https://www.billboard.com/culture/tv-film/michael-jackson-highest-grossing-biopic-all-time-1236272605/",
-      "title": "&#8216;Michael&#8217; Surpasses &#8216;Bohemian Rhapsody&#8217; As Highest-Grossing Biopic of All&#160;Time",
-      "link": "https://www.billboard.com/culture/tv-film/michael-jackson-highest-grossing-biopic-all-time-1236272605/",
-      "description": "The film has surpassed Bohemian Rhapsody's total gross with $358.6 million at the domestic box office and $553.3 million internationally.",
-      "date": "2026-06-14T05:31:13.000Z",
+      "id": "https://musically.com/2026/06/15/the-weeknd-has-sold-3m-tickets-and-grossed-440m-in-2026-so-far/",
+      "title": "The Weeknd has sold 3m tickets and grossed $440m in 2026 so far",
+      "link": "https://musically.com/2026/06/15/the-weeknd-has-sold-3m-tickets-and-grossed-440m-in-2026-so-far/",
+      "description": "Y’know someone who’s not suffering from ‘blue dot fever’ this year? The Weeknd. That’s according to Live Nation, which published some stats to celebrate the start of the latest leg of his ‘After Hours…",
+      "date": "2026-06-15T12:30:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/michael-becomes-highest-grossing-music-biopic-in-history-overtaking-bohemian-rhapsody-with-911m-at-global-box-office/",
+      "title": "&#8216;Michael&#8217; becomes highest-grossing music biopic in history – overtaking &#8216;Bohemian Rhapsody&#8217; with $911M+ at global box office",
+      "link": "https://www.musicbusinessworldwide.com/michael-becomes-highest-grossing-music-biopic-in-history-overtaking-bohemian-rhapsody-with-911m-at-global-box-office/",
+      "description": "Total comprises $358.6M domestically and $553.3M from international markets\nSource",
+      "date": "2026-06-15T12:21:58.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/culture/tv-film/new-york-knicks-take-over-tonight-show-wu-tang-clan-1236272782/",
+      "title": "World Champion New York Knicks to Take Over &#8216;Tonight Show&#8217; Episode Alongside Good Luck Charm Wu-Tang&#160;Clan",
+      "link": "https://www.billboard.com/culture/tv-film/new-york-knicks-take-over-tonight-show-wu-tang-clan-1236272782/",
+      "description": "Two days after beating the Spurs in the NBA Finals, MVP Jalen Bruson will sit on the couch alongside teammates Karl-Anthony Towns, OG Anunoby and more.",
+      "date": "2026-06-15T11:43:24.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/the-tullamarines-like-a-version-fleetwood-mac-the-chain-1236272326/",
-      "title": "The Tullamarines Cover of Fleetwood Mac&#8217;s &#8216;The Chain&#8217; for &#8216;Like A Version&#8217;&#160;Debut",
-      "link": "https://www.billboard.com/music/music-news/the-tullamarines-like-a-version-fleetwood-mac-the-chain-1236272326/",
-      "description": "\"We had a lot of songs that we were thinking about. The Chain came up as an option, and we were very, very scared,\" vocalist Angus Purvis admitted.",
-      "date": "2026-06-14T05:12:56.000Z",
+      "id": "https://musically.com/2026/06/15/hello-is-it-lionel-richies-vocal-trademarks-youre-looking-for/",
+      "title": "Hello, is it Lionel Richie’s vocal trademarks you’re looking for?",
+      "link": "https://musically.com/2026/06/15/hello-is-it-lionel-richies-vocal-trademarks-youre-looking-for/",
+      "description": "Richie has become the latest artist to file trademark applications focused on his voice, in an effort to protect himself from unauthorised exploitation by AI cloning.",
+      "date": "2026-06-15T11:30:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/lionel-richie-files-to-trademark-the-sound-of-his-voice-following-taylor-swift-amid-ai-deepfake-crackdown/",
+      "title": "Lionel Richie files to trademark the sound of his voice, following Taylor Swift amid AI deepfake crackdown",
+      "link": "https://www.musicbusinessworldwide.com/lionel-richie-files-to-trademark-the-sound-of-his-voice-following-taylor-swift-amid-ai-deepfake-crackdown/",
+      "description": "The four-time Grammy winner filed four applications, each covering audio of him saying a phrase drawn from his songs.\nSource",
+      "date": "2026-06-15T11:26:13.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://musically.com/2026/06/15/uk-government-confirms-plans-to-ban-social-media-for-under-16s/",
+      "title": "UK government confirms plans to ban social media for under-16s",
+      "link": "https://musically.com/2026/06/15/uk-government-confirms-plans-to-ban-social-media-for-under-16s/",
+      "description": "The social-media bans for children are catching. The UK government has this morning confirmed its widely-leaked plans to follow Australia’s lead in banning social media for under-16s. Which social med…",
+      "date": "2026-06-15T11:24:40.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/amy-mackie-appointed-managing-director-ticketing-at-teg/",
+      "title": "Amy Mackie appointed Managing Director, Ticketing at TEG",
+      "link": "https://www.musicbusinessworldwide.com/amy-mackie-appointed-managing-director-ticketing-at-teg/",
+      "description": "Amy Mackie will oversee ticketing strategy and operations across Australia, New Zealand, Asia and the UK.\nSource",
+      "date": "2026-06-15T10:50:51.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/the-weeknds-after-hours-til-dawn-tour-has-grossed-more-than-440m-in-2026-alone-on-over-3m-tickets-sold/",
+      "title": "The Weeknd&#8217;s After Hours Til Dawn tour has grossed more than $440M in 2026 alone – on over 3M tickets sold",
+      "link": "https://www.musicbusinessworldwide.com/the-weeknds-after-hours-til-dawn-tour-has-grossed-more-than-440m-in-2026-alone-on-over-3m-tickets-sold/",
+      "description": "The stadium tour has sold over 3 million tickets this year alone, making it the highest-grossing tour by a male solo artist, according to Live Nation\nSource",
+      "date": "2026-06-15T10:40:38.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/key-songs-in-the-life-of-carletta-higginson/",
+      "title": "KEY SONGS IN THE LIFE OF… Carletta Higginson",
+      "link": "https://www.musicbusinessworldwide.com/key-songs-in-the-life-of-carletta-higginson/",
+      "description": "Warner Music’s Chief Digital Officer rifles through the record collection of her life to pick the songs that have soundtracked her journey so far…\nSource",
+      "date": "2026-06-15T09:35:52.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/06/14/michael-surpasses-bohemian-rhapsody-biopic/",
+      "title": "‘Michael’ Officially Becomes the Highest-Grossing Musical Biopic in History",
+      "link": "https://www.digitalmusicnews.com/2026/06/14/michael-surpasses-bohemian-rhapsody-biopic/",
+      "description": "The King of Pop is now the King of Biopics, as Michael moonwalks past Bohemian Rhapsody to become the highest-grossing musical biopic in history. It’s official: Universal and Lionsgate’s Michael Jacks…",
+      "date": "2026-06-15T03:43:23.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/06/14/ai-cloned-vocals-fuel-late-minnesota-rapper-eyedeas-new-lp/",
+      "title": "AI-Cloned Vocals Fuel Late Minnesota Rapper Eyedea’s New LP",
+      "link": "https://www.digitalmusicnews.com/2026/06/14/ai-cloned-vocals-fuel-late-minnesota-rapper-eyedeas-new-lp/",
+      "description": "The late Minnesota rapper Eyedea has a new LP, thanks to AI-cloned vocals and handwritten lyrics preserved by the artist’s mom. A new 14-song collection, 15-Year-Old Shit Talking, recreating the voice…",
+      "date": "2026-06-15T03:35:55.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/06/14/singer-oliver-tree-death/",
+      "title": "Fast-Rising Singer Oliver Tree Dies After a Horrific Helicopter Crash In Brazil — Here Are the Confirmed Details",
+      "link": "https://www.digitalmusicnews.com/2026/06/14/singer-oliver-tree-death/",
+      "description": "Singer Oliver Tree has died after a helicopter crash in Brazil that resulted in the deaths of six people. He was just 32 years old. Oliver Tree, who first gained fame in 2010 at the age of 17 working…",
+      "date": "2026-06-15T03:32:00.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/bts-come-over-best-new-music-poll-results-1236272754/",
+      "title": "Fans Choose BTS&#8217; &#8216;Come Over&#8217; as This Week&#8217;s Favorite New&#160;Music",
+      "link": "https://www.billboard.com/music/music-news/bts-come-over-best-new-music-poll-results-1236272754/",
+      "description": "The new-to-streamers tune from BTS brought in more than 86% of the vote in Friday's poll.",
+      "date": "2026-06-15T02:08:09.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/country/mickey-guyton-national-anthem-nba-finals-game-5-1236272588/",
-      "title": "Mickey Guyton Performs National Anthem at NBA Finals Game&#160;5",
-      "link": "https://www.billboard.com/music/country/mickey-guyton-national-anthem-nba-finals-game-5-1236272588/",
-      "description": "The Texas native opened the Knicks vs. Spurs game Saturday night (June 13) in San Antonio.",
-      "date": "2026-06-14T01:48:44.000Z",
+      "id": "https://www.billboard.com/music/concerts/bonnaroo-weather-delays-schedule-updates-sunday-1236272748/",
+      "title": "Bonnaroo Updates Sunday Schedule Following Delays Due to Severe&#160;Weather",
+      "link": "https://www.billboard.com/music/concerts/bonnaroo-weather-delays-schedule-updates-sunday-1236272748/",
+      "description": "Set times for Noah Kahan, Kesha and more have been posted for day three of the fest.",
+      "date": "2026-06-15T01:27:28.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/bruce-springsteen-bono-tribeca-patti-smith-1236272579/",
-      "title": "Bruce Springsteen Sings With Patti Smith &#038; Apologizes to Bono at Tribeca Event: &#8216;I Should Have Said&#160;Yes&#8217;",
-      "link": "https://www.billboard.com/music/music-news/bruce-springsteen-bono-tribeca-patti-smith-1236272579/",
-      "description": "The Boss was honored with the festival's Harry Belafonte Voices for Social Justice Award.",
-      "date": "2026-06-13T23:58:17.000Z",
+      "id": "https://variety.com/2026/music/news/john-prine-tribute-wolf-trap-songwriters-salute-virginia-1236781076/",
+      "title": "At &#8216;Songwriters Salute John Prine&#8217; at Wolf Trap in Virginia, Emmylou Harris, Margo Price, Allison Russell and Others Make the Case for Prine as America&#8217;s Poet Laureate",
+      "link": "https://variety.com/2026/music/news/john-prine-tribute-wolf-trap-songwriters-salute-virginia-1236781076/",
+      "description": "When some look toward the U.S. semiquincentennial and consider what examplar might best represent American achievement or the nation&#8217;s character, only one thing inevitably comes to mind: wrestli…",
+      "date": "2026-06-15T01:20:37.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/pop/madonna-bizarre-martin-garrix-premiere-brooklyn-concert-1236272708/",
+      "title": "New Madonna Song &#8216;Bizarre&#8217; Debuts at Martin Garrix Show in&#160;Brooklyn",
+      "link": "https://www.billboard.com/music/pop/madonna-bizarre-martin-garrix-premiere-brooklyn-concert-1236272708/",
+      "description": "\"Bizarre\" will be featured on the pop icon's Confessions II album.",
+      "date": "2026-06-14T23:38:59.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/lists/summer-smash-2026-day-1-chief-keef-north-west-lil-uzi-vert/",
-      "title": "Chief Keef&#8217;s Homecoming, North West&#8217;s Debut &#038; Lil Uzi Vert&#8217;s Takeover: 5 Best Moments From Summer Smash 2026 Day&#160;One",
-      "link": "https://www.billboard.com/lists/summer-smash-2026-day-1-chief-keef-north-west-lil-uzi-vert/",
-      "description": "It was a memorable first night at the Seatgeek Stadium festival grounds.",
-      "date": "2026-06-13T23:31:10.000Z",
+      "id": "https://www.billboard.com/culture/events/taylor-swift-travis-kelce-oh-mary-broadway-photos-1236272666/",
+      "title": "Taylor Swift, Travis Kelce Make an Appearance at Broadway Comedy &#8216;Oh, Mary!&#8217; Starring Maya&#160;Rudolph",
+      "link": "https://www.billboard.com/culture/events/taylor-swift-travis-kelce-oh-mary-broadway-photos-1236272666/",
+      "description": "The pair posed for photos with the show's cast while taking in a matinee performance at New York City's Lyceum Theatre on Saturday (June 13).",
+      "date": "2026-06-14T22:07:23.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/culture/product-recommendations/find-new-york-knicks-brunson-bobblehead-doll-merch-buy-online-1236272643/",
+      "title": "From Jalen Brunson to Hello Kitty, Score These Official New York Knicks Championship Bobbleheads&#160;Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/find-new-york-knicks-brunson-bobblehead-doll-merch-buy-online-1236272643/",
+      "description": "The limited-edition collectibles are selling out quickly on the heels of the Knicks' historic NBA title win",
+      "date": "2026-06-14T21:55:15.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+      "title": "&#8216;Michael&#8217; Tops &#8216;Bohemian Rhapsody&#8217; as Top-Grossing Music Biopic Worldwide: See the Top&#160;25",
+      "link": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+      "description": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+      "date": "2026-06-14T20:58:12.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/knicks-nba-championship-musicians-react-cardi-b-fat-joe-1236272663/",
+      "title": "Cardi B, Fat Joe, J.Lo &#038; More Musicians React to New York Knicks&#8217; NBA Championship&#160;Win",
+      "link": "https://www.billboard.com/music/music-news/knicks-nba-championship-musicians-react-cardi-b-fat-joe-1236272663/",
+      "description": "Music stars flooded social media with celebrations after the Knicks captured their first NBA title since 1973.",
+      "date": "2026-06-14T20:25:05.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/oliver-tree-death-helicopter-crash-brazil-dies-1236272641/",
+      "title": "Oliver Tree, &#8216;Life Goes On&#8217; and &#8216;Miss You&#8217; Singer, Dies in Helicopter&#160;Crash",
+      "link": "https://www.billboard.com/music/music-news/oliver-tree-death-helicopter-crash-brazil-dies-1236272641/",
+      "description": "The musician was reportedly among six people killed in a helicopter collision over Rio de Janeiro.",
+      "date": "2026-06-14T19:29:34.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+      "title": "Taylor Swift, The Beatles, Elvis &#038; More Artists With the Most Weeks at No. 1 on the Billboard 200: Full&#160;List",
+      "link": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+      "description": "Drake pulls ahead of Adele. Next in his sights: Morgan Wallen.",
+      "date": "2026-06-14T19:18:13.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/oliver-tree-dead-helicopter-crash-alien-boy-life-goes-on-1236780964/",
+      "title": "Oliver Tree, &#8216;Alien Boy&#8217; and &#8216;Life Goes On&#8217; Musician, Dies at 32 in Helicopter Crash",
+      "link": "https://variety.com/2026/music/news/oliver-tree-dead-helicopter-crash-alien-boy-life-goes-on-1236780964/",
+      "description": "Oliver Tree, the California-born singer-songwriter known for tracks like “Life Goes On,” “When I’m Down” and “Miss You,” died in a helicopter crash in Rio de Janeiro, according to CNN Brazil. He was 3…",
+      "date": "2026-06-14T18:31:38.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/artisans/news/disclosure-day-john-williams-steven-spielberg-1236779833/",
+      "title": "&#8216;Disclosure Day&#8217;: John Williams Recorded Two Hours of Music Over a Six Month Period for his 30th Collaboration with Steven Spielberg (Exclusive)",
+      "link": "https://variety.com/2026/artisans/news/disclosure-day-john-williams-steven-spielberg-1236779833/",
+      "description": "John Williams&#8217; music for &#8220;Disclosure Day&#8221; marks his 30th score for director Steven Spielberg, dating back more than half a century to their first film together, &#8220;The Sugarland…",
+      "date": "2026-06-14T17:45:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
+      "title": "Conclave is the sound of a NYC summer block party",
+      "link": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
+      "description": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I wa…",
+      "date": "2026-06-14T16:30:00.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/06/14/rod-stewart-world-cup-angers-fans/",
+      "title": "Rod Stewart Parties It Up at a Scotland World Cup Match — Just Moments After Cancelling a California Show at the Last Minute",
+      "link": "https://www.digitalmusicnews.com/2026/06/14/rod-stewart-world-cup-angers-fans/",
+      "description": "Fans are outraged as Rod Stewart was spotted at a Scotland FIFA World Cup match less than a day after he abruptly cancelled a California show due to illness. Rock icon Rod Stewart nixed his scheduled…",
+      "date": "2026-06-14T12:03:51.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://variety.com/2026/music/news/bruce-springsteen-apologizes-to-bono-refusing-commercial-1236780748/",
@@ -59,56 +269,6 @@
       "date": "2026-06-13T22:27:20.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/trump-name-removed-kennedy-center-1236272538/",
-      "title": "Trump’s Name Is Gone From Kennedy Center&#8217;s Facade, According to Top Official at the Arts&#160;Venue",
-      "link": "https://www.billboard.com/music/music-news/trump-name-removed-kennedy-center-1236272538/",
-      "description": "\"All physical signage on the Kennedy Center building and grounds ... that purports to rename the Kennedy Center after President Trump\" has been removed, a court filing states.",
-      "date": "2026-06-13T22:25:37.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/lists/2026-black-women-in-music-highlights-chaka-khan/",
-      "title": "Chaka Khan, Kelly Rowland &#038; More Honored at 2026 Black Women in Music&#160;Dinner",
-      "link": "https://www.billboard.com/lists/2026-black-women-in-music-highlights-chaka-khan/",
-      "description": "Choreographer Fatima Robinson, music executive Natina Nimene, Billboard’s Gail Mitchell and Gender Amplified’s Ebonie Smith were also honored at the event.",
-      "date": "2026-06-13T20:48:47.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
-      "title": "Olivia Rodrigo’s &#8216;You Seem Pretty Sad for a Girl So in Love&#8217; Breaks First-Day Streaming&#160;Records",
-      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
-      "description": "The pop star released her third studio album on June 12.",
-      "date": "2026-06-13T20:09:06.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
-      "title": "Lil Uzi Vert Proves They Can&#8217;t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: &#8216;New Album on the&#160;Way&#8217;",
-      "link": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
-      "description": "Uzi teased a new album, played unreleased music and shouted-out North West during the 45-minute set.",
-      "date": "2026-06-13T19:16:14.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/north-west-first-solo-music-festival-summer-smash-2026-1236272487/",
-      "title": "North West Performs First Solo Music Festival Set With Support From Ye &#038; Kim&#160;Kardashian",
-      "link": "https://www.billboard.com/music/music-news/north-west-first-solo-music-festival-summer-smash-2026-1236272487/",
-      "description": "The 12-year-old's set at Lyrical Lemonade's Summer Smash 2026 follows the release of her debut EP, N0rth4evr.",
-      "date": "2026-06-13T18:20:35.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -130,6 +290,26 @@
       "source": "Variety",
       "sourceId": "variety-music",
       "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/06/12/uk-musicians-union-ai-comments/",
+      "title": "The AFM&#8217;s AI Lawsuit Is Now Part of &#8216;A Global Fight&#8217; &#8212; UK&#8217;s Musicians&#8217; Union Urges Others to &#8216;Take on Major Corporations Who Intend to Exploit Their Rights Without Consent&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/06/12/uk-musicians-union-ai-comments/",
+      "description": "The AFM’s lawsuit against Universal Music and Warner Music is now one component of “a global fight,” as the UK’s Musicians&#8217; Union has backed the litigation and urged other unions yet to “take on…",
+      "date": "2026-06-13T06:15:39.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/06/12/termination-showdown-university-of-michigan/",
+      "title": "After Salt-N-Pepa and 2 Live Crew Legal Battles, Another Termination Showdown Emerges Over the University of Michigan Fight Song",
+      "link": "https://www.digitalmusicnews.com/2026/06/12/termination-showdown-university-of-michigan/",
+      "description": "The original songwriters of a University of Michigan fight song are fighting back against the song’s publishers over alleged licensing interference. The realm of termination clause legal battles conti…",
+      "date": "2026-06-13T06:00:47.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/06/12/lionel-richie-trademarks/",
@@ -167,16 +347,6 @@
       "link": "https://www.digitalmusicnews.com/2026/06/12/morrissey-statement-impersonators-defaming-him/",
       "description": "Morrissey releases a statement about people he claims to have identified who posed as him online to spread misinformation about his political ties. Morrissey has remained popular in the decades since…",
       "date": "2026-06-12T20:27:24.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/06/12/termination-showdown-university-of-michigan/",
-      "title": "After Salt-N-Pepa and 2 Live Crew Legal Battles, Another Termination Showdown Emerges Over the University of Michigan Fight Song",
-      "link": "https://www.digitalmusicnews.com/2026/06/12/termination-showdown-university-of-michigan/",
-      "description": "The original songwriters of a University of Michigan fight song are fighting back against the song’s publishers over alleged licensing interference. The realm of termination clause legal battles conti…",
-      "date": "2026-06-12T19:55:47.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
@@ -242,26 +412,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.digitalmusicnews.com/2026/06/12/uk-musicians-union-ai-comments/",
-      "title": "The AFM&#8217;s AI Lawsuit Is Now Part of &#8216;A Global Fight&#8217; &#8212; UK&#8217;s Musicians&#8217; Union Urges Others to &#8216;Take on Major Corporations Who Intend to Exploit Their Rights Without Consent&#8217;",
-      "link": "https://www.digitalmusicnews.com/2026/06/12/uk-musicians-union-ai-comments/",
-      "description": "The AFM’s lawsuit against Universal Music and Warner Music is now one component of “a global fight,” as the UK’s Musicians&#8217; Union has backed the litigation and urged other unions yet to “take on…",
-      "date": "2026-06-12T17:50:39.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/olivia-rodrigo-you-seem-pretty-sad-vinyl-buy-online-1236779681/",
-      "title": "Olivia Rodrigo Releases Special-Edition Vinyl for &#8216;You Seem Pretty Sad for a Girl So in Love&#8217;",
-      "link": "https://variety.com/2026/music/news/olivia-rodrigo-you-seem-pretty-sad-vinyl-buy-online-1236779681/",
-      "description": "Olivia Rodrigo&#8217;s third studio album, &#8220;You Seem Pretty Sad for a Girl So in Love,&#8221; is one of the year&#8217;s most anticipated releases. Available worldwide now, the singer has partne…",
-      "date": "2026-06-12T17:33:20.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.musicbusinessworldwide.com/from-umgs-e1b-bond-sale-to-warner-musics-sureel-ai-acquisition-its-mbws-weekly-round-up/",
       "title": "From UMG&#8217;s €1B bond sale to Warner Music&#8217;s Sureel AI acquisition&#8230; it&#8217;s MBW&#8217;s Weekly Round-up",
       "link": "https://www.musicbusinessworldwide.com/from-umgs-e1b-bond-sale-to-warner-musics-sureel-ai-acquisition-its-mbws-weekly-round-up/",
@@ -270,16 +420,6 @@
       "source": "Music Business Worldwide",
       "sourceId": "mbw",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/film/news/the-beatles-movies-ben-schwartz-sonic-the-hedgehog-1236779742/",
-      "title": "‘The Beatles’ Movies Casts &#8216;Sonic the Hedgehog&#8217; Star Ben Schwartz",
-      "link": "https://variety.com/2026/film/news/the-beatles-movies-ben-schwartz-sonic-the-hedgehog-1236779742/",
-      "description": "Ben Schwartz has joined the cast of “The Beatles — A Four-Film Cinematic Event.” Schwartz will play New York disc jockey Murray the K. The Beatles welcomed Murray into their orbit during their first t…",
-      "date": "2026-06-12T15:45:31.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.musicbusinessworldwide.com/warped-tour-founder-kevin-lyman-on-rewarding-superfans-breaking-artists-and-the-business-of-festivals/",
@@ -300,16 +440,6 @@
       "source": "Music Business Worldwide",
       "sourceId": "mbw",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/sombr-covers-taylor-swift-songwriters-hall-of-fame-1236779478/",
-      "title": "Sombr Covers Two Taylor Swift Songs as Steven Spielberg Compares Her to Lennon-McCartney at Songwriters Hall of Fame Ceremony",
-      "link": "https://variety.com/2026/music/news/sombr-covers-taylor-swift-songwriters-hall-of-fame-1236779478/",
-      "description": "As we say every year, the annual Songwriters Hall of Fame ceremony is a combination of an awards show and a family reunion — an annual gathering of superstars virtually everyone recognizes, iconic beh…",
-      "date": "2026-06-12T13:00:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://musically.com/2026/06/12/napster-parent-firms-3bn-investor-is-now-facing-fraud-charges/",
@@ -405,7 +535,7 @@
       "id": "https://musically.com/2026/06/12/behind-the-campaign-la-rvfleuze-2/",
       "title": "Behind The Campaign: La Rvfleuze",
       "link": "https://musically.com/2026/06/12/behind-the-campaign-la-rvfleuze-2/",
-      "description": "A self-starter, La Rvfleuze (real name: Seny Bengaly) released a run of tracks via DistroKid and quickly established himself as a new voice in Parisian hip-hop. A prison sentence, however, did not der…",
+      "description": "A self-starter, La Rvfleuze released a run of tracks via DistroKid and quickly established himself as a new voice in Parisian hip-hop. A prison sentence, however, did not derail his career. When track…",
       "date": "2026-06-12T12:00:00.000Z",
       "source": "Music Ally",
       "sourceId": "musically",
@@ -552,16 +682,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.musicbusinessworldwide.com/republic-collective-partners-with-ziza-inc-on-new-jv-focused-on-breaking-south-asian-artists-globally/",
-      "title": "REPUBLIC Collective strikes joint venture with ZIZA Inc. focused on breaking South Asian artists globally",
-      "link": "https://www.musicbusinessworldwide.com/republic-collective-partners-with-ziza-inc-on-new-jv-focused-on-breaking-south-asian-artists-globally/",
-      "description": "The joint venture will prioritize signing and developing artists from the South Asian diaspora\nSource",
-      "date": "2026-06-11T20:07:46.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
       "id": "https://www.digitalmusicnews.com/2026/06/11/anthropic-claude-fm/",
       "title": "What Is Anthropic’s ‘Claude FM’ and Is Your Music Part of It?",
       "link": "https://www.digitalmusicnews.com/2026/06/11/anthropic-claude-fm/",
@@ -579,36 +699,6 @@
       "date": "2026-06-11T19:13:06.000Z",
       "source": "RAIN News",
       "sourceId": "rain",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/us-music-publishing-revenues-hit-7-3b-in-2025-nmpa-reveals-at-annual-meeting-honoring-pnk-julian-bunetta-and-harvey-mason-jr/",
-      "title": "US music publishing revenues hit $7.3B in 2025, NMPA reveals at Annual Meeting honoring P!nk, Julian Bunetta and Harvey Mason jr.",
-      "link": "https://www.musicbusinessworldwide.com/us-music-publishing-revenues-hit-7-3b-in-2025-nmpa-reveals-at-annual-meeting-honoring-pnk-julian-bunetta-and-harvey-mason-jr/",
-      "description": "NMPA Chief Legal Officer and Chief Operating Officer Danielle Aguirre said publishing outpaced the growth of recorded music for the fourth year in a row.\nSource",
-      "date": "2026-06-11T18:43:11.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/theres-nothing-wrong-with-success-and-chasing-your-dreams-but-dont-forget-to-bring-your-true-self-with-you/",
-      "title": "&#8216;There&#8217;s nothing wrong with success and chasing your dreams, but don&#8217;t forget to bring your true self with you.&#8217;",
-      "link": "https://www.musicbusinessworldwide.com/theres-nothing-wrong-with-success-and-chasing-your-dreams-but-dont-forget-to-bring-your-true-self-with-you/",
-      "description": "Philip Lawrence has been Bruno Mars’ key creative partner for over 15 years, co-writing smash-hit singles and landmark albums along the way. \nSource",
-      "date": "2026-06-11T18:01:33.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/stevie-nicks-melissa-etheridge-and-jackson-browne-to-perform-at-city-of-hopes-2026-spirit-of-life-gala-honoring-primary-waves-larry-mestel/",
-      "title": "Stevie Nicks, Melissa Etheridge and Jackson Browne to perform at City of Hope&#8217;s 2026 Spirit of Life Gala honoring Primary Wave&#8217;s Larry Mestel",
-      "link": "https://www.musicbusinessworldwide.com/stevie-nicks-melissa-etheridge-and-jackson-browne-to-perform-at-city-of-hopes-2026-spirit-of-life-gala-honoring-primary-waves-larry-mestel/",
-      "description": "Primary Wave Founder &#38; CEO Larry Mestel will be honored for his leadership and commitment to cancer research, with proceeds supporting City of Hope’s immunotherapy and breast cancer programs.\nSour…",
-      "date": "2026-06-11T17:37:49.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
       "category": "Industry"
     },
     {
@@ -672,26 +762,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://musically.com/2026/06/11/lexic-launches-legal-mentorship-programme-for-indian-independent-acts/",
-      "title": "Lexic launches legal mentorship programme for Indian independent acts",
-      "link": "https://musically.com/2026/06/11/lexic-launches-legal-mentorship-programme-for-indian-independent-acts/",
-      "description": "Music lawyer Sandhya Surendran, who runs Lexic, is marking the tenth anniversary of her Bengaluru-based law firm with the launch of Lighthouse, an initiative through which four Indian or Indian-origin…",
-      "date": "2026-06-11T15:35:14.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
-    },
-    {
-      "id": "https://musically.com/2026/06/11/lyricfind-integrates-video-creation-tool-into-indian-distro-service-swalay/",
-      "title": "LyricFind integrates video-creation tool into Indian distro service SwaLay",
-      "link": "https://musically.com/2026/06/11/lyricfind-integrates-video-creation-tool-into-indian-distro-service-swalay/",
-      "description": "In April, Canadian lyric licensing and data company LyricFind announced the launch of Artist Unlimited, a new subscription tier that allows users to create videos using Rotor. That’s the UK-based [&#8…",
-      "date": "2026-06-11T13:30:09.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
-    },
-    {
       "id": "https://www.digitalmusicnews.com/2026/06/11/spotify-illegal-drug-peddling-podcasts/",
       "title": "Spotify Is Purging Tens of Thousands of Illegal Drug-Peddling Podcasts Amid Congressional Investigation",
       "link": "https://www.digitalmusicnews.com/2026/06/11/spotify-illegal-drug-peddling-podcasts/",
@@ -700,26 +770,6 @@
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/judge-gives-muvox-14-days-to-serve-bmg-with-patent-lawsuit-or-the-case-gets-dismissed/",
-      "title": "Judge gives Muvox 14 days to serve BMG with patent lawsuit – or the case gets dismissed",
-      "link": "https://www.musicbusinessworldwide.com/judge-gives-muvox-14-days-to-serve-bmg-with-patent-lawsuit-or-the-case-gets-dismissed/",
-      "description": "The lawsuit filed in 2024 centers on a patent titled 'Music streaming, playlist creation and streaming architecture.'\nSource",
-      "date": "2026-06-11T12:39:45.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://musically.com/2026/06/11/deezer-debuts-ai-music-detector-for-playlists-on-all-dsps/",
-      "title": "Deezer debuts ‘AI music detector’ for playlists&#8230; on all DSPs",
-      "link": "https://musically.com/2026/06/11/deezer-debuts-ai-music-detector-for-playlists-on-all-dsps/",
-      "description": "Deezer continues to lean in hard to its technology for detecting AI-generated music – and then generating headlines about its scale. The latest example being an ‘AI music detector’ for people’s playli…",
-      "date": "2026-06-11T12:30:00.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/06/11/mana-latin-american-tour/",
@@ -1762,46 +1812,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.digitalmusicnews.com/2026/06/01/long-beach-amphitheater-opening-2026/",
-      "title": "$21 Million Long Beach Amphitheater Opens Less Than Six Months After Breaking Ground — Take a Wild Guess on Who&#8217;s Playing the First Show",
-      "link": "https://www.digitalmusicnews.com/2026/06/01/long-beach-amphitheater-opening-2026/",
-      "description": "Now that naming rights have been secured by FMB, Long Beach’s new $21 million amphitheater opens this week with a show from hometown hero Snoop Dogg. California’s new waterfront amphitheater, the FMB…",
-      "date": "2026-06-01T19:21:54.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/06/01/copyright-office-aimp-shira-perlmutter/",
-      "title": "Copyright Office Top Brass to Address AIMP Global Publishing Summit in New York",
-      "link": "https://www.digitalmusicnews.com/2026/06/01/copyright-office-aimp-shira-perlmutter/",
-      "description": "The AIMP Global Music Publishing Summit will feature a special fireside chat with Shira Perlmutter and Emily L. Chapuis of the U.S. Copyright Office. The Association of Independent Music Publishers (A…",
-      "date": "2026-06-01T18:57:41.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/06/01/fender-prs-cease-and-desist-order/",
-      "title": "Fender Slaps PRS with Cease-and-Desist Over Iconic Stratocaster Design",
-      "link": "https://www.digitalmusicnews.com/2026/06/01/fender-prs-cease-and-desist-order/",
-      "description": "Fender won the rights to the iconic Stratocaster body shape, and now the company is issuing a cease-and-desist to PRS Guitars over John Mayer’s Silver Sky. Fender was awarded broad rights to the iconi…",
-      "date": "2026-06-01T18:42:47.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/06/01/live-nation-dale-play-acquisition/",
-      "title": "Live Nation Takes Majority Stake in Argentina&#8217;s Dale Play Live Amid Aggressive LATAM Expansion: &#8216;Buenos Aires Is the Second Largest Music Market in South America and a Priority&#8217;",
-      "link": "https://www.digitalmusicnews.com/2026/06/01/live-nation-dale-play-acquisition/",
-      "description": "Another day, another international acquisition for Live Nation, which has taken a majority interest in Argentina’s Dale Play Live and deemed Buenos Aires “a priority” amid a broader expansion across L…",
-      "date": "2026-06-01T16:29:30.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
       "id": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
       "title": "AI is blowing up music. How should the Grammys handle it?",
       "link": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
@@ -1847,16 +1857,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
       "description": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai…",
       "date": "2026-05-26T12:46:03.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-      "title": "Record Club is trying to be Letterboxd for music nerds",
-      "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-      "description": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels mo…",
-      "date": "2026-05-23T22:41:11.000Z",
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
