@@ -1,22 +1,122 @@
 {
-  "generated": "2026-06-20T09:29:26.680Z",
+  "generated": "2026-06-21T09:59:37.598Z",
   "articles": [
+    {
+      "id": "https://www.billboard.com/music/music-news/bebe-rexha-olivia-rodrigo-comment-1236277202/",
+      "title": "Bebe Rexha Shuts Down Olivia Rodrigo Comparison: ‘I’m Actually Happy for&#160;Her’",
+      "link": "https://www.billboard.com/music/music-news/bebe-rexha-olivia-rodrigo-comment-1236277202/",
+      "description": "Rexha has long been outspoken about the pressures facing women in the music industry.",
+      "date": "2026-06-21T07:20:10.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/rock/iron-maiden-phone-free-paris-1236277198/",
+      "title": "Iron Maiden Enforce Phone-Free Standing Area at Paris La Défense Arena&#160;Show",
+      "link": "https://www.billboard.com/music/rock/iron-maiden-phone-free-paris-1236277198/",
+      "description": "The rockers confirmed the La Défense Arena performance will be filmed for their forthcoming Run For Your Lives Tour concert film.",
+      "date": "2026-06-21T05:50:24.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/travis-kelce-chris-lake-concert-los-angeles-1236277147/",
+      "title": "Travis Kelce Joins Chris Lake, Who Remixed Taylor Swift&#8217;s &#8216;Opalite,&#8217; on Stage in&#160;L.A.",
+      "link": "https://www.billboard.com/music/music-news/travis-kelce-chris-lake-concert-los-angeles-1236277147/",
+      "description": "The Chiefs tight end played hype man on a Los Angeles night out with pals while Swift appeared to be on the other coast, having a rumored ladies' weekend in Westerly, R.I.",
+      "date": "2026-06-21T02:00:56.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/ariana-grande-petal-tracklist-songs-1236277122/",
+      "title": "Ariana Grande Announces Full &#8216;Petal&#8217; Tracklist",
+      "link": "https://www.billboard.com/music/music-news/ariana-grande-petal-tracklist-songs-1236277122/",
+      "description": "All 12 song titles have been revealed for the album, which arrives July 31.",
+      "date": "2026-06-20T22:25:24.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/country/ella-langley-god-north-star-oklahoma-concert-speech-1236277119/",
+      "title": "Ella Langley Says God, Not Men or Drugs, Is Her ‘One North Star’ in Powerful Onstage&#160;Speech",
+      "link": "https://www.billboard.com/music/country/ella-langley-god-north-star-oklahoma-concert-speech-1236277119/",
+      "description": "The country star's heartfelt message came during her June 18 concert in Oklahoma City.",
+      "date": "2026-06-20T20:25:40.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/dua-lipa-wedding-photos-sicily-ceremony-callum-turner-1236277115/",
+      "title": "Dua Lipa and Callum Turner Share Stunning Wedding Photos From Ceremony in&#160;Sicily",
+      "link": "https://www.billboard.com/music/music-news/dua-lipa-wedding-photos-sicily-ceremony-callum-turner-1236277115/",
+      "description": "\"Mr &#38; Mrs,\" the pop superstar captioned a gallery from the couple's second wedding celebration.",
+      "date": "2026-06-20T19:04:04.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill…",
+      "date": "2026-06-20T18:46:48.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.billboard.com/music/rb-hip-hop/kanye-west-bully-deluxe-edition-don-toliver-kings-video-1236277110/",
+      "title": "Ye Drops ‘Bully’ Deluxe Edition Featuring New Don Toliver Song, Shares Surreal ‘Kings’&#160;Video",
+      "link": "https://www.billboard.com/music/rb-hip-hop/kanye-west-bully-deluxe-edition-don-toliver-kings-video-1236277110/",
+      "description": "The expanded edition of the rapper’s 12th album includes two new tracks.",
+      "date": "2026-06-20T18:18:43.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/forrest-frank-the-jesus-generation-tour-nashville-concert-1236277091/",
+      "title": "Forrest Frank Brings Plethora of Hits and a Heart For Worship to &#8216;The Jesus Generation&#8217; Show in&#160;Nashville",
+      "link": "https://www.billboard.com/music/music-news/forrest-frank-the-jesus-generation-tour-nashville-concert-1236277091/",
+      "description": "Forrest Frank spearheaded a show at Nashville's GEODIS Park on June 19.",
+      "date": "2026-06-20T17:08:40.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/rb-hip-hop/drake-tay-keith-tribute-producer-death-1236277098/",
+      "title": "Drake Pays Tribute to Tay Keith After Producer&#8217;s Death: &#8216;Endless and Eternal Gratitude&#8217;",
+      "link": "https://www.billboard.com/music/rb-hip-hop/drake-tay-keith-tribute-producer-death-1236277098/",
+      "description": "The Memphis hitmaker produced Drake's chart-topping song \"First Person Shooter.\"",
+      "date": "2026-06-20T15:52:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "description": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments.…",
+      "date": "2026-06-20T15:20:00.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
+    },
     {
       "id": "https://www.billboard.com/music/music-news/the-whitlams-australia-tour-2026-1236277087/",
       "title": "The Whitlams Announce Return to Rock Island Australian&#160;Tour",
       "link": "https://www.billboard.com/music/music-news/the-whitlams-australia-tour-2026-1236277087/",
       "description": "The Whitlams are heading back to their favourite Australian pubs this October.",
       "date": "2026-06-20T07:29:44.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/rb-hip-hop/ken-carson-new-album-xperiment-1236277078/",
-      "title": "Ken Carson Sets July Release Date for New Album &#8216;xperiment&#8217;",
-      "link": "https://www.billboard.com/music/rb-hip-hop/ken-carson-new-album-xperiment-1236277078/",
-      "description": "xperiment follows Carson's 2025 Billboard 200 No. 1 album, More Chaos.",
-      "date": "2026-06-20T04:59:12.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
@@ -32,16 +132,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/rb-hip-hop/tay-keith-death-producer-family-statement-1236277062/",
-      "title": "Tay Keith&#8217;s Family Pays Tribute to Late Producer: A &#8216;Cultural Force&#8217; &#038; &#8216;Source of Love, Strength, Laughter,&#160;Guidance&#8217;",
-      "link": "https://www.billboard.com/music/rb-hip-hop/tay-keith-death-producer-family-statement-1236277062/",
-      "description": "\"We respectfully ask for privacy and continued prayers for his family and loved ones during this difficult time,\" Keith's family wrote.",
-      "date": "2026-06-19T23:31:49.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://rainnews.com/best-roi-podcasts-in-oxford-road-ranker/",
       "title": "Best ROI podcasts in Oxford Road ranker",
       "link": "https://rainnews.com/best-roi-podcasts-in-oxford-road-ranker/",
@@ -50,16 +140,6 @@
       "source": "RAIN News",
       "sourceId": "rain",
       "category": "Industry"
-    },
-    {
-      "id": "https://www.billboard.com/business/record-labels/bootsy-collins-signs-davie-first-artist-bootzilla-records-1236277059/",
-      "title": "Bootsy Collins Signs Davie as First Artist to Bootzilla&#160;Records",
-      "link": "https://www.billboard.com/business/record-labels/bootsy-collins-signs-davie-first-artist-bootzilla-records-1236277059/",
-      "description": "The roots-soul singer made his label debut with \"Soul,\" released on Juneteenth.",
-      "date": "2026-06-19T19:27:10.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
     },
     {
       "id": "https://variety.com/2026/film/news/randy-newman-toy-story-5-music-taylor-swift-song-1236784277/",
@@ -72,36 +152,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/lists/fuerza-regida-stadium-tour-san-diego-petco-park-recap/",
-      "title": "Fuerza Regida Turns Petco Park Into a Corridos Time Machine: 6 Best Moments From Opening Night of Their Stadium&#160;Tour",
-      "link": "https://www.billboard.com/lists/fuerza-regida-stadium-tour-san-diego-petco-park-recap/",
-      "description": "The SoCal superstars launched their first-ever U.S. stadium trek with a high-concept show that moved through the band’s past, present and future.",
-      "date": "2026-06-19T19:12:13.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/justin-cary-death-sixpence-none-the-richer-bassist-dies-1236276944/",
-      "title": "Justin Cary, Sixpence None the Richer Bassist, Dies at&#160;50",
-      "link": "https://www.billboard.com/music/music-news/justin-cary-death-sixpence-none-the-richer-bassist-dies-1236276944/",
-      "description": "The band’s singer Leigh Nash confirmed Cary’s death on June 18.",
-      "date": "2026-06-19T18:30:35.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/product-recommendations/where-to-buy-bunnie-xo-memoir-stripped-down-shop-online-1236177278/",
-      "title": "Bunnie Xo Memoir Returns to Bestsellers Charts on Heels of Jelly Roll&#160;Split",
-      "link": "https://www.billboard.com/culture/product-recommendations/where-to-buy-bunnie-xo-memoir-stripped-down-shop-online-1236177278/",
-      "description": "The entrepreneur shares a closer look at her life in Stripped Down: Unfiltered and Unapologetic.",
-      "date": "2026-06-19T18:30:00.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/linda-lindas-sign-with-reprise-warner-records-1236782104/",
       "title": "Music Industry Moves: Mýa Signs With WME",
       "link": "https://variety.com/2026/music/news/linda-lindas-sign-with-reprise-warner-records-1236782104/",
@@ -109,36 +159,6 @@
       "date": "2026-06-19T17:30:00.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/chart-beat/zara-larsson-midnight-sun-number-one-pop-airplay-chart-1236276941/",
-      "title": "Zara Larsson’s ‘Midnight Sun’ Shines at No. 1 on Billboard’s Pop Airplay&#160;Chart",
-      "link": "https://www.billboard.com/music/chart-beat/zara-larsson-midnight-sun-number-one-pop-airplay-chart-1236276941/",
-      "description": "She’s the first artist ever to notch two new No. 1s on the chart in back-to-back weeks, following “Stateside” with PinkPantheress.",
-      "date": "2026-06-19T17:05:43.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/latin/reggaeton-beach-festival-2026-canceled-1236276937/",
-      "title": "Reggaeton Beach Festival Cancels Its 2026 Edition Citing &#8216;Economic &#038; Operational Circumstances&#8217;",
-      "link": "https://www.billboard.com/music/latin/reggaeton-beach-festival-2026-canceled-1236276937/",
-      "description": "The events scheduled in Spain for Barcelona, ​​Madrid, Tenerife, Mallorca, Santander, Nigrán and Alicante will not take place, following the decision announced by the organizers.",
-      "date": "2026-06-19T17:03:52.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-uk-number-one-you-seem-pretty-sad-1236276891/",
-      "title": "Olivia Rodrigo Scores Career-Best Opening Week as ‘You Seem Pretty Sad for a Girl So in Love’ Hits U.K. No.&#160;1",
-      "link": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-uk-number-one-you-seem-pretty-sad-1236276891/",
-      "description": "Rodrigo now has her third U.K. chart-topper following Sour and Guts.",
-      "date": "2026-06-19T17:00:43.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -170,6 +190,16 @@
       "source": "Variety",
       "sourceId": "variety-music",
       "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+      "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+      "description": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's…",
+      "date": "2026-06-19T14:53:53.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
     },
     {
       "id": "https://completemusicupdate.com/music-industry-happy-as-no-fakes-act-progresses-further-in-us-congress-though-criticism-remains-on-free-speech-grounds/",
@@ -393,7 +423,7 @@
     },
     {
       "id": "https://variety.com/2026/music/concert-reviews/the-chicks-concert-review-yaamava-tour-live-1236785190/",
-      "title": "Here&#8217;s to the Chicks as the Band of the Sesquicentennial, as Group Performs First U.S. Show in Three Years at SoCal&#8217;s Yaamava&#8217; Theater: Concert Review",
+      "title": "Here&#8217;s to the Chicks as the Band of the Semiquincentennial, as Group Performs First U.S. Show in Three Years at SoCal&#8217;s Yaamava&#8217; Theater: Concert Review",
       "link": "https://variety.com/2026/music/concert-reviews/the-chicks-concert-review-yaamava-tour-live-1236785190/",
       "description": "In the words of Grand Funk: They&#8217;re an American band. Those of us who are prone to think and argue about rock &#8216;n&#8217; roll superlatives often debate which act counts as the greatest Amer…",
       "date": "2026-06-19T00:36:02.000Z",
@@ -842,16 +872,6 @@
       "category": "Technology"
     },
     {
-      "id": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
-      "title": "Feeble Little Horse leans into digital weirdness on bitknot",
-      "link": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
-      "description": "From the opening moments of bitknot, it's obvious that Feeble Little Horse has found an entirely new gear. Where on Girl with Fish the blown-out textures were more '90s indie rock and shoegaze, on the…",
-      "date": "2026-05-31T16:00:00.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
       "id": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
       "title": "ElevenLabs&#8217; new music-generation model can switch genres mid-track",
       "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
@@ -859,26 +879,6 @@
       "date": "2026-05-27T14:14:10.000Z",
       "source": "TechCrunch",
       "sourceId": "techcrunch-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
-      "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
-      "link": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
-      "description": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage p…",
-      "date": "2026-05-26T16:00:00.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "description": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai…",
-      "date": "2026-05-26T12:46:03.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
       "category": "Technology"
     },
     {
