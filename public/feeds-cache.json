@@ -1,44 +1,184 @@
 {
-  "generated": "2026-08-16T06:50:41.550Z",
+  "generated": "2026-08-17T07:07:12.155Z",
   "articles": [
     {
-      "id": "https://www.billboard.com/music/music-news/earth-wind-fire-drummer-john-paris-induced-coma-1236317272/",
-      "title": "Earth, Wind &#038; Fire Drummer John Paris in Induced Coma Following Medical&#160;Emergency",
-      "link": "https://www.billboard.com/music/music-news/earth-wind-fire-drummer-john-paris-induced-coma-1236317272/",
-      "description": "A GoFundMe campaign established to support Paris and his family.",
-      "date": "2026-08-16T06:41:41.000Z",
+      "id": "https://www.billboard.com/music/concerts/portugal-the-man-announces-2026-australian-tour-dates-1236317476/",
+      "title": "Portugal. The Man Announces 2026 Australian East Coast Tour&#160;Dates",
+      "link": "https://www.billboard.com/music/concerts/portugal-the-man-announces-2026-australian-tour-dates-1236317476/",
+      "description": "The shows follow the release of the group's tenth studio album, SHISH, out last November.",
+      "date": "2026-08-17T04:38:24.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/lists/ariana-grande-london-live-review-the-o2-2026/",
-      "title": "Ariana Grande Reclaims the London Stage After 7 Years: 5 Best&#160;Moments",
-      "link": "https://www.billboard.com/lists/ariana-grande-london-live-review-the-o2-2026/",
-      "description": "The pop star made a spectacular return to the capital for the first of 10 nights at The O2 (Aug. 15).",
-      "date": "2026-08-16T01:49:53.000Z",
+      "id": "https://www.digitalmusicnews.com/2026/08/16/roblox-investigation-us-senate-child-safety/",
+      "title": "Roblox Under Investigation by the U.S. Senate Over Continued Child Safety Concerns",
+      "link": "https://www.digitalmusicnews.com/2026/08/16/roblox-investigation-us-senate-child-safety/",
+      "description": "The U.S. Senate Judiciary Subcommittee on Crime and Counterterrorism has opened a bipartisan investigation into Roblox over child safety concerns. When it rains, it pours. Gaming platform Roblox is fa…",
+      "date": "2026-08-17T04:04:02.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/16/boy-george-vancouver-summer-fair/",
+      "title": "Boy George Sparks More Controversy with Appearance at Vancouver Summer Fair",
+      "link": "https://www.digitalmusicnews.com/2026/08/16/boy-george-vancouver-summer-fair/",
+      "description": "Requests for ticket refunds at Vancouver&#8217;s summer fair have increased since Boy George, a slated performer since April, released his controversial pro-Israel song. Boy George and his band Cultur…",
+      "date": "2026-08-17T03:58:55.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/culture/tv-film/hayden-panettiere-nashville-and-heroes-star-dies-1236317477/",
+      "title": "Hayden Panettiere, &#8216;Nashville&#8217; and &#8216;Heroes&#8217; Star, Dies at&#160;36",
+      "link": "https://www.billboard.com/culture/tv-film/hayden-panettiere-nashville-and-heroes-star-dies-1236317477/",
+      "description": "\"It is with profound sadness that we share the tragic passing of our beloved Hayden,\" her father said in a statement.",
+      "date": "2026-08-17T03:43:55.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/lists/2026-stellar-gospel-music-awards-winners-list/",
-      "title": "Lisa Knowles-Smith, Darrel Walls &#038; More Win Big at 2026 Stellar Gospel Music Awards: Full Winners&#160;List",
-      "link": "https://www.billboard.com/lists/2026-stellar-gospel-music-awards-winners-list/",
-      "description": "Vincent Bohanan &#38; SOV won three awards, all for their album Live in New York.",
-      "date": "2026-08-16T01:00:00.000Z",
+      "id": "https://variety.com/2026/music/concert-reviews/noah-kahan-concert-review-tour-rose-bowl-stadium-1236835970/",
+      "title": "Noah Kahan Turns His &#8216;Miserable&#8217; Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review",
+      "link": "https://variety.com/2026/music/concert-reviews/noah-kahan-concert-review-tour-rose-bowl-stadium-1236835970/",
+      "description": "“My name is Noah Kahan and I am here to make you fucking miserable!” the biggest male rock star on the charts right now announced almost at the outset of his sold-out show Saturday night at Pasadena&#…",
+      "date": "2026-08-17T01:41:58.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/ayra-starrs-starrgirl-best-new-music-poll-results-1236317440/",
+      "title": "Fans Choose Ayra Starr&#8217;s &#8216;Starrgirl&#8217; as This Week&#8217;s Favorite New&#160;Music",
+      "link": "https://www.billboard.com/music/music-news/ayra-starrs-starrgirl-best-new-music-poll-results-1236317440/",
+      "description": "The Nigerian singer's new album brought in more than 87% of the vote.",
+      "date": "2026-08-16T23:27:11.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/",
+      "title": "Ariana Grande Brings Out &#8216;Wicked&#8217; Co-Star Cynthia Erivo for &#8216;For Good&#8217; and &#8216;Get Happy/Happy Days Are Here Again&#8217; at London Concert",
+      "link": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/",
+      "description": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine tour stop at London&#8217;s O2. The “Wicked” stars sang “For Good” and “Get Happy/Happy Days Are Here Again&#8221; on…",
+      "date": "2026-08-16T21:27:31.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
       "category": "Business & Finance"
     },
     {
       "id": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
       "title": "The Best Moments From KCON LA 2026 (So&#160;Far)",
       "link": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
-      "description": "This year's festival officially opened Friday (Aug. 14) at the Los Angeles Convention Center and Crypto.com Arena.",
-      "date": "2026-08-16T00:51:25.000Z",
+      "description": "Day two delivered delightful covers of Justin Timberlake, One Direction, BLACKPINK and ATEEZ songs as ZEROBASEONE headlined the concert.",
+      "date": "2026-08-16T21:07:59.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-temporary-tattoos-stickers-buy-online-1236317354/",
+      "title": "These &#8216;KPop Demon Hunters&#8217; Temporary Tattoos Let You Rep Your Favorite Characters and Display Glow-in-the-Dark Demon&#160;Markings",
+      "link": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-temporary-tattoos-stickers-buy-online-1236317354/",
+      "description": "The temporary tattoos apply easily to the skin with water and wash off with soap or rubbing alcohol.",
+      "date": "2026-08-16T20:48:46.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "description": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revel…",
+      "date": "2026-08-16T20:31:37.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.billboard.com/lists/olivia-dean-msg-tour-dates-concert/",
+      "title": "Olivia Dean at MSG: The 5 Best Moments From the Second of Her Four Sold-Out&#160;Shows",
+      "link": "https://www.billboard.com/lists/olivia-dean-msg-tour-dates-concert/",
+      "description": "The English singer-songwriter proves she's at the peak of her powers.",
+      "date": "2026-08-16T20:28:59.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/latin/karol-g-bruno-mars-perform-still-la-show-music-video-1236317332/",
+      "title": "Karol G Brings Out Bruno Mars for Surprise Live Debut of &#8216;Still&#8217; at L.A.&#160;Concert",
+      "link": "https://www.billboard.com/music/latin/karol-g-bruno-mars-perform-still-la-show-music-video-1236317332/",
+      "description": "The pair performed the song as cameras rolled for its official music video.",
+      "date": "2026-08-16T19:47:25.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+      "title": "Stray Kids’ Latest Becomes Milestone 25th K-pop Album to Top Billboard 200: Full&#160;List",
+      "link": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+      "description": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
+      "date": "2026-08-16T19:28:36.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/stray-kids-biggest-sales-week-this-that-no-1-albums-chart-1236835702/",
+      "title": "Stray Kids Score Their Biggest Sales Week as &#8216;This &#038; That&#8217; Debuts Atop Albums Chart",
+      "link": "https://variety.com/2026/music/news/stray-kids-biggest-sales-week-this-that-no-1-albums-chart-1236835702/",
+      "description": "Stray Kids have scored their biggest sales week yet as their latest, &#8220;This &#38; That,&#8221; becomes their ninth No. 1 on the Billboard 200. The group bows atop the chart with 369,000 equivalen…",
+      "date": "2026-08-16T19:24:50.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/chart-beat/stray-kids-this-and-that-number-one-billboard-200-chart-1236317298/",
+      "title": "Stray Kids Score Ninth No. 1 on Billboard 200 With ‘THIS &#038;&#160;THAT’",
+      "link": "https://www.billboard.com/music/chart-beat/stray-kids-this-and-that-number-one-billboard-200-chart-1236317298/",
+      "description": "The act ties for the second-most No. 1 albums among groups, trailing only The Beatles.",
+      "date": "2026-08-16T19:00:20.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/culture/product-recommendations/lanterns-dc-studios-how-to-watch-online-free-1236314151/",
+      "title": "&#8216;Lanterns&#8217;: Here&#8217;s Where to Watch the New DC Studios TV Series Online for&#160;Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/lanterns-dc-studios-how-to-watch-online-free-1236314151/",
+      "description": "The latest TV show in the DC Cinematic Universe makes its series premiere on Aug. 16.",
+      "date": "2026-08-16T18:33:01.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/dolly-parton-skips-dollywood-opening-health-issues-1236835632/",
+      "title": "Dolly Parton Skips Dollywood Ride Opening Amid Ongoing Health Problems: &#8216;My Nashville Doctor Has Kinda Clipped My Wings&#8217;",
+      "link": "https://variety.com/2026/music/news/dolly-parton-skips-dollywood-opening-health-issues-1236835632/",
+      "description": "Dolly Parton was unable to attend the opening of NightFlight Expedition at Dollywood on Friday due to ongoing &#8220;health issues.&#8221; Dollywood President Eugene Naughton shared a pre-recorded vid…",
+      "date": "2026-08-16T17:18:19.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/",
+      "title": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Spotted Filming Beatles Biopic at Iconic Abbey Road Crosswalk",
+      "link": "https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/",
+      "description": "It wouldn’t be a Beatles movie without Abbey Road. In a video shared on social media, Harris Dickinson, Paul Mescal, Joseph Quinn and Barry Keoghan were shown recreating the iconic album cover for Sam…",
+      "date": "2026-08-16T16:37:47.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
       "category": "Business & Finance"
     },
     {
@@ -52,16 +192,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/pro/selena-gomez-lawyer-investor-fraud-lawsuit-statement/",
-      "title": "Selena Gomez&#8217;s Attorney Calls Investor Fraud Lawsuit Allegations &#8216;Meritless&#8217;",
-      "link": "https://www.billboard.com/pro/selena-gomez-lawyer-investor-fraud-lawsuit-statement/",
-      "description": "Her legal team is filing a motion to dismiss recent claims against Gomez involving Wondermind, the star's mental health startup.",
-      "date": "2026-08-15T23:38:45.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/",
       "title": "Slipknot Confirms Sid Wilson’s Sudden Exit: &#8216;We Wish Him the Best&#8217;",
       "link": "https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/",
@@ -69,26 +199,6 @@
       "date": "2026-08-15T21:41:30.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
-      "title": "‘The Greatest Showman’ Musical Sets London’s West End Premiere for&#160;2027",
-      "link": "https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
-      "description": "Oliver Tompsett and Samantha Barks lead the cast of the stage adaptation of the hit 2017 film.",
-      "date": "2026-08-15T20:01:26.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/tv-film/frozen-3-kristen-bell-idina-menzel-josh-gad-new-music-d23-1236317103/",
-      "title": "‘Frozen 3’ Stars Kristen Bell, Idina Menzel &#038; Josh Gad Tease New Music at&#160;D23",
-      "link": "https://www.billboard.com/culture/tv-film/frozen-3-kristen-bell-idina-menzel-josh-gad-new-music-d23-1236317103/",
-      "description": "The third installment in Disney’s hit franchise will hit theaters in November 2027.",
-      "date": "2026-08-15T18:27:21.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -102,34 +212,34 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/dave-marsh-death-bruce-springsteen-biographer-dies-1236317094/",
-      "title": "Dave Marsh, Influential Critic, Activist, Broadcaster &#038; Biographer of Bruce Springsteen, Dies at&#160;76",
-      "link": "https://www.billboard.com/music/music-news/dave-marsh-death-bruce-springsteen-biographer-dies-1236317094/",
-      "description": "\"I admired Dave as a man of conscience and commitment. He lived and stuck by his values come hell or high water,\" Bruce Springsteen wrote.",
-      "date": "2026-08-15T17:24:13.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+      "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+      "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+      "description": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Tee…",
+      "date": "2026-08-15T17:00:00.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/bonnie-tyler-fans-line-welsh-streets-coffin-brought-home-1236317091/",
-      "title": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought&#160;Home",
-      "link": "https://www.billboard.com/music/music-news/bonnie-tyler-fans-line-welsh-streets-coffin-brought-home-1236317091/",
-      "description": "The “Total Eclipse of the Heart” singer died in July at age 75.",
-      "date": "2026-08-15T16:50:46.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+      "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+      "link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+      "description": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out th…",
+      "date": "2026-08-15T15:00:00.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
     },
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/ufc-330-makhachev-machado-garry-watch-live-online-free-1236314045/",
-      "title": "Here&#8217;s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for&#160;Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/ufc-330-makhachev-machado-garry-watch-live-online-free-1236314045/",
-      "description": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
-      "date": "2026-08-15T16:25:24.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/08/14/suno-lawsuit-dismissals-jamendo-american-dollar/",
+      "title": "Jamendo Abruptly Drops Their Suno Copyright Infringement Lawsuit — With EDM Duo The American Dollar Also Ending Their Litigation",
+      "link": "https://www.digitalmusicnews.com/2026/08/14/suno-lawsuit-dismissals-jamendo-american-dollar/",
+      "description": "Just months after being filed, two copyright infringement lawsuits against Suno – one submitted by artists The American Dollar, another by Jamendo – have abruptly ended. Both the Queens-based duo and…",
+      "date": "2026-08-15T06:05:17.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/08/14/music-industry-hires-aug-14-2026/",
@@ -202,16 +312,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://variety.com/2026/music/news/frankie-valli-denies-retired-brother-claim-statement-1236834736/",
-      "title": "Frankie Valli Denies News Reports He Has Retired; Brother Apologizes for Claiming He Was Done, Saying &#8216;I Was Misinformed&#8217;",
-      "link": "https://variety.com/2026/music/news/frankie-valli-denies-retired-brother-claim-statement-1236834736/",
-      "description": "Frankie Valli is telling the world that he has not retired, contrary to reports over the last few days from multiple news outlets that took at face value a statement posted by his younger brother that…",
-      "date": "2026-08-14T20:28:37.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.digitalmusicnews.com/2026/08/14/megan-thee-stallion-interscope-umg-deal/",
       "title": "Megan Thee Stallion Inks with Interscope/UMG While Retaining Full Master and Publishing Ownership",
       "link": "https://www.digitalmusicnews.com/2026/08/14/megan-thee-stallion-interscope-umg-deal/",
@@ -220,26 +320,6 @@
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/14/suno-lawsuit-dismissals-jamendo-american-dollar/",
-      "title": "Jamendo and The American Dollar Abruptly Drop Their Suno Copyright Infringement Lawsuits Amid the AI Music Platform&#8217;s Policy Overhaul",
-      "link": "https://www.digitalmusicnews.com/2026/08/14/suno-lawsuit-dismissals-jamendo-american-dollar/",
-      "description": "Just months after being filed, two copyright infringement lawsuits against Suno – one submitted by artists The American Dollar, another by Jamendo – have abruptly ended. Both the Queens-based duo and…",
-      "date": "2026-08-14T19:05:17.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/ayra-starr-starrgirl-afrobeats-1236834684/",
-      "title": "Afrobeats Superstar Ayra Starr on the Freedom She Felt Making ‘Starrgirl’: ‘I Kept Telling People, “Let Me Cook!”’",
-      "link": "https://variety.com/2026/music/news/ayra-starr-starrgirl-afrobeats-1236834684/",
-      "description": "Nigerian Afrobeats superstar Ayra Starr is getting her hair blow-dried when she casually mentions that she has a plane to catch in an hour. It is less than 48 hours before release day, and our convers…",
-      "date": "2026-08-14T17:06:18.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.musicbusinessworldwide.com/from-sunos-bmg-breakthrough-to-live-nations-counterfeit-crackdown-its-mbws-weekly-round-up/",
@@ -372,16 +452,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/",
-      "title": "Troye Sivan Brings Nicole Kidman to the Club for &#8216;She&#8217;s the Best&#8217; Music Video",
-      "link": "https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/",
-      "description": "Troye Sivan has kicked off a new era with the release of his new single &#8220;She&#8217;s the Best&#8221; along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Stein…",
-      "date": "2026-08-14T04:48:07.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.digitalmusicnews.com/2026/08/13/google-gemini-ticketmaster-pandora-iheartradio/",
       "title": "Google&#8217;s Gemini Integrates Ticketmaster, Pandora, and iHeartRadio in Broader Music and Events Push",
       "link": "https://www.digitalmusicnews.com/2026/08/13/google-gemini-ticketmaster-pandora-iheartradio/",
@@ -390,16 +460,6 @@
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/",
-      "title": "Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for &#8216;Lost Weekend&#8217;",
-      "link": "https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/",
-      "description": "Phoebe Bridgers tends to stand out in a crowd, and not just because of her celebrity or natural star quality, but because of the hair; other women around L.A. may go for the platinum blonde look, but…",
-      "date": "2026-08-14T04:28:05.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/08/13/spotify-kobalt-deal-ai/",
@@ -490,16 +550,6 @@
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/film/news/kpop-demon-hunters-ejae-leonardo-dicaprio-1236834101/",
-      "title": "&#8216;KPop Demon Hunters&#8217; Singer Ejae &#8216;Made Mistakes&#8217; During BAFTAs Performance After Seeing Leonardo DiCaprio: &#8216;He Was Not Smiling&#8217; and &#8216;That&#8217;s What Put Me Off&#8217;",
-      "link": "https://variety.com/2026/film/news/kpop-demon-hunters-ejae-leonardo-dicaprio-1236834101/",
-      "description": "Leonardo DiCaprio could throw any of us off of our game — as EJAE can testify. The “KPop Demon Hunters” vocalist spoke with the U.K. newspaper the Times and recounted her experience performing at this…",
-      "date": "2026-08-13T18:54:53.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/08/13/stubhub-lobbying-california-ticket-resale-caps/",
@@ -1412,16 +1462,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "description": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to con…",
-      "date": "2026-08-05T16:57:25.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
       "id": "https://completemusicupdate.com/bob-vylan-secure-reversal-of-germany-travel-ban-instigated-over-their-2025-glastonbury-performance/",
       "title": "Bob Vylan secure reversal of Germany travel ban, instigated over their 2025 Glastonbury performance",
       "link": "https://completemusicupdate.com/bob-vylan-secure-reversal-of-germany-travel-ban-instigated-over-their-2025-glastonbury-performance/",
@@ -1640,46 +1680,6 @@
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/02/milk-honey-founder-lawsuit-ai-music-swindle/",
-      "title": "Milk &#038; Honey Founder Files $5 Million Lawsuit Against Silicon Valley Power-Couple Over Alleged AI Music Swindle",
-      "link": "https://www.digitalmusicnews.com/2026/08/02/milk-honey-founder-lawsuit-ai-music-swindle/",
-      "description": "Musician Warren “Oak” Felder and veteran manager Lucas Keller are suing tech entrepreneurs the De Brouwers over allegedly stolen AI music software. Grammy-winning producer and songwriter Warren “Oak”…",
-      "date": "2026-08-03T04:42:50.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/02/ifpi-rules-for-ai-chart-eligibility/",
-      "title": "3 Simple Rules for Determining AI Chart Eligibility, According to the IFPI",
-      "link": "https://www.digitalmusicnews.com/2026/08/02/ifpi-rules-for-ai-chart-eligibility/",
-      "description": "Global label organization IFPI has now announced a new set of three principles governing the eligibility of recordings developed with generative AI for official music chart rankings. On July 30, IFPI,…",
-      "date": "2026-08-03T04:15:56.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk…",
-      "date": "2026-08-02T21:53:15.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak…",
-      "date": "2026-08-02T19:36:08.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
     },
     {
       "id": "https://rainnews.com/07312026-2/",
