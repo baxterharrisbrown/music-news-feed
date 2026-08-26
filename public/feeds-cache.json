@@ -1,6 +1,346 @@
 {
-  "generated": "2026-08-25T06:58:15.226Z",
+  "generated": "2026-08-26T06:58:50.474Z",
   "articles": [
+    {
+      "id": "https://www.billboard.com/music/country/australia-prime-minister-anthony-albanese-dolly-parton-1236324767/",
+      "title": "‘It’s Hard to Imagine The World Without Her’: Australia’s Prime Minister Anthony Albanese Reflects on Dolly&#160;Parton",
+      "link": "https://www.billboard.com/music/country/australia-prime-minister-anthony-albanese-dolly-parton-1236324767/",
+      "description": "“Dolly Parton made our world a better place in so many ways,\" recounts Australia's leader.",
+      "date": "2026-08-26T06:36:57.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/wikihow-sues-openai-copyright-infringement/",
+      "title": "WikiHow Launches Copyright Infringement Suit Against OpenAI Over Instructional Material Used to Train AI Models",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/wikihow-sues-openai-copyright-infringement/",
+      "description": "DIY website wikiHow has sued OpenAI for copyright infringement over the alleged misuse of its instructional content to train the company&#8217;s popular AI chatbot ChatGPT. On Friday, do-it-yourself s…",
+      "date": "2026-08-26T06:00:25.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/what-so-not-edm-dj-changing-creative-direction/",
+      "title": "Nostalgia, Analog, and 2016 Energy: What So Not Brings Cinema-Scale Trap Back to the Underground",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/what-so-not-edm-dj-changing-creative-direction/",
+      "description": "Artists are known for changing creative direction once or twice in their careers, and this year, genre-defining Australian electronic music producer and DJ, What So Not, entered a new artistic chapter…",
+      "date": "2026-08-26T05:48:22.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/milli-vanilli-saint-laurent-ad/",
+      "title": "40 Years Later, Milli Vanilli&#8217;s &#8216;Girl I’m Gonna Miss You&#8217; Powers a Nostalgia-Heavy Saint Laurent Ad Campaign Featuring Rosé",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/milli-vanilli-saint-laurent-ad/",
+      "description": "Nearly 40 years later, a Milli Vanilli nostalgia license has taken shape in Saint Laurent&#8217;s fall advert campaign, which is set to “Girl I’m Gonna Miss You” and features Blackpink’s Rosé. The Fre…",
+      "date": "2026-08-26T05:00:01.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/awards/darren-hayes-music-in-the-house-awards-1236324733/",
+      "title": "Savage Garden&#8217;s Darren Hayes’ Career Celebrated at Music In The House&#160;Gala",
+      "link": "https://www.billboard.com/music/awards/darren-hayes-music-in-the-house-awards-1236324733/",
+      "description": "The Australian singer and songwriter received two awards on the night.",
+      "date": "2026-08-26T04:19:36.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/pro/ralph-carr-talent-manager-convicted-rape-jail-sentence/",
+      "title": "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years’&#160;Jail",
+      "link": "https://www.billboard.com/pro/ralph-carr-talent-manager-convicted-rape-jail-sentence/",
+      "description": "The disgraced promoter and artist manager will serve at least four years behind bars.",
+      "date": "2026-08-26T04:08:18.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/country/taylor-swift-dolly-parton-tribute-full-message-1236324716/",
+      "title": "Taylor Swift Remembers Dolly Parton as &#8216;True Grace &#038; True Grit, All in One Dazzling&#160;Person&#8217;",
+      "link": "https://www.billboard.com/music/country/taylor-swift-dolly-parton-tribute-full-message-1236324716/",
+      "description": "The legendary Parton died Tuesday after a battle with cancer.",
+      "date": "2026-08-26T03:37:52.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/taylor-swift-dolly-parton-tribute-dead-1236842794/",
+      "title": "Taylor Swift Pays Tribute to Dolly Parton: &#8216;She Was True Grace and True Grit, All in One Dazzling Person&#8217;",
+      "link": "https://variety.com/2026/music/news/taylor-swift-dolly-parton-tribute-dead-1236842794/",
+      "description": "Taylor Swift shared a touching tribute to the late Dolly Parton after the iconic singer-songwriter’s death on Tuesday. “A world without Dolly doesn’t feel possible, real, or right,&#8221; it reads. &#…",
+      "date": "2026-08-26T03:00:43.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/country/dolly-parton-funeral-song-unreleased-song-time-capsule-1236324683/",
+      "title": "Dolly Parton Chose Her Funeral Song More Than a Decade Ago &#038; Left an Unreleased Song to Be Heard in&#160;2046",
+      "link": "https://www.billboard.com/music/country/dolly-parton-funeral-song-unreleased-song-time-capsule-1236324683/",
+      "description": "\"I'm sure they'll be playing 'I Will Always Love You' when I die, just like they did with Whitney Houston,\" she said in a 2015 interview -- but she had a different pick.",
+      "date": "2026-08-26T01:55:29.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/rock/jack-white-jolene-dolly-parton-death-london-cover-video-1236324671/",
+      "title": "Watch Jack White Cover &#8216;Jolene&#8217; in London Hours After Dolly Parton&#8217;s Death: &#8216;Instant Sainthood&#8217;",
+      "link": "https://www.billboard.com/music/rock/jack-white-jolene-dolly-parton-death-london-cover-video-1236324671/",
+      "description": "The Whites Stripes released their \"Jolene\" cover as a B-side in 2000 &#38; a live single in 2004.",
+      "date": "2026-08-26T01:37:09.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/pro/dolly-parton-death-music-industry-reactions/",
+      "title": "Dolly Parton Dead at 80: Music Executives Remember the Country&#160;Icon",
+      "link": "https://www.billboard.com/pro/dolly-parton-death-music-industry-reactions/",
+      "description": "Following the music legend's passing at the age of 80, industry executives are sharing their reactions and condolences",
+      "date": "2026-08-26T01:14:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
+      "title": "‘KPop Demon Hunters’ Has Led Billboard’s Top Soundtracks Chart for 57 Weeks: Only One Soundtrack Has Led Longer (Full&#160;List)",
+      "link": "https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
+      "description": "Will the K-pop megahit take the lead? We'll soon see.",
+      "date": "2026-08-26T01:00:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/country/dolly-parton-cause-of-death-1236324654/",
+      "title": "Dolly Parton Cause of Death&#160;Revealed",
+      "link": "https://www.billboard.com/music/country/dolly-parton-cause-of-death-1236324654/",
+      "description": "The icon died Tuesday after \"a brief battle with cancer,\" her team shares.",
+      "date": "2026-08-26T00:56:46.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/sabrina-carpenter-dolly-parton-tribute-1236324633/",
+      "title": "Sabrina Carpenter Remembers Dolly Parton: &#8216;How Lucky Are We All to Have Experienced Your Singular&#160;Magic&#8217;",
+      "link": "https://www.billboard.com/music/music-news/sabrina-carpenter-dolly-parton-tribute-1236324633/",
+      "description": "\"The only thing I could say after we first met was, 'She really is an angel walking the earth,'\" the pop singer writes.",
+      "date": "2026-08-26T00:51:05.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/dolly-parton-cause-of-death-cancer-1236843174/",
+      "title": "Dolly Parton Died After a &#8216;Brief Battle&#8217; With Cancer, According to Her Reps",
+      "link": "https://variety.com/2026/music/news/dolly-parton-cause-of-death-cancer-1236843174/",
+      "description": "Dolly Parton&#8217;s reps have revealed her cause of death. The iconic singer died after a &#8220;brief battle&#8221; with cancer at Vanderbilt-Ingram Cancer Center in Nashville, her reps said Tuesday…",
+      "date": "2026-08-25T23:45:41.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/beyonce-pays-tribute-to-dolly-parton-barometer-1236843171/",
+      "title": "Beyoncé Pays Tribute to Dolly Parton: &#8216;You Were the Barometer&#8217;",
+      "link": "https://variety.com/2026/music/news/beyonce-pays-tribute-to-dolly-parton-barometer-1236843171/",
+      "description": "Beyoncé has paid tribute to country icon Dolly Parton, who died on August 25, calling her &#8220;the barometer&#8221; and thanking her for the impact she had on the world. In a statement posted to her…",
+      "date": "2026-08-25T23:21:42.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/annual-ticket-resale-price-inflation-study-2026/",
+      "title": "Newly Launched Vanderbilt Policy Accelerator Exposes $11 Billion Annual Ticket Resale Price Inflation",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/annual-ticket-resale-price-inflation-study-2026/",
+      "description": "A new white paper released by the Vanderbilt Policy Accelerator exposes ticket resale practices inflating the cost of entry by $11 billion every year. Ticket resale prices continue to rise due to corp…",
+      "date": "2026-08-25T23:10:43.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/film/news/snoop-dogg-biopic-cast-camron-jones-tupac-shakur-lauren-london-1236843216/",
+      "title": "Universal&#8217;s Snoop Dogg Biopic Adds Camron Jones as Tupac Shakur",
+      "link": "https://variety.com/2026/film/news/snoop-dogg-biopic-cast-camron-jones-tupac-shakur-lauren-london-1236843216/",
+      "description": "The cast of Universal&#8217;s Snoop Dogg biopic is shaping up, with Camron Jones (&#8220;P-Valley,&#8221; &#8220;Panic&#8221;) set to play Tupac Shakur, while Lauren London (&#8220;Without Remorse,&#8…",
+      "date": "2026-08-25T22:40:25.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/dolly-parton-dead-at-80/",
+      "title": "Dolly Parton, Queen of Country Music and a Diamond in a Rhinestone World, Dead at 80",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/dolly-parton-dead-at-80/",
+      "description": "Dolly Parton, a cherished American icon, larger-than-life figure in the entertainment industry, and the enduring &#8220;Queen of Country,&#8221; has died at the age of 80. Dolly Parton, whose early be…",
+      "date": "2026-08-25T22:20:25.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/columns/dolly-parton-appreciation-life-of-many-colors-1236843147/",
+      "title": "Dolly Parton, 1946-2026, In Appreciation: A Life of Many Colors",
+      "link": "https://variety.com/2026/music/columns/dolly-parton-appreciation-life-of-many-colors-1236843147/",
+      "description": "There’s been a lot of talk about approval ratings lately, so let&#8217;s pour one out, or a few billion, for Dolly Parton, the only superstar in the history of entertainment to rise to a 100% public a…",
+      "date": "2026-08-25T22:20:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/stability-ai-series-b/",
+      "title": "Stability AI Announces $76 Million Series B, Adds the Major Labels as Investors: &#8216;We Are Creative People Making Tools for Creatives&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/stability-ai-series-b/",
+      "description": "Stability AI has scored a $76 million Series B – for a total of over $230 million raised during the past two or so years – with support from all three majors, Electronic Arts, and others. The AI music…",
+      "date": "2026-08-25T22:00:54.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/russell-simmons-celsius-stock-recovery/",
+      "title": "Russell Simmons Recovers Millions in Celsius Stock Following a Lengthy Legal Process &#8212; But a Portion of the Proceeds Will Go Directly to His Sexual Assault Accusers",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/russell-simmons-celsius-stock-recovery/",
+      "description": "Former rap mogul Russell Simmons has reached an agreement with the Justice Department to recover a portion of a Celsius stock (NASDAQ: CELH) tranche worth north of $350 million. The DOJ, Simmons, and…",
+      "date": "2026-08-25T21:45:16.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/dolly-parton-musical-broadway-1236843021/",
+      "title": "Dolly Parton&#8217;s Musical Will Still Open on Broadway &#8216;As Was Dolly&#8217;s Wish&#8217;",
+      "link": "https://variety.com/2026/music/news/dolly-parton-musical-broadway-1236843021/",
+      "description": "Dolly Parton’s &#8220;Dolly: A True Original Musical&#8221; will open on Broadway &#8220;as was Dolly&#8217;s wish.&#8221; The news follows the death of the country music superstar on Tuesday. In a st…",
+      "date": "2026-08-25T20:52:29.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/elevenmusic-composer-section-by-section-song-editor/",
+      "title": "ElevenLabs&#8217; Suno Rival ElevenMusic Launches Composer &#8216;Section-by-Section Song Editor&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/elevenmusic-composer-section-by-section-song-editor/",
+      "description": "ElevenLabs announces the launch of Composer, a section-by-section song editor, in its AI song-generating platform ElevenMusic. Today, ElevenLabs announced the launch of Composer, a section-by-section…",
+      "date": "2026-08-25T20:31:26.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/russia-cancels-planned-kanye-concerts/",
+      "title": "Russia Says &#8216;Nyet&#8217; to Kanye Performances, Claims No Agreements Were Ever Signed",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/russia-cancels-planned-kanye-concerts/",
+      "description": "Ye, the rapper formerly known as Kanye West, will not be performing in Russia, as originally planned. The stadium denies ever organizing such an event and says no rental agreements were signed. Kanye…",
+      "date": "2026-08-25T20:09:34.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/dolly-parton-dollywood-will-be-open-after-death-1236842931/",
+      "title": "Dolly Parton&#8217;s Dollywood Will Be Open Wednesday After Singer&#8217;s Death: &#8216;The Show Must Go On&#8217;",
+      "link": "https://variety.com/2026/music/news/dolly-parton-dollywood-will-be-open-after-death-1236842931/",
+      "description": "Dollywood, the Tennessee theme park and resort owned by legendary country singer Dolly Parton, was closed Tuesday as previously scheduled. The company, in a statement after news broke of Parton&#8217;…",
+      "date": "2026-08-25T19:46:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/08/25/gustavo-dudamel-bids-la-phil-farewell/",
+      "title": "It&#8217;s a Wrap! Gustavo Dudamel Bids LA Phil Farewell with Help From Foo Fighters and Coldplay&#8217;s Chris Martin",
+      "link": "https://www.digitalmusicnews.com/2026/08/25/gustavo-dudamel-bids-la-phil-farewell/",
+      "description": "Gustavo Dudamel gave a blowout final performance at the Hollywood Bowl as he bid the LA Phil farewell, with help from Foo Fighters and Chris Martin. At the Hollywood Bowl over the weekend, the Los Ang…",
+      "date": "2026-08-25T19:03:14.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://rainnews.com/steve-goldstein-where-podcasting-fits-8-25/",
+      "title": "Steve Goldstein: Where Podcasting Fits at Spotify",
+      "link": "https://rainnews.com/steve-goldstein-where-podcasting-fits-8-25/",
+      "description": "We are not surprised that Steve chose the (unconfirmed but generally believed) upending report that Spotify is developing an ad-skipping button for podcasts. As always, this column's argument is cogen…",
+      "date": "2026-08-25T18:59:13.000Z",
+      "source": "RAIN News",
+      "sourceId": "rain",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/dolly-parton-celebrity-tributes-kacey-musgraves-reba-1236842731/",
+      "title": "Dolly Parton Honored by Kacey Musgraves, Keith Urban, Reba McEntire: &#8216;We Will Always Love Her&#8217;",
+      "link": "https://variety.com/2026/music/news/dolly-parton-celebrity-tributes-kacey-musgraves-reba-1236842731/",
+      "description": "Kacey Musgraves, Keith Urban, Khloe Kardashian, Jamie Lee Curtis and more are paying tribute to the iconic musician&#160;Dolly Parton, who died on Aug. 25. Musgraves, who joined Parton on stage for an…",
+      "date": "2026-08-25T18:53:27.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/gallery/dolly-parton-life-career-photos/",
+      "title": "Dolly Parton: Her Life and Career in Photos",
+      "link": "https://variety.com/gallery/dolly-parton-life-career-photos/",
+      "description": "Singer-songwriter-actress Dolly Parton, died Tuesday in Nashville at 80. Look back at her seven-decade career at the pinnacle of music stardom that also included iconic movie roles in &#8220;9 to 5,&#…",
+      "date": "2026-08-25T18:50:34.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/the-amazon-pain-forest/",
+      "title": "The Amazon Pain Forest",
+      "link": "https://www.musicbusinessworldwide.com/the-amazon-pain-forest/",
+      "description": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+      "date": "2026-08-25T18:15:56.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/dolly-parton-dead-dies-country-music-1236842727/",
+      "title": "Dolly Parton, Queen of Country Music, Dies at 80",
+      "link": "https://variety.com/2026/music/news/dolly-parton-dead-dies-country-music-1236842727/",
+      "description": "Singer-songwriter-actress Dolly Parton, whose glittering country music stardom was matched by her pop fame and popular parallel careers in film and TV, died Tuesday in Nashville, Tennessee. She was 80…",
+      "date": "2026-08-25T17:55:39.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
+      "title": "Universal, Sony, Warner join $76M funding round in Stability AI",
+      "link": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
+      "description": "The three major music companies have all just banked equity in Stability AI &#8211; by joining a USD $76 million Series B investment into the gen-AI company. Universal Music Group, Sony Music Group, a…",
+      "date": "2026-08-25T16:22:20.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://musically.com/2026/08/25/fusion-to-take-centerstage-at-showcase-festival-soundscapes-of-india/",
+      "title": "Fusion to take centerstage at showcase festival Soundscapes of India",
+      "link": "https://musically.com/2026/08/25/fusion-to-take-centerstage-at-showcase-festival-soundscapes-of-india/",
+      "description": "In April, Soundscapes of India invited artists and bands from across the country, working in any genre and language, to apply for a slot at the showcase festival, which will [&#8230;]\nThe post is from…",
+      "date": "2026-08-25T08:12:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
     {
       "id": "https://www.digitalmusicnews.com/2026/08/24/aeg-archer-partnership-air-taxis/",
       "title": "Air Taxis Are Coming to LA Live &#8212; AEG and Archer Ink Exclusive Partnership Deal for Downtown Los Angeles&#8217; &#8216;First Vertiport&#8217;",
@@ -52,86 +392,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
-      "title": "Australia&#8217;s Laneway Festival Confirms 2027&#160;Dates",
-      "link": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
-      "description": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-      "date": "2026-08-25T04:04:23.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
-      "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated&#160;Tracks",
-      "link": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
-      "description": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-      "date": "2026-08-25T03:57:27.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/",
-      "title": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-      "link": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/",
-      "description": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and c…",
-      "date": "2026-08-25T02:14:02.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/",
-      "title": "Taylor Swift Sings Mashup of &#8216;All Too Well,&#8217; &#8216;I Knew It, I Knew You&#8217; and &#8216;August&#8217; in Grammy Museum Video",
-      "link": "https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/",
-      "description": "Most Taylor Swift fans probably do not think of the sad events of &#8220;All Too Well&#8221; and the ultimately happy &#8220;Toy Story 5&#8221; as occurring in the same cinematic or musical universe.…",
-      "date": "2026-08-25T01:15:30.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/pro/nashville-music-journalist-author-vernell-hackett-dead-77/",
-      "title": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at&#160;77",
-      "link": "https://www.billboard.com/pro/nashville-music-journalist-author-vernell-hackett-dead-77/",
-      "description": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
-      "date": "2026-08-25T00:45:27.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/pop/taylor-swift-grammy-museum-august-all-too-well-mashup-video-1236323525/",
-      "title": "Watch Taylor Swift Say She Feels &#8216;More Loyal&#8217; to Her Country Roots Than Ever &#038; Whip Up an Eras Tour-Coded Surprise Piano&#160;Mash-Up",
-      "link": "https://www.billboard.com/music/pop/taylor-swift-grammy-museum-august-all-too-well-mashup-video-1236323525/",
-      "description": "The performance of \"I Knew It, I Knew You,\" \"August\" &#38; \"All Too Well\" came at the end of a Grammy Museum Q&#38;A with Harvey Mason jr.",
-      "date": "2026-08-25T00:16:05.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-      "title": "ALL&#8217;N Is Billboard&#8217;s K-Pop Up &#038; Comer of the Month for August: Exclusive&#160;Photos",
-      "link": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-      "description": "The meaning behind his stage name ALL’N — both a play on “all in,” meaning to give it your all, and “olin,” a shortened form of “violin” — are important clues to understanding his music.",
-      "date": "2026-08-25T00:00:16.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/rb-hip-hop/rick-ross-50-cent-aging-in-hip-hop-1236323435/",
-      "title": "Rick Ross Responds to 50 Cent&#8217;s Aging in Hip-Hop Comments: &#8216;F&#8212; What Your Age&#160;Is&#8217;",
-      "link": "https://www.billboard.com/music/rb-hip-hop/rick-ross-50-cent-aging-in-hip-hop-1236323435/",
-      "description": "50 recently told Apple Music that he doesn't release much music anymore because at his age, he doesn't want to be \"in the way.\"",
-      "date": "2026-08-24T23:34:17.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.digitalmusicnews.com/2026/08/24/afm-warner-music-lawsuit/",
       "title": "AFM Voluntarily Drops Its Case Against &#8216;Warner Music Group Corp.&#8217; &#8212; But the Major Is Still Facing High-Stakes Breach of Contract Claims",
       "link": "https://www.digitalmusicnews.com/2026/08/24/afm-warner-music-lawsuit/",
@@ -150,56 +410,6 @@
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/reggie-watts-dropped-comedy-festivals-disturbing-report-1236323431/",
-      "title": "Reggie Watts Dropped From Podcast Intro &#038; Comedy Festivals After Report Alleging Disturbing Behavior in Romantic&#160;Relationships",
-      "link": "https://www.billboard.com/music/music-news/reggie-watts-dropped-comedy-festivals-disturbing-report-1236323431/",
-      "description": "A recent piece brought to light several claims of \"reckless\" drug use, psychological abuse &#38; more.",
-      "date": "2026-08-24T22:46:48.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/latin/beto-y-sus-canarios-portillo-alive-after-shooting-family-1236323459/",
-      "title": "Beto y Sus Canarios Leader Edilberto Portillo &#8216;Is Alive&#8217; After Armed Attack, His Family&#160;Says",
-      "link": "https://www.billboard.com/music/latin/beto-y-sus-canarios-portillo-alive-after-shooting-family-1236323459/",
-      "description": "“Don Beto,” as he's known, was shot before a performance at the Rodeo Texcoco in Mexico on Saturday (Aug. 22)",
-      "date": "2026-08-24T22:28:32.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/taylor-swift-i-knew-you-were-trouble-grammy-museum-clip-1236841957/",
-      "title": "Taylor Swift Recalls How &#8216;I Knew You Were Trouble&#8217; Was Written As a &#8216;Really Sad Ballad&#8217; in Grammy Museum Conversation Video",
-      "link": "https://variety.com/2026/music/news/taylor-swift-i-knew-you-were-trouble-grammy-museum-clip-1236841957/",
-      "description": "Taylor Swift opened up about the process of writing and recording her 2012 hit &#8220;I Knew You Were Trouble,&#8221; revealing that it was initially penned as a &#8220;really sad ballad&#8221; before…",
-      "date": "2026-08-24T22:03:39.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/product-recommendations/jessica-simpson-walmart-fall-fashion-august-2026-1236323023/",
-      "title": "Jessica Simpson Updates Her Fashion Line for Fall as She Returns to Music &#038; Preps New&#160;Documentary",
-      "link": "https://www.billboard.com/culture/product-recommendations/jessica-simpson-walmart-fall-fashion-august-2026-1236323023/",
-      "description": "A lineup of sweater tops, faux fur &#38; denim builds on Simpson’s fashion legacy at Walmart as she steps back into music after a 15-year hiatus.",
-      "date": "2026-08-24T21:48:42.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/pop/hilary-duff-pop-star-after-lizzie-mcguire-1236323354/",
-      "title": "Hilary Duff Reveals Why She Declared &#8216;I&#8217;m Going to Be a Pop Star&#8217; After &#8216;Lizzie&#160;McGuire&#8217;",
-      "link": "https://www.billboard.com/music/pop/hilary-duff-pop-star-after-lizzie-mcguire-1236323354/",
-      "description": "\"I'm going to make music and I'm going to get a record deal and I'm going to be a pop star,\" the 38-year-old manifested.",
-      "date": "2026-08-24T21:26:12.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
     },
     {
       "id": "https://rainnews.com/07312026-08-24-2026/",
@@ -250,16 +460,6 @@
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/warner-chappell-promotes-gabz-landman-to-executive-vp-1236841814/",
-      "title": "Warner Chappell Music Promotes Gabz Landman to Executive VP of A&#038;R",
-      "link": "https://variety.com/2026/music/news/warner-chappell-promotes-gabz-landman-to-executive-vp-1236841814/",
-      "description": "Warner Chappell Music, the publishing arm of Warner Music Group, has announced the promotion of Gabz Landman to executive vice president of A&#38;R. Based at the company’s Los Angeles headquarters, sh…",
-      "date": "2026-08-24T19:17:42.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.musicbusinessworldwide.com/sony-music-sues-kroger-over-392-alleged-unauthorized-uses-of-its-recordings-in-social-media-ads/",
@@ -322,16 +522,6 @@
       "category": "Technology"
     },
     {
-      "id": "https://variety.com/2026/digital/news/reggie-watts-theme-song-axed-comedy-bang-bang-podcast-1236841362/",
-      "title": "Reggie Watts’ Theme Song Axed From ‘Comedy Bang Bang’ Podcast After Report Alleging ‘Reckless’ Drug Use in Relationships",
-      "link": "https://variety.com/2026/digital/news/reggie-watts-theme-song-axed-comedy-bang-bang-podcast-1236841362/",
-      "description": "Reggie Watts’ “Comedy Bang Bang” theme song was cut from Monday’s episode of the popular podcast following a Rolling Stone report that alleged the comedian and musician has exhibited “reckless and sel…",
-      "date": "2026-08-24T13:31:59.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://musically.com/2026/08/24/believe-india-launches-pop-imprint-bl-ur/",
       "title": "Believe India launches pop imprint BL/UR",
       "link": "https://musically.com/2026/08/24/believe-india-launches-pop-imprint-bl-ur/",
@@ -372,46 +562,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/",
-      "title": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
-      "link": "https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/",
-      "description": "The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo…",
-      "date": "2026-08-24T01:02:08.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
-      "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
-      "link": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
-      "description": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project &#8220;Wild&#8221; debuts atop the list. &#8220;Wild,&#8221; the five-track offering led by the singles &#8220;Pinky U…",
-      "date": "2026-08-23T19:44:06.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
-      "title": "Dr. Dre Says the Only People Who See AI as a Threat Are Those &#8216;Who Have Trouble Creating&#8217;",
-      "link": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
-      "description": "Dr. Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesizers &#8212; and asserted that only people &#8220;who have trouble creating&#82…",
-      "date": "2026-08-23T13:20:01.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
-      "title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-      "link": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
-      "description": "Dale Morris, one of the leading names in the ranks of Nashville music managers, who helped build up superstar careers for the group Alabama and then Kenny Chesney nearly from scratch, died Friday at 8…",
-      "date": "2026-08-22T21:00:11.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
       "title": "Doodle generative compositions in your browser with Musical Spirograph",
       "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
@@ -420,16 +570,6 @@
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/",
-      "title": "Olivia Rodrigo Releases &#8216;Handmaid&#8217;s Tale&#8217;-Inspired Song, &#8216;Serena Joy,&#8217; in a Tiny Run of CDs, With Digital Drop to Follow",
-      "link": "https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/",
-      "description": "It was already clear Olivia Rodrigo is in full feminist mode these days, with her all-female music festival, Daisy Chain Fields, set to take place in California&#8217;s Orange County next Saturday. Bu…",
-      "date": "2026-08-22T06:18:34.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/08/21/elton-john-prince-harry-case-legal-bill/",
@@ -475,7 +615,7 @@
       "id": "https://www.digitalmusicnews.com/2026/08/21/bad-bunny-copyright-defense-spend-ensename-bailar/",
       "title": "Bad Bunny Spent Nearly $500,000 Fending Off the &#8216;Enséñame Bailar&#8217; Copyright Lawsuit, Court Filings Reveal",
       "link": "https://www.digitalmusicnews.com/2026/08/21/bad-bunny-copyright-defense-spend-ensename-bailar/",
-      "description": "After beating a seemingly frivolous copyright lawsuit, Bad Bunny is stuck covering his own legal costs to the tune of nearly half a million dollars. *Update, August 22-23: Since the publication of thi…",
+      "description": "After beating a seemingly frivolous copyright lawsuit, Bad Bunny is stuck covering his own legal costs to the tune of nearly half a million dollars. *Update, August 22nd: Empawa&#8217;s replacement co…",
       "date": "2026-08-21T19:38:55.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
@@ -659,26 +799,6 @@
       "date": "2026-08-20T21:46:22.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/spotify-expands-its-share-buyback-program-by-1-5b-raising-total-authorization-to-around-2-2b/",
-      "title": "Spotify expands its share buyback program by $1.5B, raising total authorization to around $2.2B",
-      "link": "https://www.musicbusinessworldwide.com/spotify-expands-its-share-buyback-program-by-1-5b-raising-total-authorization-to-around-2-2b/",
-      "description": "The company's Board of Directors approved the increase, which Spotify confirmed in a press release on Thursday (August 20).\nSource",
-      "date": "2026-08-20T21:17:02.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/apple-music-to-slap-on-suno/",
-      "title": "Apple Music to slap AI labels on Suno tracks – but pushes the onus onto record companies",
-      "link": "https://www.musicbusinessworldwide.com/apple-music-to-slap-on-suno/",
-      "description": "The move was announced in a message to industry partners from Apple on Thursday (August 20), obtained by MBW.\nSource",
-      "date": "2026-08-20T21:02:40.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
       "category": "Industry"
     },
     {
@@ -1060,16 +1180,6 @@
       "source": "Music Ally",
       "sourceId": "musically",
       "category": "Technology"
-    },
-    {
-      "id": "https://rainnews.com/music-publisher-sues-two-ai-firms-in-latest-infringement-cases/",
-      "title": "Music publisher sues two AI firms in latest infringement cases",
-      "link": "https://rainnews.com/music-publisher-sues-two-ai-firms-in-latest-infringement-cases/",
-      "description": "Indie publishing company Round Hill Music has filed the latest in a stream of copyright infringement lawsuits seeking damages from AI companies for using owned music as training material. AI firms Sun…",
-      "date": "2026-08-18T15:51:55.000Z",
-      "source": "RAIN News",
-      "sourceId": "rain",
-      "category": "Industry"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/08/17/ellie-goulding-lawsuit-conflict-of-interest/",
@@ -1542,16 +1652,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.digitalmusicnews.com/2026/08/12/jonas-brothers-halftime-melbourne-nfl/",
-      "title": "Jonas Brothers Slated to Play Halftime at the NFL&#8217;s Upcoming Game in Melbourne, Australia",
-      "link": "https://www.digitalmusicnews.com/2026/08/12/jonas-brothers-halftime-melbourne-nfl/",
-      "description": "The NFL announces the Jonas Brothers as headliners of the halftime show during the Melbourne game on September 11 (September 10 in the US) on Netflix. The 2026 NFL Melbourne Game between the San Franc…",
-      "date": "2026-08-12T18:10:15.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
@@ -1560,16 +1660,6 @@
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/12/suno-bmg-deal/",
-      "title": "Suno Scores BMG &#8216;Global Strategic Alliance&#8217; Following Warner Music Licensing Deal, Sweeping Safeguards Expansion",
-      "link": "https://www.digitalmusicnews.com/2026/08/12/suno-bmg-deal/",
-      "description": "Less than one week after announcing a series of far-reaching policy changes and safeguards, Suno has inked a global licensing agreement with BMG. The AI music platform and the Bertelsmann subsidiary d…",
-      "date": "2026-08-12T15:34:22.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
     },
     {
       "id": "https://completemusicupdate.com/spotify-to-start-labelling-ai-personas/",
@@ -1592,96 +1682,6 @@
       "category": "Technology"
     },
     {
-      "id": "https://musically.com/2026/08/12/yash-raj-films-launches-independent-music-label-raah-records/",
-      "title": "Yash Raj Films launches independent music label Raah Records",
-      "link": "https://musically.com/2026/08/12/yash-raj-films-launches-independent-music-label-raah-records/",
-      "description": "Leading Indian entertainment studio Yash Raj Films (YRF) was among the first production houses in the country to launch an in-house label to release its movie soundtracks. That was back [&#8230;]\nThe…",
-      "date": "2026-08-12T10:05:37.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/spotify-ai-persona/",
-      "title": "Spotify Announces &#8216;AI Persona&#8217; Label for Artist Pages That Don&#8217;t &#8216;Represent a Real Person&#8217; &#8212; Complete With Manual Profile Reviews, an Appeal Process, and More",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/spotify-ai-persona/",
-      "description": "Millions of machine-generated tracks – and more than a few listener complaints – later, Spotify is officially set to begin labeling AI artist profiles. The DSP formally revealed the incoming labels an…",
-      "date": "2026-08-12T04:00:32.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/john-oliver-comedy-tour-ticketmaster/",
-      "title": "John Oliver Famously Ripped Live Nation/Ticketmaster to Shreds—Now He&#8217;s Using Live Nation/Ticketmaster for His Upcoming Comedy Tour",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/john-oliver-comedy-tour-ticketmaster/",
-      "description": "John Oliver famously lambasted Live Nation/Ticketmaster for its &#8220;chokehold&#8221; on live entertainment. Now, he&#8217;s selling tickets for his comedy tour using Ticketmaster. In 2022, comedian…",
-      "date": "2026-08-12T03:45:20.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/levon-helm-studios-damage-lawsuit/",
-      "title": "Levon Helm Studios Suffered &#8216;Millions&#8217; in Damages Thanks to Levon Helm&#8217;s Daughter, New Lawsuit Claims",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/levon-helm-studios-damage-lawsuit/",
-      "description": "Levon Helm Studios&#8217; new leadership team claims Helm&#8217;s daughter Amy was the cause of &#8220;millions&#8221; in damages during her tenure as president of the venue. Singer-songwriter Amy Hel…",
-      "date": "2026-08-12T03:38:58.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/daddario-ai-demo-clip/",
-      "title": "Multiple Denials Later, D’Addario Admits Gen AI Was Used In a Controversial Demo Clip: &#8216;We Shared Inaccurate Information, and We’re Truly Sorry&#8217;",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/daddario-ai-demo-clip/",
-      "description": "Following many ticked-off customer comments – and steadfast denials on the company’s end – D&#8217;Addario has acknowledged that generative AI pumped out the music featured in a demo clip showcasing i…",
-      "date": "2026-08-12T03:30:30.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/kennedy-center-must-pay-jazz-musician/",
-      "title": "Kennedy Center Ordered to Pay $250,000 to Jazz Musician as Legal Fallout Continues",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/kennedy-center-must-pay-jazz-musician/",
-      "description": "The Kennedy Center has been ordered to pay over $250,000 to jazz musician Chuck Redd, who canceled his appearance in protest of Trump&#8217;s takeover that began last year. A legal battle between jazz…",
-      "date": "2026-08-12T03:21:30.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/music-reports-songdex-marketplace-10-years/",
-      "title": "Music Reports Marks 10 Years of Songdex Marketplace and Driving Scalable Music Licensing",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/music-reports-songdex-marketplace-10-years/",
-      "description": "Music Reports is marking a decade since the release of Songdex Marketplace, a platform designed to simplify music licensing at scale. The Songdex name stands for more than just the world’s largest mus…",
-      "date": "2026-08-12T03:00:52.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/beyonce-hit-with-lawsuit-over-allegedly-unauthorized-sample/",
-      "title": "Beyoncé Hit With Infringement Lawsuit Over Allegedly Unauthorized Sample on &#8216;Alien Superstar&#8217;",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/beyonce-hit-with-lawsuit-over-allegedly-unauthorized-sample/",
-      "description": "Beyoncé is being sued over an allegedly unauthorized sample on her 2022 hit &#8220;Alien Superstar&#8221; from Renaissance. A lawsuit has been filed against Beyoncé for allegedly using an unauthorized…",
-      "date": "2026-08-12T03:00:16.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/08/11/afm-local-47-supports-tax-credit-bill/",
-      "title": "AFM Local 47 Announces Support for Post Production Tax Credit Bill AB 2319",
-      "link": "https://www.digitalmusicnews.com/2026/08/11/afm-local-47-supports-tax-credit-bill/",
-      "description": "The American Federation of Musicians Local 47 of Los Angeles announces its support for AB 2319, the Post Production Tax Credit Bill. The American Federation of Musicians Local 47 of Los Angeles has an…",
-      "date": "2026-08-12T02:56:51.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
       "id": "https://www.riaa.com/news/alan-jacksons-certifications-soar-to-new-heights/",
       "title": "Alan Jackson&#8217;s Certifications Soar to New Heights",
       "link": "https://www.riaa.com/news/alan-jacksons-certifications-soar-to-new-heights/",
@@ -1699,16 +1699,6 @@
       "date": "2026-08-11T13:00:00.000Z",
       "source": "The Verge",
       "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://musically.com/2026/08/11/behind-the-campaign-with-raye/",
-      "title": "Marketing Weekly Recap: Raye – Campaign Highlights",
-      "link": "https://musically.com/2026/08/11/behind-the-campaign-with-raye/",
-      "description": "British singer-songwriter Raye released her second studio album, This Music May Contain Hope, in March 2026. Lead single ‘Where Is My Husband!’ dropped over half a year prior to the album - a move tha…",
-      "date": "2026-08-11T10:09:22.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
       "category": "Technology"
     },
     {
