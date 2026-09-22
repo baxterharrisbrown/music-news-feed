@@ -1,6 +1,276 @@
 {
-  "generated": "2026-09-21T12:33:59.557Z",
+  "generated": "2026-09-22T11:21:48.840Z",
   "articles": [
+    {
+      "id": "https://www.musicbusinessworldwide.com/uk-based-avatar-concert-producer-unit1-studio-raises-20m-led-by-balderton-capital/",
+      "title": "UK-based avatar concert producer Unit1 Studio raises $20M led by Balderton Capital",
+      "link": "https://www.musicbusinessworldwide.com/uk-based-avatar-concert-producer-unit1-studio-raises-20m-led-by-balderton-capital/",
+      "description": "The fundraise lands alongside what Unit1 calls a world first: the transfer of an avatar concert production from one venue to another.\nSource",
+      "date": "2026-09-22T11:21:28.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/apple-to-open-600-capacity-live-music-venue-in-london-with-two-recording-studios-and-a-broadcast-control-room-built-in/",
+      "title": "Apple to open 600-capacity live music venue in London, with two recording studios and a broadcast control room built in",
+      "link": "https://www.musicbusinessworldwide.com/apple-to-open-600-capacity-live-music-venue-in-london-with-two-recording-studios-and-a-broadcast-control-room-built-in/",
+      "description": "Artists who play the new Apple Music Hall can leave with a Spatial Audio recording, a mix ready for broadcast, and multi-camera video of the same show.\nSource",
+      "date": "2026-09-22T11:03:39.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/concerts/holly-humberstone-cancels-european-tour-dates-1236344399/",
+      "title": "Holly Humberstone Cancels European Tour After ‘Life-Threatening Medical&#160;Emergency’",
+      "link": "https://www.billboard.com/music/concerts/holly-humberstone-cancels-european-tour-dates-1236344399/",
+      "description": "The affected dates were due to include stops in Copenhagen, Oslo, Stockholm, Hamburg and Berlin.",
+      "date": "2026-09-22T09:24:42.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://musically.com/2026/09/22/apple-music-secretly-built-a-600-capacity-venue-in-its-london-hq/",
+      "title": "Apple Music secretly built a 600-capacity venue in its London HQ",
+      "link": "https://musically.com/2026/09/22/apple-music-secretly-built-a-600-capacity-venue-in-its-london-hq/",
+      "description": "Apple Music Hall is being unveiled this morning: a 600-cap venue in the Battersea Power Station complex. Apple plans to host a range of artists for concerts, up to superstar level,  with the venue ful…",
+      "date": "2026-09-22T08:42:34.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://completemusicupdate.com/jobs/head-of-business-development-mrc-the-music-royalty-co-remote/",
+      "title": "Head of Business Development // MRC (The Music Royalty Co.) (Remote)",
+      "link": "https://completemusicupdate.com/jobs/head-of-business-development-mrc-the-music-royalty-co-remote/",
+      "description": "The MRC are seeking a remote Head of Business Development to join their management team and help shape the next stage of growth.",
+      "date": "2026-09-22T08:38:35.000Z",
+      "source": "Complete Music Update",
+      "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/global/apple-music-hall-live-venue-london-1236871803/",
+      "title": "Apple Reveals Apple Music Hall, a New Live Venue in London",
+      "link": "https://variety.com/2026/music/global/apple-music-hall-live-venue-london-1236871803/",
+      "description": "Apple is bringing a new live music venue to London. Located in Battersea Power Station, Apple Music Hall is a state-of-the-art venue &#8220;designed to connect artists and fans through bespoke, intima…",
+      "date": "2026-09-22T08:37:58.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+      "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+      "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+      "description": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music H…",
+      "date": "2026-09-22T08:35:54.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.billboard.com/pro/apple-music-new-live-music-venue-london-battersea/",
+      "title": "Apple Music to Open State-of-the-Art Live Music Venue in&#160;London",
+      "link": "https://www.billboard.com/pro/apple-music-new-live-music-venue-london-battersea/",
+      "description": "The facility will be situated at the company's London HQ in Battersea Power Station.",
+      "date": "2026-09-22T06:00:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/concerts/nct-127-neo-city-the-redline-tour-sold-out-opener-1236344395/",
+      "title": "NCT 127 Open 10th-Anniversary &#8216;Neo City: The Redline&#8217; Tour With Sold-Out Seoul&#160;Run",
+      "link": "https://www.billboard.com/music/concerts/nct-127-neo-city-the-redline-tour-sold-out-opener-1236344395/",
+      "description": "The 'Neo City: The Redline' tour continues across Asia through January 2027.",
+      "date": "2026-09-22T04:47:58.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/concerts/ninajirachi-adds-north-american-dates-i-love-my-computer-tour-1236344393/",
+      "title": "Ninajirachi Adds 12 North American Dates to &#8216;I Love My Computer&#8217;&#160;Tour",
+      "link": "https://www.billboard.com/music/concerts/ninajirachi-adds-north-american-dates-i-love-my-computer-tour-1236344393/",
+      "description": "The award-winning Australian producer extends her North American run into 2027 amid surging demand",
+      "date": "2026-09-22T04:39:31.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/culture/product-recommendations/the-voice-season-30-2026-watch-stream-online-free-1236342581/",
+      "title": "Here’s Where to Watch &#8216;The Voice&#8217; Season 30 Online&#160;for Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/the-voice-season-30-2026-watch-stream-online-free-1236342581/",
+      "description": "The reality competition premieres with a special three-night event starting on Monday, Sept. 21.",
+      "date": "2026-09-21T20:38:10.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/",
+      "title": "&#8216;Monday Night Football&#8217; 2026-2027: How to Watch the New York Giants vs. Los Angeles Rams Game Live Online&#160;Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/",
+      "description": "Watch the Giants take on the Rams on Monday, Sept. 21 — keep an eye out for possible Kendrick Lamar and Snoop Dogg sightings at the game too.",
+      "date": "2026-09-21T19:49:06.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/madonna-charli-xcx-danceteria-afterhours-release-date-1236344326/",
+      "title": "Madonna &#038; Charli xcx Set ‘Danceteria Afterhours’ Release&#160;Date",
+      "link": "https://www.billboard.com/music/music-news/madonna-charli-xcx-danceteria-afterhours-release-date-1236344326/",
+      "description": "The new track marks the pop stars’ first musical collaboration.",
+      "date": "2026-09-21T19:45:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/tuboleta-owner-beathub-buys-out-chiles-belive-to-take-100-of-bogotas-movistar-arena/",
+      "title": "Tuboleta owner BeatHub buys out Chile&#8217;s BeLive to take 100% of Bogotá&#8217;s Movistar Arena",
+      "link": "https://www.musicbusinessworldwide.com/tuboleta-owner-beathub-buys-out-chiles-belive-to-take-100-of-bogotas-movistar-arena/",
+      "description": "BeLive Entertainment retains 100% control of Colombiana de Escenarios, which runs the venue under a concession.\nSource",
+      "date": "2026-09-21T18:34:24.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/american-music-tourism-act-heads-to-trumps-desk-after-house-vote/",
+      "title": "American Music Tourism Act heads to Trump&#8217;s desk after House vote",
+      "link": "https://www.musicbusinessworldwide.com/american-music-tourism-act-heads-to-trumps-desk-after-house-vote/",
+      "description": "The bill would add music to the tourism-promotion duties the Commerce Department already carries under the Visit America Act.\nSource",
+      "date": "2026-09-21T18:33:17.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/awards/taylor-swift-artist-director-honors-2026-mtv-vmas-1236344313/",
+      "title": "Taylor Swift to Be First Recipient of Artist Director Honors at 2026 MTV&#160;VMAs",
+      "link": "https://www.billboard.com/music/awards/taylor-swift-artist-director-honors-2026-mtv-vmas-1236344313/",
+      "description": "The 2026 VMAs will air live from Los Angeles’ Peacock Theater on Sept. 27.",
+      "date": "2026-09-21T18:30:44.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/erica-campbells-label-sues-distributor-srg-ils-group-claiming-it-never-sent-a-single-royalty-statement/",
+      "title": "Erica Campbell&#8217;s label sues distributor SRG/ILS Group, claiming it never sent a single royalty statement",
+      "link": "https://www.musicbusinessworldwide.com/erica-campbells-label-sues-distributor-srg-ils-group-claiming-it-never-sent-a-single-royalty-statement/",
+      "description": "My Block Records is seeking damages in excess of USD $1 million, plus interest and legal fees, and has demanded a jury trial.\nSource",
+      "date": "2026-09-21T18:30:27.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/hybes-ceo-and-musicows-chair-named-vice-chairs-of-the-korea-venture-business-association/",
+      "title": "HYBE&#8217;s CEO and Musicow&#8217;s Chair named vice chairs of the Korea Venture Business Association",
+      "link": "https://www.musicbusinessworldwide.com/hybes-ceo-and-musicows-chair-named-vice-chairs-of-the-korea-venture-business-association/",
+      "description": "KOVA said it expects HYBE's arrival as a vice chair company to widen the connections between the content industry and Korea's venture ecosystem.\nSource",
+      "date": "2026-09-21T18:30:10.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/pro/rolling-loud-festival-returns-california-2027-interview/",
+      "title": "Rolling Loud Coming Back to California in 2027: Co-Founder Matt Zingler Discusses Its&#160;Return",
+      "link": "https://www.billboard.com/pro/rolling-loud-festival-returns-california-2027-interview/",
+      "description": "“We don’t have competition,\" Zingler tells Billboard of the stalwart festival brand, which is returning to San Bernardino next December.",
+      "date": "2026-09-21T18:00:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/pro/carianne-marshall-leaves-warner-chappell-coo-co-chair/",
+      "title": "Warner Chappell COO/Co-Chair Carianne Marshall Leaves Role After Seven&#160;Years",
+      "link": "https://www.billboard.com/pro/carianne-marshall-leaves-warner-chappell-coo-co-chair/",
+      "description": "The respected music publishing executive will transition out of her role at the end of the month.",
+      "date": "2026-09-21T16:58:29.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/t-j-martell-foundation-raises-more-than-3-2m-at-gala-honoring-red-light-managements-coran-capshaw-with-dave-matthews-chris-stapleton-and-trey-anastasio-performing/",
+      "title": "T.J. Martell Foundation raises more than $3.2M at gala honoring Red Light Management&#8217;s Coran Capshaw – with Dave Matthews, Chris Stapleton, and Trey Anastasio performing",
+      "link": "https://www.musicbusinessworldwide.com/t-j-martell-foundation-raises-more-than-3-2m-at-gala-honoring-red-light-managements-coran-capshaw-with-dave-matthews-chris-stapleton-and-trey-anastasio-performing/",
+      "description": "The sold-out gala honored Red Light Management founder Coran Capshaw with its Lifetime Music Industry Award.\nSource",
+      "date": "2026-09-21T16:57:05.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://rainnews.com/retail-ai-lead-magellan-podcast-advertiser-charts/",
+      "title": "Retail &#038; AI lead Magellan podcast advertiser charts",
+      "link": "https://rainnews.com/retail-ai-lead-magellan-podcast-advertiser-charts/",
+      "description": "Magellan AI has released its monthly accounting of top podcast advertisers, derived from the company’s proprietary model. The results are estimates, not confirmed dollar amounts. Always interesting on…",
+      "date": "2026-09-21T16:48:21.000Z",
+      "source": "RAIN News",
+      "sourceId": "rain",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/warner-chappell-carianne-marshall-step-down-1236871254/",
+      "title": "Warner Chappell Co-Chair/COO Carianne Marshall to Step Down From Post",
+      "link": "https://variety.com/2026/music/news/warner-chappell-carianne-marshall-step-down-1236871254/",
+      "description": "Warner Music Group has announced that Carianne Marshall will transition out of her role as co-chair and chief operating officer of Warner Chappell Music, the company’s publishing division, at the end…",
+      "date": "2026-09-21T16:44:06.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/carianne-marshall-to-exit-warner-chappell-music/",
+      "title": "Carianne Marshall to exit Warner Chappell Music",
+      "link": "https://www.musicbusinessworldwide.com/carianne-marshall-to-exit-warner-chappell-music/",
+      "description": "A WMG media release said Marshall's exit comes as the company \"streamlines its leadership structure.\"\nSource",
+      "date": "2026-09-21T16:24:34.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/taylor-swift-mtv-vmas-2026-inaugural-artist-director-award-1236871205/",
+      "title": "Taylor Swift to Be Honored at 2026 MTV VMAs With Inaugural Artist-Director Award",
+      "link": "https://variety.com/2026/music/news/taylor-swift-mtv-vmas-2026-inaugural-artist-director-award-1236871205/",
+      "description": "Taylor Swift has been pegged to receive a key award at Sunday night&#8217;s MTV Video Music Awards. CBS and MTV announced Monday morning that Swift will be the recipient of the inaugural MTV VMA Artis…",
+      "date": "2026-09-21T16:00:10.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://completemusicupdate.com/ed-sheeran-discusses-macklemore-axing-controversy-as-his-tour-resumes-in-philadelphia/",
+      "title": "Ed Sheeran discusses Macklemore axing controversy as his tour resumes in Philadelphia",
+      "link": "https://completemusicupdate.com/ed-sheeran-discusses-macklemore-axing-controversy-as-his-tour-resumes-in-philadelphia/",
+      "description": "Ed Sheeran resumed his US tour without support acts this weekend, responding on stage to the controversial axing of Macklemore from the show. Elsewhere in pop politics, Zara Larson has pulled out of a…",
+      "date": "2026-09-21T15:26:43.000Z",
+      "source": "Complete Music Update",
+      "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/carly-rae-jepsen-on-marriage-motherhood-day-and-night-1236870694/",
+      "title": "Carly Rae Jepsen on How Marriage, Motherhood and the Joy of Pop Music Fueled Her Ambitious Double Album &#8216;Day and Night&#8217;: &#8216;I Knew What Colors I Was Playing With&#8217;",
+      "link": "https://variety.com/2026/music/news/carly-rae-jepsen-on-marriage-motherhood-day-and-night-1236870694/",
+      "description": "It sounds like an obvious approach, but Carly Rae Jepsen began working on her new double album &#8220;Day and Night&#8221; with a simple ethos: make the type of music she would want to listen to. &#82…",
+      "date": "2026-09-21T15:00:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
     {
       "id": "https://musically.com/2026/09/21/ed-sheeran-i-am-making-mistakes-and-im-so-so-sorry/",
       "title": "Ed Sheeran: ‘I am making mistakes, and I’m so, so sorry’",
@@ -13,7 +283,7 @@
     },
     {
       "id": "https://musically.com/2026/09/21/sylvain-esso-back-on-spotify-after-boycott-was-unsustainable/",
-      "title": "Sylvain Esso back on Spotify after boycott was ‘unsustainable’",
+      "title": "Sylvan Esso back on Spotify after boycott was ‘unsustainable’",
       "link": "https://musically.com/2026/09/21/sylvain-esso-back-on-spotify-after-boycott-was-unsustainable/",
       "description": "Just under a year ago, US duo Sylvain Esso removed their music from Spotify in protest at then-CEO Daniel Ek’s investment in military-tech company Helsing.\nThe post is from Music Ally.",
       "date": "2026-09-21T12:30:00.000Z",
@@ -62,56 +332,6 @@
       "category": "Technology"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/john-farnham-honored-by-celine-dion-chris-martin-keith-urban-1236344265/",
-      "title": "Celine Dion, Keith Urban, Chris Martin Lead All-Star John Farnham Tribute&#160;Concert",
-      "link": "https://www.billboard.com/music/music-news/john-farnham-honored-by-celine-dion-chris-martin-keith-urban-1236344265/",
-      "description": "The concert doubled as a celebration of the 40th anniversary of \"You're the Voice,\" released in September 1986.",
-      "date": "2026-09-21T07:13:10.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/the-weeknd-song-sampling-neon-genesis-evangelion-theme-1236344262/",
-      "title": "The Weeknd Debuts New Song Sampling &#8216;Neon Genesis Evangelion&#8217; Theme in&#160;Japan",
-      "link": "https://www.billboard.com/music/music-news/the-weeknd-song-sampling-neon-genesis-evangelion-theme-1236344262/",
-      "description": "Tesfaye credited the piece on social media only as \"Presented by YOKO TARO ft. YOKO TAKAHASHI.\"",
-      "date": "2026-09-21T05:54:43.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/concerts/suki-waterhouse-australian-loveland-tour-1236344260/",
-      "title": "Suki Waterhouse Sets Australian Loveland Tour Dates for&#160;December",
-      "link": "https://www.billboard.com/music/concerts/suki-waterhouse-australian-loveland-tour-1236344260/",
-      "description": "The tour opens Dec. 8 at the Sydney Opera House Forecourt as part of the venue's On the Steps series.",
-      "date": "2026-09-21T04:45:39.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/pop/freya-skyes-bad-taste-best-new-music-poll-results-1236344248/",
-      "title": "Fans Choose Freya Skye&#8217;s &#8216;Bad Taste&#8217; as This Week&#8217;s Favorite New&#160;Music",
-      "link": "https://www.billboard.com/music/pop/freya-skyes-bad-taste-best-new-music-poll-results-1236344248/",
-      "description": "Skye's playful pop track brought in more than 82% of the vote.",
-      "date": "2026-09-21T01:20:34.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/tv-film/ed-sheeran-snl-uk-cold-open-princess-diana-1236344220/",
-      "title": "&#8216;SNL UK&#8217; Cold Open Mocks Ed Sheeran for &#8216;Sitting on the Fence&#8217; Amid Tour&#160;Controversy",
-      "link": "https://www.billboard.com/culture/tv-film/ed-sheeran-snl-uk-cold-open-princess-diana-1236344220/",
-      "description": "The late-night sketch comedy series also brought back Princess Diana -- in the form of a defiant A.I. assistant.",
-      "date": "2026-09-20T22:55:10.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
       "title": "No Dogs in Space is back to feed your need for obsessive music history",
       "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
@@ -120,16 +340,6 @@
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
-    },
-    {
-      "id": "https://www.billboard.com/music/rock/chad-gilbert-death-new-found-glory-guitarist-dies-obituary-1236344213/",
-      "title": "Chad Gilbert, New Found Glory Guitarist, Dies at&#160;45",
-      "link": "https://www.billboard.com/music/rock/chad-gilbert-death-new-found-glory-guitarist-dies-obituary-1236344213/",
-      "description": "The musician’s death comes six months after he revealed his cancer battle.",
-      "date": "2026-09-20T19:54:36.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
     },
     {
       "id": "https://variety.com/2026/music/news/jhene-aiko-scores-first-no-1-albums-chart-westside-whimsy-1236870490/",
@@ -152,26 +362,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/chart-beat/jhene-aiko-westwide-whimsy-number-one-billboard-200-chart-1236344193/",
-      "title": "Jhené Aiko Achieves First No. 1 Album on Billboard 200 With ‘Westside&#160;Whimsy’",
-      "link": "https://www.billboard.com/music/chart-beat/jhene-aiko-westwide-whimsy-number-one-billboard-200-chart-1236344193/",
-      "description": "It’s the first R&#38;B album by a woman to top the chart this year.",
-      "date": "2026-09-20T19:00:03.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/nicki-minaj-responds-criticism-trump-support-1236344201/",
-      "title": "Nicki Minaj Responds to Criticism Over Her Support for Trump Administration: ‘I Just Love&#160;Him’",
-      "link": "https://www.billboard.com/music/music-news/nicki-minaj-responds-criticism-trump-support-1236344201/",
-      "description": "The rapper appeared on Fox News to discuss her role as a judge in the Trump administration’s Million Dollar Pitch Competition.",
-      "date": "2026-09-20T17:58:18.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/gallery/oprah-winfrey-christopher-nolan-robert-de-niro-kim-kardashian-lucas-museum-of-narrative-art-opening/",
       "title": "From Oprah Winfrey and Christopher Nolan to Kim Kardashian and Robert De Niro: Inside the Lucas Museum of Narrative Art Opening Gala",
       "link": "https://variety.com/gallery/oprah-winfrey-christopher-nolan-robert-de-niro-kim-kardashian-lucas-museum-of-narrative-art-opening/",
@@ -179,16 +369,6 @@
       "date": "2026-09-20T16:55:14.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
-      "title": "&#8216;Sunday Night Football&#8217;: How to Watch the Indianapolis Colts vs. Kansas City Chiefs Game Live Online&#160;Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
-      "description": "Watch the Colts take on the Chiefs on Sunday, Sept. 20 — keep an eye out for a possible Taylor Swift sighting at the game too.",
-      "date": "2026-09-20T16:46:50.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -212,61 +392,11 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/john-farnham-health-update-1236344190/",
-      "title": "John Farnham&#8217;s Family Reveals Health Decline Ahead of Tribute&#160;Show",
-      "link": "https://www.billboard.com/music/music-news/john-farnham-health-update-1236344190/",
-      "description": "The singer's wife and sons say his health \"has deteriorated in recent months.\"",
-      "date": "2026-09-20T10:58:58.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/ed-sheeran-addresses-macklemore-on-stage-philadelphia-show-1236869614/",
       "title": "Ed Sheeran Addresses Macklemore Controversy While on Stage at First Concert Since Rapper Dropped From Tour: &#8216;What Is Happening in Gaza Is Catastrophic and Unjustifiable&#8217;",
       "link": "https://variety.com/2026/music/news/ed-sheeran-addresses-macklemore-on-stage-philadelphia-show-1236869614/",
       "description": "Ed Sheeran addressed the controversy surrounding Macklemore’s removal from his Loop Tour on Saturday night, speaking from the stage at Philadelphia’s Lincoln Financial Field during his first concert s…",
       "date": "2026-09-20T00:29:07.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/palestine-protestors-ed-sheeran-concert-macklemore-1236869617/",
-      "title": "Protestors March Outside Ed Sheeran Concert After Macklemore Was Dropped From Tour: ‘It&#8217;s Not Going to Stop Until Palestine is Free’",
-      "link": "https://variety.com/2026/music/news/palestine-protestors-ed-sheeran-concert-macklemore-1236869617/",
-      "description": "Pro-Palestinian protesters gathered outside Ed Sheeran’s concert at Philadelphia’s Lincoln Financial Field on Saturday night as the singer returned to the stage for the first time since Macklemore was…",
-      "date": "2026-09-19T23:01:02.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/aaron-rowe-defends-ed-sheeran-macklemore-1236869645/",
-      "title": "Singer Aaron Rowe Defends Ed Sheeran After Dropping Out of Tour: ‘It Was Human F—ing Error’",
-      "link": "https://variety.com/2026/music/news/aaron-rowe-defends-ed-sheeran-macklemore-1236869645/",
-      "description": "Aaron Rowe, who was one of the opening acts on Ed Sheeran’s tour before pulling out after Macklemore’s dismissal over his support for Palestine, has now issued an impassioned defense of the singer. “I…",
-      "date": "2026-09-19T18:22:19.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/columns/orville-peck-dedicates-willie-nelson-duet-gay-cowboys-hollywood-bowl-1236869602/",
-      "title": "Orville Peck Dedicates Performance to &#8216;All the Gay Cowboys&#8217;: &#8216;We Exist, We Walk Among You&#8217;",
-      "link": "https://variety.com/2026/music/columns/orville-peck-dedicates-willie-nelson-duet-gay-cowboys-hollywood-bowl-1236869602/",
-      "description": "Orville Peck made his headlining debut at the Hollywood Bowl on Friday night. But it wasn&#8217;t the first time the country singer performed at the legendary amphitheater. He performed at the outdoor…",
-      "date": "2026-09-19T17:35:38.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/miley-bass-persuades-album-review-1236868564/",
-      "title": "Miley&#8217;s &#8216;Bass Persuades&#8217; Is Pretty and Passable, but Surprisingly Light on Bass&#8230; or Persuasion: Album Review",
-      "link": "https://variety.com/2026/music/news/miley-bass-persuades-album-review-1236868564/",
-      "description": "The title track and first single from Miley Cyrus&#8217; &#8220;Bass Persuades&#8221; was a classic act of misdirection, we now learn. Released two and a half weeks prior to the album, the song promis…",
-      "date": "2026-09-19T17:26:27.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
       "category": "Business & Finance"
@@ -402,16 +532,6 @@
       "category": "Technology"
     },
     {
-      "id": "https://musically.com/2026/09/18/lunacy-wants-to-help-people-build-their-own-virtual-instruments/",
-      "title": "Lunacy wants to help people build their own virtual instruments",
-      "link": "https://musically.com/2026/09/18/lunacy-wants-to-help-people-build-their-own-virtual-instruments/",
-      "description": "Lunacy is the company behind audio plugins Cube and Beam, but its latest launch is something different: a browser-based marketplace for a larger collection of plugins.\nThe post is from Music Ally.",
-      "date": "2026-09-18T12:30:00.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
-    },
-    {
       "id": "https://musically.com/2026/09/18/amazon-musics-latest-originals-are-remixes-of-dance-classics/",
       "title": "Amazon Music’s latest originals are remixes of dance classics",
       "link": "https://musically.com/2026/09/18/amazon-musics-latest-originals-are-remixes-of-dance-classics/",
@@ -420,36 +540,6 @@
       "source": "Music Ally",
       "sourceId": "musically",
       "category": "Technology"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/no-ones-part-of-the-queue-oasis-have-scrapped-the-general-onsale-for-live-27-heres-5-things-to-know/",
-      "title": "No one’s &#8216;Part of the Queue&#8217;: Oasis have scrapped the general onsale for Live ’27. Here&#8217;s 5 things to know.",
-      "link": "https://www.musicbusinessworldwide.com/no-ones-part-of-the-queue-oasis-have-scrapped-the-general-onsale-for-live-27-heres-5-things-to-know/",
-      "description": "The only public route to a ticket was a registration window that opened at oasisinet.com on September 14 and closed on September 17.\nSource",
-      "date": "2026-09-18T12:26:49.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/soundexchange-strikes-reciprocal-agreement-with-the-uaes-musicnation-opening-neighboring-rights-royalty-flows-in-both-markets/",
-      "title": "SoundExchange strikes reciprocal agreement with the UAE&#8217;s MusicNation, opening neighboring rights royalty flows in both markets",
-      "link": "https://www.musicbusinessworldwide.com/soundexchange-strikes-reciprocal-agreement-with-the-uaes-musicnation-opening-neighboring-rights-royalty-flows-in-both-markets/",
-      "description": "SoundExchange-affiliated artists will collect royalties for broadcasts in the UAE, while Emirati creators will receive payouts for US airplay.\nSource",
-      "date": "2026-09-18T12:21:31.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/symphonic-adds-massivemusic-audio-delivery-to-its-transfertrack-migration-tech-removing-what-it-calls-one-of-the-last-manual-steps-for-labels-switching-distributors/",
-      "title": "Symphonic adds MassiveMusic audio delivery to its TransferTrack migration tech, removing what it calls one of the last manual steps for labels switching distributors",
-      "link": "https://www.musicbusinessworldwide.com/symphonic-adds-massivemusic-audio-delivery-to-its-transfertrack-migration-tech-removing-what-it-calls-one-of-the-last-manual-steps-for-labels-switching-distributors/",
-      "description": "The deal allows Symphonic to pull audio files and metadata out of MassiveMusic's catalog infrastructure when a label transfers its releases.\nSource",
-      "date": "2026-09-18T12:21:08.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
     },
     {
       "id": "https://rainnews.com/ai-radio-stations/",
@@ -462,26 +552,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.musicbusinessworldwide.com/atlantic-records-to-release-grand-theft-auto-vi-the-album-featuring-travis-scott-pinkpantheress-morgan-wallen-and-keith-richards/",
-      "title": "Atlantic Records to release Grand Theft Auto VI: The Album, featuring Travis Scott, PinkPantheress, Morgan Wallen, and Keith Richards",
-      "link": "https://www.musicbusinessworldwide.com/atlantic-records-to-release-grand-theft-auto-vi-the-album-featuring-travis-scott-pinkpantheress-morgan-wallen-and-keith-richards/",
-      "description": "The LP contains 34 original tracks, six of which were issued as singles on Thursday (September 17).\nSource",
-      "date": "2026-09-17T18:48:43.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/ai-artists-will-somehow-play-live-at-their-own-awards-ceremony-in-november/",
-      "title": "AI artists will somehow play &#8216;live&#8217; at their own awards ceremony in November",
-      "link": "https://www.musicbusinessworldwide.com/ai-artists-will-somehow-play-live-at-their-own-awards-ceremony-in-november/",
-      "description": "AI-generated 'artists' including Xania Monet will 'perform' live on stage at the first AI Music Awards in Los Angeles in November.\nSource",
-      "date": "2026-09-17T18:36:39.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
       "id": "https://completemusicupdate.com/as-the-drama-continues-around-ed-sheerans-us-tour-the-debate-is-bigger-than-one-pop-star/",
       "title": "As the drama continues around Ed Sheeran’s US tour, the debate is bigger than one pop star",
       "link": "https://completemusicupdate.com/as-the-drama-continues-around-ed-sheerans-us-tour-the-debate-is-bigger-than-one-pop-star/",
@@ -489,36 +559,6 @@
       "date": "2026-09-17T17:12:48.000Z",
       "source": "Complete Music Update",
       "sourceId": "cmu",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/you-want-your-songs-playing-everywhere-in-50-years-not-just-50-weeks/",
-      "title": "&#8216;You want your songs playing everywhere in 50 years – not just 50 weeks.&#8217;",
-      "link": "https://www.musicbusinessworldwide.com/you-want-your-songs-playing-everywhere-in-50-years-not-just-50-weeks/",
-      "description": "Gregg Alexander wrote one of the biggest songs of the '90s, then pretty much completely withdrew from public life, opting instead to stay behind-the-scenes and write hits for other people. Here he tel…",
-      "date": "2026-09-17T16:24:28.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/bmg-and-concord-apollo-bond-debt/",
-      "title": "Apollo invests $1.25B in BMG subsidiary behind legacy Concord bonds, taking a minority stake",
-      "link": "https://www.musicbusinessworldwide.com/bmg-and-concord-apollo-bond-debt/",
-      "description": "Apollo-managed funds and affiliates have acquired what Apollo describes as a \"noncontrolling interest\" in a subsidiary of BMG that holds the legacy Concord asset-backed securities, backed by a catalog…",
-      "date": "2026-09-17T15:06:13.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/stem-co-founder-tim-luckow-raises-5m-for-royalty-platform-notes-fm-zach-bryan-benny-blanco-and-ari-emanuel-among-the-backers/",
-      "title": "Stem co-founder Tim Luckow raises $5M for royalty platform Notes.fm; Zach Bryan, Benny Blanco and Ari Emanuel among the backers",
-      "link": "https://www.musicbusinessworldwide.com/stem-co-founder-tim-luckow-raises-5m-for-royalty-platform-notes-fm-zach-bryan-benny-blanco-and-ari-emanuel-among-the-backers/",
-      "description": "Notes says the money will fund \"continued platform development and scaled marketing efforts\" as it takes its offering to artists globally.\nSource",
-      "date": "2026-09-17T14:00:48.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
       "category": "Industry"
     },
     {
@@ -762,16 +802,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://rainnews.com/new-charting-vertical-dramas/",
-      "title": "NEW: Charting vertical dramas",
-      "link": "https://rainnews.com/new-charting-vertical-dramas/",
-      "description": "Hollywood Reporter has launched a Microdrama Chart, believed to be the first ranking of vertical drama. (Vertical dramas are Small-format video stories meant to be consumed on smartphones.) Owl & Co p…",
-      "date": "2026-09-09T20:09:07.000Z",
-      "source": "RAIN News",
-      "sourceId": "rain",
-      "category": "Industry"
-    },
-    {
       "id": "https://completemusicupdate.com/suno-unveils-upgrade-developed-with-music-industry-partners-while-continuing-to-battle-the-music-industry-in-court/",
       "title": "Suno unveils upgrade developed with “music industry partners”, while continuing to battle the music industry in court",
       "link": "https://completemusicupdate.com/suno-unveils-upgrade-developed-with-music-industry-partners-while-continuing-to-battle-the-music-industry-in-court/",
@@ -802,41 +832,11 @@
       "category": "Industry"
     },
     {
-      "id": "https://completemusicupdate.com/approved-paerish/",
-      "title": "🎧 Approved: Paerish",
-      "link": "https://completemusicupdate.com/approved-paerish/",
-      "description": "Parisian four-piece Paerish make shoegazy, melodic alt-emo with a deep obsession with film and pop culture. New single ‘Vapor Cloud’ is riff-heavy and comes with a nocturnal, anime-inspired drift vide…",
-      "date": "2026-09-08T14:18:31.000Z",
-      "source": "Complete Music Update",
-      "sourceId": "cmu",
-      "category": "Industry"
-    },
-    {
-      "id": "https://completemusicupdate.com/no-tangible-progress-on-brexit-touring-barriers-say-alarmed-mps/",
-      "title": "No “tangible progress” on Brexit touring barriers, say “alarmed” MPs",
-      "link": "https://completemusicupdate.com/no-tangible-progress-on-brexit-touring-barriers-say-alarmed-mps/",
-      "description": "Earlier this year the UK Parliament’s culture committee published a report on issues British artists face touring Europe post-Brexit. The government has now responded, insisting it wants “tangible pro…",
-      "date": "2026-09-07T16:03:33.000Z",
-      "source": "Complete Music Update",
-      "sourceId": "cmu",
-      "category": "Industry"
-    },
-    {
       "id": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
       "title": "CD sales are booming as physical media continues its resurgence",
       "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
       "description": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six mont…",
       "date": "2026-09-05T16:49:33.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-      "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "description": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly…",
-      "date": "2026-09-04T21:23:50.000Z",
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
