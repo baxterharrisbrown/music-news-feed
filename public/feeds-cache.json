@@ -1,14 +1,264 @@
 {
-  "generated": "2026-10-11T12:33:16.670Z",
+  "generated": "2026-10-12T15:05:54.872Z",
   "articles": [
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-ayra-starr-halftime-show-watch-live-free-1236358001/",
-      "title": "NFL London Game Halftime Show 2026: Here&#8217;s Where to Watch Perform Ayra Starr Live Online&#160;Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-ayra-starr-halftime-show-watch-live-free-1236358001/",
-      "description": "Livestream the Philadelphia Eagles take on the Jacksonville Jaguars live from London on Oct. 11.",
-      "date": "2026-10-11T10:30:00.000Z",
+      "id": "https://www.billboard.com/lists/top-10-albums-billboard-200-january-1966-the-beatles/",
+      "title": "The Beatles&#8217; &#8216;Rubber Soul&#8217; Is Back in the Top 10 on the Billboard 200: See What Else Was in the Top 10 When It First Appeared There in&#160;1966",
+      "link": "https://www.billboard.com/lists/top-10-albums-billboard-200-january-1966-the-beatles/",
+      "description": "It was packed with superstars, including The Rolling Stones, Elvis Presley, Barbra Streisand and two albums by Herb Alpert &#38; the Tijuana Brass.",
+      "date": "2026-10-12T15:00:00.000Z",
       "source": "Billboard",
       "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/latin/reparto-genre-music-global-rise-1236357357/",
+      "title": "Inside Reparto&#8217;s Rise: How the Once-Banned Genre Is Gaining Global&#160;Attention",
+      "link": "https://www.billboard.com/music/latin/reparto-genre-music-global-rise-1236357357/",
+      "description": "“Reparto music has a sound that’s incredibly catchy — it’s tropical, full of flavor. I feel it’s a musically complete genre,” says Bebeshito, one of the leaders of the resurgence.",
+      "date": "2026-10-12T14:56:18.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/columns/kelly-clarkson-art-of-play-brooklyn-twitter-1236908964/",
+      "title": "In Defense of Kelly Clarkson (Kind Of) and the $15,000 Singing Bird Saga",
+      "link": "https://variety.com/2026/music/columns/kelly-clarkson-art-of-play-brooklyn-twitter-1236908964/",
+      "description": "Kelly Clarkson does not seem to be winning the war she haphazardly declared against a Brooklyn novelty store. But the mere fact of its existence is proof that Clarkson is providing the public a servic…",
+      "date": "2026-10-12T14:51:13.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/britney-spears-drops-unreleased-justin-timberlake-collaboration-1236908996/",
+      "title": "Britney Spears Drops Previously Unreleased Justin Timberlake Collaboration, ‘She’ll Never Be Me’",
+      "link": "https://variety.com/2026/music/news/britney-spears-drops-unreleased-justin-timberlake-collaboration-1236908996/",
+      "description": "Britney Spears has posted a previously unreleased collaboration with Justin Timberlake titled “She’ll Never Be Me,” originally recorded for her 2001 album “Britney,” as a preview of the album’s 25 th…",
+      "date": "2026-10-12T13:59:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/pop/art-garfunkel-postpones-uk-tour-respiratory-infection-1236358905/",
+      "title": "Art Garfunkel Postpones U.K. Tour Over Respiratory Infection Diagnosis: &#8216;My Doctor Has Advised Me to Take Some Time to&#160;Rest&#8217;",
+      "link": "https://www.billboard.com/music/pop/art-garfunkel-postpones-uk-tour-respiratory-infection-1236358905/",
+      "description": "The 84-year-old pop singer was slated to perform a run of four U.K. shows from Tuesday (Oct. 13) through next Monday (Oct. 19).",
+      "date": "2026-10-12T13:05:07.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/video/julion-alvarez-billboard-news-interview/",
+      "title": "Julión Álvarez: Why Mariachi Is &#8216;Sacred Ground&#8217; for Him &#124; Billboard News&#160;Interview",
+      "link": "https://www.billboard.com/video/julion-alvarez-billboard-news-interview/",
+      "description": "Julión Álvarez looks back on nearly 20 years of his career, major Billboard chart milestones, and what it means to still have fans showing up in a big way. In this Billboard interview, Julión talks pe…",
+      "date": "2026-10-12T13:00:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://musically.com/2026/10/12/distrokid-is-removing-songs-in-response-to-umg-lawsuit-and-some-artists-arent-happy/",
+      "title": "DistroKid is removing songs in response to UMG lawsuit – and some artists aren’t happy",
+      "link": "https://musically.com/2026/10/12/distrokid-is-removing-songs-in-response-to-umg-lawsuit-and-some-artists-arent-happy/",
+      "description": "In September, UMG sued distributer DistroKid over the latter’s “illegal, deceptive, and unlawful practices” – with two specific and fairly blockbuster accusations at the lawsuit’s heart: that DistroKi…",
+      "date": "2026-10-12T12:45:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://musically.com/2026/10/12/gta-vi-previews-in-game-radio-stations-and-introduces-podcasts/",
+      "title": "GTA VI previews in-game radio stations – and introduces podcasts",
+      "link": "https://musically.com/2026/10/12/gta-vi-previews-in-game-radio-stations-and-introduces-podcasts/",
+      "description": "Rockstar Games is slowly drip-feeding a ravenous fanbase small nuggets of Grand Theft Auto VI before its launch on 19 November. The company has often led with music in this teasing process, and it has…",
+      "date": "2026-10-12T12:45:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://musically.com/2026/10/12/apple-hires-employees-and-licenses-tech-from-ai-podcast-startup-huxe/",
+      "title": "Apple hires employees and licenses tech from AI podcast startup Huxe",
+      "link": "https://musically.com/2026/10/12/apple-hires-employees-and-licenses-tech-from-ai-podcast-startup-huxe/",
+      "description": "We’re used to reading about novel ways of recruiting people en masse from another company, but a “reverse acqui-hire deal” was a new one to us. You’ll be aware of an acqui-hire deal, where one company…",
+      "date": "2026-10-12T12:45:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://musically.com/2026/10/12/netflix-reportedly-cutting-850-jobs-as-tech-and-media-layoffs-continue/",
+      "title": "Netflix reportedly cutting 850 jobs as tech and media layoffs continue",
+      "link": "https://musically.com/2026/10/12/netflix-reportedly-cutting-850-jobs-as-tech-and-media-layoffs-continue/",
+      "description": "Netflix is allegedly about to cut 850 jobs as early as next week, according to media industry reporting service Puck. If that’s true – Netflix has not commented – that’s about 5% of its global workfor…",
+      "date": "2026-10-12T12:45:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.billboard.com/music/pop/sombr-joined-fleetwood-mac-buckingham-go-your-own-way-la-show-1236358899/",
+      "title": "Sombr Joined by Fleetwood Mac Legend For &#8216;Go Your Own Way&#8217; At L.A.&#160;Show",
+      "link": "https://www.billboard.com/music/pop/sombr-joined-fleetwood-mac-buckingham-go-your-own-way-la-show-1236358899/",
+      "description": "\"This man's music is one of my biggest influences,\" the 21-year-old singer said of the 77-year-old Rock &#38; Roll Hall of Famer.",
+      "date": "2026-10-12T12:34:22.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/pop/britney-spears-unreleased-shell-never-be-co-written-timberlake-1236358893/",
+      "title": "Britney Spears Drops Previously Unreleased Pop Banger &#8216;She&#8217;ll Never Be Me,&#8217; Co-Written With Then-Boyfriend Justin Timberlake:&#160;Listen",
+      "link": "https://www.billboard.com/music/pop/britney-spears-unreleased-shell-never-be-co-written-timberlake-1236358893/",
+      "description": "The song will be featured on the upcoming 25th anniversary edition of Britney, due out on Nov. 6.",
+      "date": "2026-10-12T11:55:49.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/distrokid-confirms-it-has-removed-tracks-in-response-to-umg-claims/",
+      "title": "DistroKid confirms it has removed tracks in response to UMG claims",
+      "link": "https://www.musicbusinessworldwide.com/distrokid-confirms-it-has-removed-tracks-in-response-to-umg-claims/",
+      "description": "The Verge reported that independent artists had been posting on social media about their music being taken down without notice.\nSource",
+      "date": "2026-10-12T11:16:46.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/warner-music-sues-ray-ban-and-oakley-owner-luxottica-over-alleged-use-of-427-works-in-social-media-posts/",
+      "title": "Warner Music sues Ray-Ban and Oakley owner Luxottica over alleged use of 427+ works in social media posts",
+      "link": "https://www.musicbusinessworldwide.com/warner-music-sues-ray-ban-and-oakley-owner-luxottica-over-alleged-use-of-427-works-in-social-media-posts/",
+      "description": "The complaint alleges that Luxottica's brands set their social media videos to Warner-controlled music without a license and without paying Warner.\nSource",
+      "date": "2026-10-12T11:15:41.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/umgs-interscope-sues-summer-walker-for-50m-after-she-moves-to-exit-her-deal-under-californias-seven-year-rule/",
+      "title": "UMG&#8217;s Interscope sues Summer Walker for $50M+ after she moves to exit her deal under California&#8217;s &#8216;seven-year rule&#8217;",
+      "link": "https://www.musicbusinessworldwide.com/umgs-interscope-sues-summer-walker-for-50m-after-she-moves-to-exit-her-deal-under-californias-seven-year-rule/",
+      "description": "Walker signed a joint deal with Interscope and Atlanta-based label and management company LVRN in 2017.\nSource",
+      "date": "2026-10-12T11:15:24.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/gunna-launches-sb-the-label-in-partnership-with-warners-atlantic-music-group/",
+      "title": "Gunna launches SB THE LABEL in partnership with Warner&#8217;s Atlantic Music Group",
+      "link": "https://www.musicbusinessworldwide.com/gunna-launches-sb-the-label-in-partnership-with-warners-atlantic-music-group/",
+      "description": "The new label's first three signings are Atlanta artists Casper Bluff, Nechie, and Dracc.\nSource",
+      "date": "2026-10-12T11:14:42.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/concerts/nickelback-australia-2027-tour-1236358885/",
+      "title": "Nickelback to Return to Australia for the First Time Since&#160;2019",
+      "link": "https://www.billboard.com/music/concerts/nickelback-australia-2027-tour-1236358885/",
+      "description": "The Canadian rock band will play seven Australian dates in October 2027 with Don Broco.",
+      "date": "2026-10-12T07:35:08.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/beach-boys-mike-love-play-nashville-ryman-john-stamos-1236908660/",
+      "title": "The Beach Boys Play Nashville&#8217;s Ryman in What John Stamos Says &#8216;Could Be the Last Time I Stand Behind Mike&#8217; Love in Concert",
+      "link": "https://variety.com/2026/music/news/beach-boys-mike-love-play-nashville-ryman-john-stamos-1236908660/",
+      "description": "When the Beach Boys played Nashville&#8217;s Ryman Auditorium Sunday night, no major announcements were made from the stage, but the sense of import for fans on hand was palpable, with many believing…",
+      "date": "2026-10-12T05:30:12.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/kelly-clarkson-brooklyn-store-pretty-woman-feud-escalates-1236358882/",
+      "title": "Kelly Clarkson Doubles Down on Brooklyn Store Feud: ‘You’re Also a&#160;Liar’",
+      "link": "https://www.billboard.com/music/music-news/kelly-clarkson-brooklyn-store-pretty-woman-feud-escalates-1236358882/",
+      "description": "The singer closed with a parting shot: “Your store is really cool. Unfortunately, you aren’t.”",
+      "date": "2026-10-12T04:43:48.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/11/ed-sheeran-loop-tour-new-opening-acts/",
+      "title": "Ed Sheeran Quietly Adds Another Opening Act as the Loop Tour Soldiers Onward",
+      "link": "https://www.digitalmusicnews.com/2026/10/11/ed-sheeran-loop-tour-new-opening-acts/",
+      "description": "After Isaac Slade&#8217;s surprise performance at Ed Sheeran&#8217;s Atlanta show, he and American Idol&#8217;s Brooks Rosser will join him on several more dates. Isaac Slade of The Fray surprised fan…",
+      "date": "2026-10-12T03:44:34.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/music-news/mike-love-health-update-beach-boys-1236358865/",
+      "title": "Mike Love Is &#8216;Facing Serious Health Challenges,&#8217; Says John&#160;Stamos",
+      "link": "https://www.billboard.com/music/music-news/mike-love-health-update-beach-boys-1236358865/",
+      "description": "Stamos shared a candid update about The Beach Boys singer on social media before their performance in Nashville Sunday night (Oct. 11) after the band returns after a three-month break.",
+      "date": "2026-10-12T03:14:02.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/pop/harry-styles-oscar-belgal-ice-shooting-msg-concert-nyc-1236358841/",
+      "title": "Harry Styles Dedicates Moment to Oscar Belgal After ICE Shooting: &#8216;Look After Each Other,&#8217; He Tells NYC&#160;Crowd",
+      "link": "https://www.billboard.com/music/pop/harry-styles-oscar-belgal-ice-shooting-msg-concert-nyc-1236358841/",
+      "description": "Styles paused his show with a speech naming Belgal at night 21 of his Madison Square Garden residency. Belgal was shot by ICE in his car in the Bronx, with his 5-year-old in the backseat.",
+      "date": "2026-10-12T01:56:16.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/11/live-music-new-geography/",
+      "title": "Live Music’s New Geography",
+      "link": "https://www.digitalmusicnews.com/2026/10/11/live-music-new-geography/",
+      "description": "Welcome to the decentralization of opportunity. There was a time when opportunity in music had an address in a big city. The Troubadour in Los Angeles, The Bitter End in New York and The Bluebird Cafe…",
+      "date": "2026-10-12T00:49:25.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/kelly-clarkson-slams-brooklyn-store-business-responds-1236908372/",
+      "title": "After Kelly Clarkson Slams Brooklyn Novelty Store, Shop Says the ‘One-of-a-Kind’ Singing Bird She Wanted Wasn’t Actually For Sale",
+      "link": "https://variety.com/2026/music/news/kelly-clarkson-slams-brooklyn-store-business-responds-1236908372/",
+      "description": "After Kelly Clarkson took to X on Saturday to share her experience “being treated like Julia Roberts” in “Pretty Woman” during a visit to Art of Play, a novelty shop in Brooklyn, the local business is…",
+      "date": "2026-10-11T22:01:43.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/mike-love-john-stamos-statement-beach-boys-health-concern-1236908432/",
+      "title": "John Stamos Addresses Mike Love&#8217;s Health as Beach Boys Concert Footage Raises Concerns: &#8216;We Don&#8217;t Know What the Future Holds — We Have Tonight&#8217;",
+      "link": "https://variety.com/2026/music/news/mike-love-john-stamos-statement-beach-boys-health-concern-1236908432/",
+      "description": "Following many Beach Boys fans and followers expressing concern for Mike Love after seeing footage from the group&#8217;s Saturday night show in Cincinnati, John Stamos has stepped in with a statement…",
+      "date": "2026-10-11T21:49:56.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/taylor-swift-100th-week-billboard-200-number-one-beatles-1236908356/",
+      "title": "Taylor Swift Spends Her 100th Week at No. 1 on the Billboard 200, as &#8216;Life of a Showgirl&#8217; Stays on Top in Week 2 of &#8216;Encore&#8217; Rebound",
+      "link": "https://variety.com/2026/music/news/taylor-swift-100th-week-billboard-200-number-one-beatles-1236908356/",
+      "description": "Taylor Swift is fond of the number 13, but here&#8217;s betting she also considers the numeral 100 lucky, too. She can now celebrate having 100 weeks at No. 1 on the Billboard 200 chart, for all of he…",
+      "date": "2026-10-11T20:22:14.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
       "category": "Business & Finance"
     },
     {
@@ -22,16 +272,6 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/rb-hip-hop/soulja-boy-teases-2028-presidential-run-1236358638/",
-      "title": "Soulja Boy Teases 2028 Presidential Run: ‘A Bigger&#160;Vision’",
-      "link": "https://www.billboard.com/music/rb-hip-hop/soulja-boy-teases-2028-presidential-run-1236358638/",
-      "description": "The “Crank That” rapper says he’s “exploring what it means to bring that same vision to public service”",
-      "date": "2026-10-11T06:26:37.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://variety.com/2026/music/news/rosalia-snl-en-pointe-performance-reliquia-magnolias-1236907983/",
       "title": "Rosalía Performs an Entire Number En Pointe on &#8216;SNL,&#8217; Then Cools Off With a Nice Shower",
       "link": "https://variety.com/2026/music/news/rosalia-snl-en-pointe-performance-reliquia-magnolias-1236907983/",
@@ -39,36 +279,6 @@
       "date": "2026-10-11T06:23:24.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/head-trip-2026-ends-early-weather-1236358640/",
-      "title": "Night One Of Head Trip 2026 Ends Early Due to&#160;Weather",
-      "link": "https://www.billboard.com/music/music-news/head-trip-2026-ends-early-weather-1236358640/",
-      "description": "The show on the Coachella grounds in Indio, Calif., ended before the night's headliner Calvin Harris took the stage.",
-      "date": "2026-10-11T06:22:50.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/barry-manilow-cuts-short-las-vegas-show-cancels-concerts-1236358635/",
-      "title": "Barry Manilow Walks Off Stage, Cancels Vegas Shows Due to&#160;Bronchitis",
-      "link": "https://www.billboard.com/music/music-news/barry-manilow-cuts-short-las-vegas-show-cancels-concerts-1236358635/",
-      "description": "The 83-year-old left the stage after two songs, days into his return to the Westgate residency following a health break.",
-      "date": "2026-10-11T03:52:24.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/awards/2026-world-soundtrack-awards-winners-list-1236358619/",
-      "title": "&#8216;Golden&#8217; Is Still Golden, Wins Best Song at 2026 World Soundtrack Awards (Full Winners&#160;List)",
-      "link": "https://www.billboard.com/music/awards/2026-world-soundtrack-awards-winners-list-1236358619/",
-      "description": "Daniel Pemberton and Jeff Russo also won top honors.",
-      "date": "2026-10-10T23:16:32.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
       "category": "Business & Finance"
     },
     {
@@ -82,24 +292,14 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/geordie-greep-misconduct-allegation-cancels-tour-dates-1236358602/",
-      "title": "Geordie Greep Responds to Sexual Misconduct Allegation, Cancels Tour&#160;Dates",
-      "link": "https://www.billboard.com/music/music-news/geordie-greep-misconduct-allegation-cancels-tour-dates-1236358602/",
-      "description": "The former Black Midi frontman denied any wrongdoing during his Oct. 8 performance in Vancouver.",
-      "date": "2026-10-10T20:04:35.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/music-news/charli-xcx-tinashe-2026-austin-city-limits-festival-1236358595/",
-      "title": "Charli XCX Welcomes Tinashe for Surprise Performance at 2026 Austin City Limits&#160;Festival",
-      "link": "https://www.billboard.com/music/music-news/charli-xcx-tinashe-2026-austin-city-limits-festival-1236358595/",
-      "description": "The duo performed two tracks from Tinashe’s Popstar album during the Oct. 9 set.",
-      "date": "2026-10-10T18:37:26.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "description": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t…",
+      "date": "2026-10-10T18:52:07.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
     },
     {
       "id": "https://variety.com/2026/music/news/barry-manilow-cancels-las-vegas-shows-1236907619/",
@@ -112,54 +312,24 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/snl-2026-shane-gillis-rosalia-watch-live-online-free-1236357933/",
-      "title": "Shane Gillis &#038; Rosalía on &#8216;SNL&#8217;: Here&#8217;s Where to Watch &#8216;Saturday Night Live&#8217; Online for&#160;Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/snl-2026-shane-gillis-rosalia-watch-live-online-free-1236357933/",
-      "description": "Livestream the comedian host and Spanish singer-songwriter perform on Saturday, Oct. 10 — watch live online for free.",
-      "date": "2026-10-10T16:50:45.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "description": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of th…",
+      "date": "2026-10-10T15:00:00.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
     },
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/wwe-money-in-the-bank-2026-how-to-watch-live-online-free-1236357022/",
-      "title": "WWE Money in the Bank 2026: Here&#8217;s How to Watch the Premium Live Event Online for&#160;Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/wwe-money-in-the-bank-2026-how-to-watch-live-online-free-1236357022/",
-      "description": "Don't miss dual ladder matches for championship match contracts during the wrestling event — with a possible appearance by Lil Wayne.",
-      "date": "2026-10-10T16:04:41.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/features/for-world-mental-health-day-2026-1236358584/",
-      "title": "For World Mental Health Day, a check-up on the music&#160;industry",
-      "link": "https://www.billboard.com/music/features/for-world-mental-health-day-2026-1236358584/",
-      "description": "Consider it a musical manifesto devoted to mental health",
-      "date": "2026-10-10T15:08:44.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/10/09/music-industry-hires-oct-9-2026/",
-      "title": "Latest Music Industry Hires: Live Nation, Suno, Warner Music MENA, GoDigital, Empire Publishing, Believe, Music Publishers Association, More",
-      "link": "https://www.digitalmusicnews.com/2026/10/09/music-industry-hires-oct-9-2026/",
-      "description": "Here’s a recap of recent music industry hires and in-house promotions as of October 9th, 2026. If you have a job shuffle to share, we’re all ears. Send us a note to news@digitalmusicnews.com. If you’d…",
-      "date": "2026-10-10T01:05:27.000Z",
+      "id": "https://www.digitalmusicnews.com/2026/10/09/daisy-chain-fields-vendor-complaints/",
+      "title": "Olivia Rodrigo&#8217;s Daisy Chain Fields Festival Goes Into Damage Control After Vendors Say They Weren&#8217;t Paid",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/daisy-chain-fields-vendor-complaints/",
+      "description": "At least two vendors claim that Olivia Rodrigo&#8217;s Live Nation-produced Daisy Chain Fields festival not only failed to pay them but also issued costly fees. Olivia Rodrigo&#8217;s inaugural Daisy…",
+      "date": "2026-10-10T06:00:52.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/adela-brings-sass-vocals-razor-sharp-moves-la-fonda-theatre-1236907126/",
-      "title": "Adéla Brings Sass, Vocals and Razor-Sharp Moves to Los Angeles&#8217; Fonda Theatre",
-      "link": "https://variety.com/2026/music/news/adela-brings-sass-vocals-razor-sharp-moves-la-fonda-theatre-1236907126/",
-      "description": "Amid the first of two sold-out nights at Los Angeles&#8217; Fonda Theatre on Thursday night, Adéla paused to shout out Katseye members Lara Raj and Megan Skindiel, who were watching in the balcony alo…",
-      "date": "2026-10-09T22:34:05.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/10/09/top-dawg-entertainment-doxxing/",
@@ -177,26 +347,6 @@
       "link": "https://www.digitalmusicnews.com/2026/10/09/jack-white-vegas-concert-poster-board-game/",
       "description": "Jack White&#8217;s Las Vegas concert poster doubles as a playable board game, with a 52-card deck, six wooden playing pieces, a custom wooden die, and more. Jack White&#8217;s October 2 show at Fontai…",
       "date": "2026-10-09T21:21:21.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/reviews/danielle-ponder-everything-has-changed-album-review-1236907098/",
-      "title": "Danielle Ponder Meshes Old-School Soul With Future Sounds on the Dazzling ‘Everything Has Changed’: Album Review",
-      "link": "https://variety.com/2026/music/reviews/danielle-ponder-everything-has-changed-album-review-1236907098/",
-      "description": "There have been many innovative R&#38;B albums made over the past decade, but few have meshed futurism and tradition in quite the way that Danielle Ponder does on her second full-length, “Everything H…",
-      "date": "2026-10-09T20:50:39.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/10/09/daisy-chain-fields-vendor-complaints/",
-      "title": "Olivia Rodrigo&#8217;s Daisy Chain Fields Festival Goes Into Damage Control After Vendors Say They Weren&#8217;t Paid",
-      "link": "https://www.digitalmusicnews.com/2026/10/09/daisy-chain-fields-vendor-complaints/",
-      "description": "At least two vendors claim that Olivia Rodrigo&#8217;s Live Nation-produced Daisy Chain Fields festival not only failed to pay them but also issued costly fees. Olivia Rodrigo&#8217;s inaugural Daisy…",
-      "date": "2026-10-09T20:26:52.000Z",
       "source": "Digital Music News",
       "sourceId": "dmn",
       "category": "Industry"
@@ -222,44 +372,14 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/music/news/remi-wolf-mud-off-campus-hayley-willians-1236906301/",
-      "title": "Remi Wolf on the Meaning Behind Her New Album &#8216;Mud,&#8217; Her &#8216;Off Campus&#8217; Cameo and Friendship with Hayley Williams",
-      "link": "https://variety.com/2026/music/news/remi-wolf-mud-off-campus-hayley-willians-1236906301/",
-      "description": "Remi Wolf hasn&#8217;t landed a spot on “Survivor,” one of her favorite shows she&#8217;s always wanted to be on, so she instead put her mental fortitude to the test by rolling around in a makeshift m…",
-      "date": "2026-10-09T18:32:30.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/journey-drummer-deen-castronovo-leaves-concert-hospitalized-1236906851/",
-      "title": "Journey Drummer Deen Castronovo Leaves Concert After Two Songs and Is Hospitalized, as Show Eventually Resumes With Drum Tech",
-      "link": "https://variety.com/2026/music/news/journey-drummer-deen-castronovo-leaves-concert-hospitalized-1236906851/",
-      "description": "A Journey concert in Tulsa, Oklahoma had an unnerving moment Thursday night when longtime drummer Deen Castronovo had to be helped off the stage after the group had performed just two songs, leading t…",
-      "date": "2026-10-09T18:26:19.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/artisans/awards/laika-wildwood-oscars-decemberists-better-part-of-bravery-1236906575/",
-      "title": "Laika Submits Original Song From &#8216;Wildwood&#8217; for Oscars, &#8216;The Better Part of Bravery,&#8217; Performed by The Decemberists (EXCLUSIVE)",
-      "link": "https://variety.com/2026/artisans/awards/laika-wildwood-oscars-decemberists-better-part-of-bravery-1236906575/",
-      "description": "Laika will submit “The Better Part of Bravery” from the animated feature “Wildwood” for consideration in the original song category at the Academy Awards, Variety has learned. The song is performed by…",
-      "date": "2026-10-09T18:00:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/thomas-rhett-label-partnership-hybe-blue-highway-1236899774/",
-      "title": "Music Industry Moves: Believe Names Adriana Sein President of Americas; Guy Moot Joins NMPA Board",
-      "link": "https://variety.com/2026/music/news/thomas-rhett-label-partnership-hybe-blue-highway-1236899774/",
-      "description": "France-based music company Believe has named Adriana Sein to the newly created role of President, Americas. She will lead Believe’s commercial operations across North and South America, overseeing the…",
-      "date": "2026-10-09T17:20:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/09/music-industry-hires-oct-9-2026/",
+      "title": "Latest Music Industry Hires: Live Nation, Suno, Warner Music MENA, GoDigital, Empire Publishing, Believe, Music Publishers Association, More",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/music-industry-hires-oct-9-2026/",
+      "description": "Here’s a recap of recent music industry hires and in-house promotions as of October 9th, 2026. If you have a job shuffle to share, we’re all ears. Send us a note to news@digitalmusicnews.com. If you’d…",
+      "date": "2026-10-09T19:00:27.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/10/09/spotify-technology-launch/",
@@ -542,46 +662,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.musicbusinessworldwide.com/live-nation-to-sell-730m-and-e600m-of-bonds-to-refinance-its-6-5-notes-due-2027/",
-      "title": "Live Nation to sell $730M and €600M of bonds to refinance its 6.5% notes due 2027",
-      "link": "https://www.musicbusinessworldwide.com/live-nation-to-sell-730m-and-e600m-of-bonds-to-refinance-its-6-5-notes-due-2027/",
-      "description": "The new notes will retire the $1.2 billion of 6.5% debt Live Nation raised in May 2020, during the pandemic concert shutdown.\nSource",
-      "date": "2026-10-08T17:11:06.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/spotify-is-expanding-audiobooks-to-more-than-180-markets-and-says-its-audiobooks-add-on-has-passed-100m-in-annual-recurring-revenue/",
-      "title": "Spotify is expanding audiobooks to more than 180 markets and says its Audiobooks+ add-on has passed $100M in annual recurring revenue",
-      "link": "https://www.musicbusinessworldwide.com/spotify-is-expanding-audiobooks-to-more-than-180-markets-and-says-its-audiobooks-add-on-has-passed-100m-in-annual-recurring-revenue/",
-      "description": "Spotify said more than 750 million people will be able to stream or buy books on its platform once the rollout is complete.\nSource",
-      "date": "2026-10-08T17:10:57.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/live-nation-hit-with-class-action-lawsuits-over-data-breach-involving-social-security-numbers-and-health-records/",
-      "title": "Live Nation hit with class action lawsuits over data breach involving Social Security numbers and health records",
-      "link": "https://www.musicbusinessworldwide.com/live-nation-hit-with-class-action-lawsuits-over-data-breach-involving-social-security-numbers-and-health-records/",
-      "description": "Live Nation's statement came five days after Ticketmaster customers across the US ran into problems with ticket transfers.\nSource",
-      "date": "2026-10-08T17:10:47.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/",
-      "title": "Elon Musk says Grok Bot will use Suno&#8217;s AI music models, alongside Anthropic&#8217;s Claude and Midjourney",
-      "link": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/",
-      "description": "Suno does not currently offer an official public API. MBW reported in July that the company was exploring the launch of one.\nSource",
-      "date": "2026-10-08T17:10:31.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
       "id": "https://musically.com/2026/10/08/madverse-music-groups-parent-company-has-launched-a-label/",
       "title": "Madverse Music Group’s parent company has launched a label",
       "link": "https://musically.com/2026/10/08/madverse-music-groups-parent-company-has-launched-a-label/",
@@ -610,46 +690,6 @@
       "source": "Complete Music Update",
       "sourceId": "cmu",
       "category": "Industry"
-    },
-    {
-      "id": "https://musically.com/2026/10/08/steven-wilson-is-bundling-his-new-record-with-an-india-exclusive-insert/",
-      "title": "Steven Wilson is bundling his new record with an India-exclusive insert",
-      "link": "https://musically.com/2026/10/08/steven-wilson-is-bundling-his-new-record-with-an-india-exclusive-insert/",
-      "description": "As in several other parts of the world, India has undergone a vinyl revival. Over the last year-and-half, Sony Music launched a vinyl store and held the largest instalment of [&#8230;]\nThe post is fro…",
-      "date": "2026-10-08T14:45:48.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
-    },
-    {
-      "id": "https://musically.com/2026/10/08/is-your-indie-catalogue-losing-revenue-fixing-the-leak-with-indie-music-rights/",
-      "title": "Is your indie catalogue losing revenue? Fixing the leak with Indie Music Rights",
-      "link": "https://musically.com/2026/10/08/is-your-indie-catalogue-losing-revenue-fixing-the-leak-with-indie-music-rights/",
-      "description": "If you own an indie label, publishing company, or back-catalogue, there is a very high chance your IP is leaking revenue right now. Between messy global metadata, unclaimed rights, and [&#8230;]\nThe p…",
-      "date": "2026-10-08T13:56:55.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
-    },
-    {
-      "id": "https://musically.com/2026/10/08/spotify-expands-audiobooks-service-to-more-than-180-countries/",
-      "title": "Spotify expands audiobooks service to more than 180 countries",
-      "link": "https://musically.com/2026/10/08/spotify-expands-audiobooks-service-to-more-than-180-countries/",
-      "description": "Spotify’s bundling of audiobooks with music – and the impact on its royalty payouts – continues to be a hot-button topic among US publishers.\nThe post is from Music Ally.",
-      "date": "2026-10-08T12:30:00.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
-    },
-    {
-      "id": "https://musically.com/2026/10/08/empire-signals-latam-growth-by-hiring-rimas-publishings-md/",
-      "title": "Empire signals LatAm growth by hiring Rimas Publishing’s MD",
-      "link": "https://musically.com/2026/10/08/empire-signals-latam-growth-by-hiring-rimas-publishings-md/",
-      "description": "Our policy on hirings and promotions is that we don’t write many up individually, unless they signify a bigger strategic move or pivot.\nThe post is from Music Ally.",
-      "date": "2026-10-08T12:30:00.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
     },
     {
       "id": "https://www.digitalmusicnews.com/2026/10/07/live-nation-data-breach-class-action-lawsuits/",
@@ -1722,26 +1762,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
-      "title": "Japanese Voice Actor Sues TikTok Over AI Voice Cloning",
-      "link": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
-      "description": "A high-profile Japanese actor and anime voice talent has filed suit against TikTok over videos allegedly featuring an AI clone of his iconic voice. Fans sometimes idolize voice actors in Japan&#8217;s…",
-      "date": "2026-09-28T05:32:29.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.digitalmusicnews.com/2026/09/27/2026-mtv-vma-winners/",
-      "title": "Madonna Helped to Define the MTV Generation. Taylor Swift Emerged After It Was All Over. Both Cleaned Up at the 2026 MTV Video Music Awards.",
-      "link": "https://www.digitalmusicnews.com/2026/09/27/2026-mtv-vma-winners/",
-      "description": "It&#8217;s been over 40 years since Madonna&#8217;s iconic performance at the first MTV VMAs, but in 2026 she was the night&#8217;s biggest winner—even more so than Taylor Swift. Madonna took home sev…",
-      "date": "2026-09-28T05:29:29.000Z",
-      "source": "Digital Music News",
-      "sourceId": "dmn",
-      "category": "Industry"
-    },
-    {
       "id": "https://rainnews.com/mobile-device-takes-over-radio-tuning-in-the-car-for-young-listeners/",
       "title": "Mobile device takes over radio tuning in the car for young listeners",
       "link": "https://rainnews.com/mobile-device-takes-over-radio-tuning-in-the-car-for-young-listeners/",
@@ -1807,26 +1827,6 @@
       "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
       "description": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music H…",
       "date": "2026-09-22T08:35:54.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-      "title": "No Dogs in Space is back to feed your need for obsessive music history",
-      "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-      "description": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidal…",
-      "date": "2026-09-20T20:51:57.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-      "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-      "description": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks lik…",
-      "date": "2026-09-19T15:00:00.000Z",
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
