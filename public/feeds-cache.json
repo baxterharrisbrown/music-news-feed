@@ -1,6 +1,426 @@
 {
-  "generated": "2026-10-14T11:35:51.758Z",
+  "generated": "2026-10-15T11:14:29.190Z",
   "articles": [
+    {
+      "id": "https://www.billboard.com/music/rock/powderfinger-overwhelmed-demand-expands-2027-reunion-tour-1236361118/",
+      "title": "‘Holy S&#8212;‘: Powderfinger Overwhelmed By Demand, Expands 2027 Reunion&#160;Tour",
+      "link": "https://www.billboard.com/music/rock/powderfinger-overwhelmed-demand-expands-2027-reunion-tour-1236361118/",
+      "description": "\"The demand blew us away,\" say the members of Powderfinger, as their 2027 reunion tour balloons from 18 to 26 shows.",
+      "date": "2026-10-15T10:00:03.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/rb-hip-hop/hilltop-hoods-immortalized-laneway-adelaide-1236361102/",
+      "title": "Hilltop Hoods Immortalized With Laneway In&#160;Adelaide",
+      "link": "https://www.billboard.com/music/rb-hip-hop/hilltop-hoods-immortalized-laneway-adelaide-1236361102/",
+      "description": "The legendary hip-hop trio becomes the sixth addition to the City of Adelaide’s City of Music Laneways trail.",
+      "date": "2026-10-15T07:53:51.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/ye-malibu-real-estate-fine/",
+      "title": "Ye Slapped with $321K Fine After Losing Millions on Disastrous Malibu Real Estate Project",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/ye-malibu-real-estate-fine/",
+      "description": "Ye&#8217;s disastrous Malibu real estate project into which he poured millions is costing him $321,000 more following a Los Angeles Superior Court decision. Ye, the rapper formerly known as Kanye West…",
+      "date": "2026-10-15T05:13:09.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/universal-music-group-layoffs-october-2026/",
+      "title": "Nobody&#8217;s Safe as Big Shakeup Hits Universal Music Group: Def Jam, Republic, Interscope, Polydor Among the Impacted Labels on Both Sides of the Atlantic",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/universal-music-group-layoffs-october-2026/",
+      "description": "Universal Music Group enacts some major reductions, leading to layoffs impacting the US, UK, and possibly other affiliated organizations. Universal Music Group (UMG) has started the process of another…",
+      "date": "2026-10-15T04:30:26.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/american-music-tourism-act-signed-into-law/",
+      "title": "Trump Signs American Music Tourism Act Into Law",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/american-music-tourism-act-signed-into-law/",
+      "description": "Trump signs Marsha Blackburn&#8217;s American Music Tourism Act into law, which requires the Department of Commerce to promote music tourism in the US. On Friday, President Trump signed the American M…",
+      "date": "2026-10-15T04:19:14.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/music/latin/rauw-alejandro-camilo-tattoo-remix-youtube-billion-views-1236361081/",
+      "title": "Rauw Alejandro and Camilo&#8217;s &#8216;Tattoo (Remix)&#8217; Enters YouTube’s Billion Views&#160;Club",
+      "link": "https://www.billboard.com/music/latin/rauw-alejandro-camilo-tattoo-remix-youtube-billion-views-1236361081/",
+      "description": "Six years after its release, the official music video for the chart-topping reggaeton hit passes one billion views on YouTube.",
+      "date": "2026-10-15T03:53:43.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/awards/sienna-spiro-perform-2026-aria-awards-1236361069/",
+      "title": "Sienna Spiro to Perform at 2026 ARIA&#160;Awards",
+      "link": "https://www.billboard.com/music/awards/sienna-spiro-perform-2026-aria-awards-1236361069/",
+      "description": "The British pop artist will make her ARIAs debut when she performs on stage next month at Sydney’s Hordern Pavilion.",
+      "date": "2026-10-15T03:00:23.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/pro/former-recognition-music-ceo-ben-katovsky-joins-pipeline/",
+      "title": "Former Recognition Music CEO Ben Katovsky Leaves Catalog Fund for Top Job at&#160;Pipeline",
+      "link": "https://www.billboard.com/pro/former-recognition-music-ceo-ben-katovsky-joins-pipeline/",
+      "description": "Katovsky will pair his catalog management experience with Matt Spetzler's deal-making know-how to grow the artist advance platform.",
+      "date": "2026-10-15T01:40:47.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/chart-beat/carin-leon-desde-que-te-tengo-number-one-latin-pop-airplay-1236361057/",
+      "title": "Carín León’s ‘Desde Que Te Tengo’ Is No. 1 on Latin Pop&#160;Airplay",
+      "link": "https://www.billboard.com/music/chart-beat/carin-leon-desde-que-te-tengo-number-one-latin-pop-airplay-1236361057/",
+      "description": "Lenin Ramírez’s “Polvo Rosita” blows into the No. 1 spot on Regional Mexican Airplay.",
+      "date": "2026-10-15T01:27:50.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/music/country/miranda-lambert-husband-birthday-choosin-texas-vegas-brendan-1236361049/",
+      "title": "Watch Miranda Lambert Serenade Her Husband With New &#8216;Choosin&#8217; Texas&#8217; Lyrics for His Birthday: &#8216;He&#8217;s in Vegas, I Can&#160;Tell&#8217;",
+      "link": "https://www.billboard.com/music/country/miranda-lambert-husband-birthday-choosin-texas-vegas-brendan-1236361049/",
+      "description": "The country star shared a series of photos and videos to celebrate Brendan McLoughlin's 35th birthday.",
+      "date": "2026-10-15T01:22:44.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/lists/music-related-bills-congress-now-list-legislation/",
+      "title": "Music-Related Legislation Before Congress Right Now: Full List of Bills&#160;(UPDATING)",
+      "link": "https://www.billboard.com/lists/music-related-bills-congress-now-list-legislation/",
+      "description": "Billboard is keeping track of all the bills that could impact the music industry during the 119th Congress.",
+      "date": "2026-10-15T00:17:00.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.billboard.com/pro/music-tourism-act-signed-law-president-donald-trump/",
+      "title": "Bill Aimed at Promoting Music Tourism in U.S. Signed Into Law by President&#160;Trump",
+      "link": "https://www.billboard.com/pro/music-tourism-act-signed-law-president-donald-trump/",
+      "description": "The law will require the assistant secretary of commerce for travel and tourism to come up with a plan to increase tourism across the United States.",
+      "date": "2026-10-15T00:15:25.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/uta-scoops-up-fast-rising-k-pop-celeb-eric-nam/",
+      "title": "UTA Scoops Up Fast-Rising K-Pop Celeb Eric Nam",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/uta-scoops-up-fast-rising-k-pop-celeb-eric-nam/",
+      "description": "Rapidly ascending Korean-American singer and former &#8220;Traitors&#8221; contestant Eric Nam has signed with UTA for representation in all areas. Eric Nam, a Korean-American singer and former Traito…",
+      "date": "2026-10-14T23:47:01.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/hbcu-radio-preservation-project-donation/",
+      "title": "HBCU Radio Preservation Project Receives $750,000 from the Ford Foundation to Support Radio Stations at Historically Black Colleges and Universities",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/hbcu-radio-preservation-project-donation/",
+      "description": "The HBCU Radio Preservation Project has received $750,000 from the Ford Foundation to support radio stations at historically Black colleges and universities. The HBCU Radio Preservation Project (HBCU…",
+      "date": "2026-10-14T23:43:14.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.billboard.com/pro/kanye-verdict-300k-malibu-mansion-construction-worker-trial/",
+      "title": "Ye Must Now Pay Over $300,000 to Construction Worker Injured During Malibu Mansion&#160;Build",
+      "link": "https://www.billboard.com/pro/kanye-verdict-300k-malibu-mansion-construction-worker-trial/",
+      "description": "A judge more than doubled the award for construction manager Tony Saxon, tacking $181,000 in legal fees and costs on top of his March jury verdict.",
+      "date": "2026-10-14T23:32:49.000Z",
+      "source": "Billboard",
+      "sourceId": "billboard",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://musically.com/2026/10/15/arijit-singhs-nine-city-stadium-tour-will-feature-only-three-actual-stadiums/",
+      "title": "Arijit Singh’s nine-city “stadium” tour will feature only three actual stadiums",
+      "link": "https://musically.com/2026/10/15/arijit-singhs-nine-city-stadium-tour-will-feature-only-three-actual-stadiums/",
+      "description": "When promoter Team Innovation and ticketing platform thumpN announced Arijit Singh’s long-awaited return to the road, they described it as a “stadium” tour. However, only three of the venues Singh [&#…",
+      "date": "2026-10-14T23:10:59.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://musically.com/2026/10/15/pop-has-generated-as-many-hits-as-bollywood-in-india-so-far-this-year/",
+      "title": "Pop has generated as many hits as Bollywood in India so far this year",
+      "link": "https://musically.com/2026/10/15/pop-has-generated-as-many-hits-as-bollywood-in-india-so-far-this-year/",
+      "description": "While Bollywood remains the biggest segment in India, its growth is slowing down, revealed Luminate last week. According to the entertainment data company, in the first half of 2026, streams [&#8230;]…",
+      "date": "2026-10-14T23:03:29.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/ben-katovsky-joins-matt-spetzlers-pipeline-as-ceo/",
+      "title": "Ben Katovsky joins Matt Spetzler&#8217;s Pipeline as CEO",
+      "link": "https://www.musicbusinessworldwide.com/ben-katovsky-joins-matt-spetzlers-pipeline-as-ceo/",
+      "description": "Pipeline is the $200 million-backed financing platform for the music and creative industries that launched in January through Matt Spetzler's investment firm Jamen Capital.\nSource",
+      "date": "2026-10-14T23:01:08.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/youtube-music-ai-labels/",
+      "title": "YouTube Music Adds Labels for Tracks &#8216;Created Primarily&#8217; With Gen AI: &#8216;Our Listeners Have Told Us They Want Transparency&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/youtube-music-ai-labels/",
+      "description": "Four months and change after YouTube proper rolled out AI-label improvements, YouTube Music is adding AI tags of its own. YouTube Music confirmed as much in a brief blog post today, indicating that th…",
+      "date": "2026-10-14T22:25:41.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/live-nation-bots-act-lawsuit-answer/",
+      "title": "Live Nation Fires Back Against the FTC&#8217;s &#8216;Misguided&#8217; BOTS Act Suit, Claims Responsibility for &#8216;Nearly Every Major Technological Advancement in the Fight Against Bots&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/live-nation-bots-act-lawsuit-answer/",
+      "description": "Live Nation is firing back against the FTC’s “misguided” BOTS Act lawsuit, which it says contradicts the law’s “plain meaning, flouts the will of Congress, and undoubtedly sets back the fight against…",
+      "date": "2026-10-14T22:00:20.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/zach-bryan-2027-stadium-tour-dates-1236912502/",
+      "title": "Zach Bryan Announces 2027 Stadium Tour Dates, John Fogerty, Ryan Bingham, More to Support",
+      "link": "https://variety.com/2026/music/news/zach-bryan-2027-stadium-tour-dates-1236912502/",
+      "description": "Just days after announcing his “Young Manhood and Other Donatable Organs” EP will be dropping this week — and not long after he broke the attendance record at Robert Kraft&#8217;s Gillette Stadium whi…",
+      "date": "2026-10-14T21:27:47.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/inside-k-pops-turn-toward-electronic-dance-music-trends/",
+      "title": "Inside K-Pop&#8217;s Turn Toward Electronic Dance Music",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/inside-k-pops-turn-toward-electronic-dance-music-trends/",
+      "description": "KATSEYE&#8217;s &#8216;Pinky up&#8217;, BLACKPINK&#8217;s &#8216;JUMP,&#8217; and LE SSERAFIM&#8217;s &#8216;CELEBRATION&#8217; all share something new: hard techno. K-pop&#8217;s trademark EDM sound…",
+      "date": "2026-10-14T21:14:55.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/phonorecords-v-submission-spotify/",
+      "title": "Spotify Comes Out Swinging in Phono V Filings, Defending Phono IV as &#8216;A Success for the Industry&#8217; and Calling for &#8216;A Clean Continuation&#8217; of the Current Rates",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/phonorecords-v-submission-spotify/",
+      "description": "Earlier this month, amid a high-stakes Phonorecords V rate-setting proceeding, participating copyright owners proposed a simplified mechanical that would end the “bundling loophole.” Now, DSPs includi…",
+      "date": "2026-10-14T21:00:20.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/ticket-marketplaces-lawsuit-dc-resale-act/",
+      "title": "SeatGeek, Vivid Seats, TickPick, Gametime Sue the District of Columbia to Block the RESALE Act",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/ticket-marketplaces-lawsuit-dc-resale-act/",
+      "description": "The Ticket Policy Forum and its online ticket marketplace members have sued the District of Columbia to block the RESALE Act from taking effect on January 1. The Ticket Policy Forum (TPF) and its memb…",
+      "date": "2026-10-14T20:44:01.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/youtube-to-label-ai-generated-songs-music-1236912408/",
+      "title": "YouTube to Label AI-Generated Songs Across Its Platforms: Listeners ‘Want Transparency’",
+      "link": "https://variety.com/2026/music/news/youtube-to-label-ai-generated-songs-music-1236912408/",
+      "description": "YouTube will label AI-generated songs across its main website and YouTube Music, the latest service to publicly mark tracks as not produced by humans. “Generative AI is opening up new ways for artists…",
+      "date": "2026-10-14T20:31:28.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/heres-exactly-what-amazon-spotify-apple-and-other-streaming-services-want-to-pay-songwriters-for-2028-2032/",
+      "title": "Here’s exactly what Amazon, Spotify, Apple and other streaming services want to pay songwriters for 2028–2032",
+      "link": "https://www.musicbusinessworldwide.com/heres-exactly-what-amazon-spotify-apple-and-other-streaming-services-want-to-pay-songwriters-for-2028-2032/",
+      "description": "Spotify, Apple, Amazon, Pandora, and Google have filed their rate proposals in Phonorecords V\nSource",
+      "date": "2026-10-14T19:03:58.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/jim-roppo-named-vice-chairman-of-warner-records-group/",
+      "title": "Jim Roppo named Vice Chairman of Warner Records Group",
+      "link": "https://www.musicbusinessworldwide.com/jim-roppo-named-vice-chairman-of-warner-records-group/",
+      "description": "Roppo joins from Universal Music Group, where he most recently served as Chairman and CEO of Republic Records.\nSource",
+      "date": "2026-10-14T18:55:33.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://rainnews.com/record-q3-performance-audioboom-q3-and-operational-gearing/",
+      "title": "&#8220;Record Q3 performance&#8221; &#8212; Audioboom Q3 and &#8220;operational gearing&#8221;",
+      "link": "https://rainnews.com/record-q3-performance-audioboom-q3-and-operational-gearing/",
+      "description": "Global podcast company Audioboom released Q3 earnings today. In its announcement, Audioboom is trumpeting “Record Q3 performance in all key financial metrics.” Four key metrics are emphasized. Continu…",
+      "date": "2026-10-14T18:54:29.000Z",
+      "source": "RAIN News",
+      "sourceId": "rain",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/14/character-ai-bankruptcy/",
+      "title": "Character.ai Bankruptcy Highlights AI&#8217;s Ludicrous Cash Burn Problem. Is Music Next?",
+      "link": "https://www.digitalmusicnews.com/2026/10/14/character-ai-bankruptcy/",
+      "description": "Character.ai files for bankruptcy, illustrating the sheer amount of money and resources burned with little gain and numerous lawsuits to show for it. The crash-and-burn could offer a preview for the m…",
+      "date": "2026-10-14T18:41:03.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/warner-records-jim-roppo-vice-chairman-1236912271/",
+      "title": "Warner Records Names Jim Roppo Vice Chairman",
+      "link": "https://variety.com/2026/music/news/warner-records-jim-roppo-vice-chairman-1236912271/",
+      "description": "Just hours after his departure from Republic Records was announced, Jim Roppo has been officially named vice chairman of Warner Records Group. He will be based in Los Angeles and report to Chairman &#…",
+      "date": "2026-10-14T18:33:55.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/jesse-jo-stark-wme-1236910696/",
+      "title": "Music Industry Moves: Mohnish Sani Joins Hybe Americas",
+      "link": "https://variety.com/2026/music/news/jesse-jo-stark-wme-1236910696/",
+      "description": "Mohnish Sani has joined Hybe Americas in the newly created role of Head of Strategy and Growth, the company announced on Wednesday. In the role he will focus on long-term growth across the Americas ma…",
+      "date": "2026-10-14T17:35:00.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/youtube-music-starts-labeling-ai-generated-songs-using-partner-disclosures-and-its-own-detection-tools/",
+      "title": "YouTube Music starts labeling AI-generated songs, using partner disclosures and its own detection tools",
+      "link": "https://www.musicbusinessworldwide.com/youtube-music-starts-labeling-ai-generated-songs-using-partner-disclosures-and-its-own-detection-tools/",
+      "description": "'Our listeners have told us they want transparency when they're hearing an AI-generated track,' said YouTube \nSource",
+      "date": "2026-10-14T16:37:08.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/multiple-layoffs-at-universal-cutting-program-continues/",
+      "title": "Multiple layoffs at Universal Music Group, as $270M cost-cutting program continues",
+      "link": "https://www.musicbusinessworldwide.com/multiple-layoffs-at-universal-cutting-program-continues/",
+      "description": "Execs such as Tunji Balogun, Ben Mortimer, Nicole Wyskoarko, and Sam Riback are leaving UMG\nSource",
+      "date": "2026-10-14T16:23:53.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/music/news/universal-music-group-layoffs-top-execs-out-1236911991/",
+      "title": "Universal Music Group Hit With Layoffs, Several Senior Execs to Leave Company",
+      "link": "https://variety.com/2026/music/news/universal-music-group-layoffs-top-execs-out-1236911991/",
+      "description": "As has long been expected, Universal Music Group is being hit with extensive layoffs across its U.S. and U.K. operations, with multiple top executives departing, among many others. The moves — which s…",
+      "date": "2026-10-14T16:19:05.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.musicbusinessworldwide.com/taylor-swift-expands-voice-trademark-filings-to-the-uk-eu-and-australia-amid-ai-deepfake-crackdown/",
+      "title": "Taylor Swift expands voice trademark filings to the UK, EU, and Australia",
+      "link": "https://www.musicbusinessworldwide.com/taylor-swift-expands-voice-trademark-filings-to-the-uk-eu-and-australia-amid-ai-deepfake-crackdown/",
+      "description": "The filings follow three applications submitted to the US Patent and Trademark Office (USPTO) in April\nSource",
+      "date": "2026-10-14T16:08:00.000Z",
+      "source": "Music Business Worldwide",
+      "sourceId": "mbw",
+      "category": "Industry"
+    },
+    {
+      "id": "https://completemusicupdate.com/summer-walker-legal-drama-doubles-as-she-battles-to-dump-management-as-well-as-her-label/",
+      "title": "Summer Walker legal drama doubles as she battles to dump management as well as her label",
+      "link": "https://completemusicupdate.com/summer-walker-legal-drama-doubles-as-she-battles-to-dump-management-as-well-as-her-label/",
+      "description": "Following the news Universal’s Interscope label is suing Summer Walker after she used California’s seven year rule to exit a record deal early, it’s now come to light that Walker is suing her manageme…",
+      "date": "2026-10-14T14:54:23.000Z",
+      "source": "Complete Music Update",
+      "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://completemusicupdate.com/horizon-leaders-billy-young/",
+      "title": "🌅 Horizon Leaders - Billy Young",
+      "link": "https://completemusicupdate.com/horizon-leaders-billy-young/",
+      "description": "This week we caught up with Billy Young, publicist at 4AD",
+      "date": "2026-10-14T14:45:29.000Z",
+      "source": "Complete Music Update",
+      "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://variety.com/2026/film/news/paul-mccartney-beatles-movies-paul-mescal-too-short-1236911197/",
+      "title": "Paul McCartney Calls Out Beatles Movies Because Paul Mescal Is Shorter Than John Lennon Actor; He Texted Director Sam Mendes: &#8216;Don&#8217;t Do This!&#8217;",
+      "link": "https://variety.com/2026/film/news/paul-mccartney-beatles-movies-paul-mescal-too-short-1236911197/",
+      "description": "Paul McCartney has a bone to pick with Sam Mendes, the director of the upcoming four Beatles movies starring Paul Mescal as McCartney, Harris Dickinson as John Lennon, Joseph Quinn as George Harrison…",
+      "date": "2026-10-14T14:24:31.000Z",
+      "source": "Variety",
+      "sourceId": "variety-music",
+      "category": "Business & Finance"
+    },
+    {
+      "id": "https://musically.com/2026/10/14/newswrap-spotify-wrapped-live-performances-shakira-breaks-records-lego-musical-on-youtube-tom-petty-podcast/",
+      "title": "Newswrap: Spotify Wrapped live performances; Shakira breaks records; Lego musical on YouTube; Tom Petty podcast",
+      "link": "https://musically.com/2026/10/14/newswrap-spotify-wrapped-live-performances-shakira-breaks-records-lego-musical-on-youtube-tom-petty-podcast/",
+      "description": "Spotify’s Get Ready for 2026 Wrapped landing page is now live on Spotify for Artists. Aside from the usual message for fans, eligible artists can this year share a performance video too. These could b…",
+      "date": "2026-10-14T12:30:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://musically.com/2026/10/14/too-lost-launches-daily-data-transparency-report/",
+      "title": "Too Lost launches daily data transparency report",
+      "link": "https://musically.com/2026/10/14/too-lost-launches-daily-data-transparency-report/",
+      "description": "Distributor Too Lost has launched a daily public report page, which shares operational data from its platform, including support volumes and resolution times, DSP deliveries, payout acceptance times,…",
+      "date": "2026-10-14T12:30:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://musically.com/2026/10/14/today-in-music-ai-news-raye-gets-botted-umg-senior-ai-role-characterai-bankruptcy-rocketship-launches/",
+      "title": "Today in Music AI news: Raye gets botted; UMG senior AI role; Character•AI bankruptcy; Rocketship launches",
+      "link": "https://musically.com/2026/10/14/today-in-music-ai-news-raye-gets-botted-umg-senior-ai-role-characterai-bankruptcy-rocketship-launches/",
+      "description": "When Raye announced a show in London’s Royal Albert Hall, you’d expect demand for tickets to be high. But when the show received 1.8 pre-sale million sign-ups – for a 5000 seat show – it became clear…",
+      "date": "2026-10-14T12:30:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
+    {
+      "id": "https://musically.com/2026/10/14/report-highlights-inequality-in-licensing-and-policing-of-londons-black-and-south-asian-music-events/",
+      "title": "Report highlights inequality in licensing and policing of London’s Black and South Asian music events",
+      "link": "https://musically.com/2026/10/14/report-highlights-inequality-in-licensing-and-policing-of-londons-black-and-south-asian-music-events/",
+      "description": "UK-based organisation Black Lives in Music (BLiM) has launched a new report titled Race Equality in Music Event Licensing (REMEL) &#8211; which it says is “the most comprehensive investigation to date…",
+      "date": "2026-10-14T11:45:00.000Z",
+      "source": "Music Ally",
+      "sourceId": "musically",
+      "category": "Technology"
+    },
     {
       "id": "https://www.musicbusinessworldwide.com/summer-walker-sues-lvrn-for-fraud-asks-court-to-void-2017-deal-as-interscope-pursues-50m-claim-against-her-report/",
       "title": "Summer Walker sues LVRN for fraud, asks court to void 2017 deal as Interscope pursues $50M+ claim against her (report)",
@@ -22,36 +442,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/music/rb-hip-hop/50-cent-talks-diddy-documentary-kimmel-1236360474/",
-      "title": "‘I Don’t Know Why He Filmed That:’ 50 Cent Talks Diddy Documentary on&#160;‘Kimmel’",
-      "link": "https://www.billboard.com/music/rb-hip-hop/50-cent-talks-diddy-documentary-kimmel-1236360474/",
-      "description": "Fifty stopped by ABC's Jimmy Kimmel Live for a chat about life, new ventures and victories.",
-      "date": "2026-10-14T09:56:41.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/culture/tv-film/the-voice-chari-marcus-ladden-jr-battle-on-my-own-1236360461/",
-      "title": "‘The Voice’ Singers Chari and Marcus Ladden Jr. Power Through ‘Incredible’ Battle With ‘On My Own’:&#160;Watch",
-      "link": "https://www.billboard.com/culture/tv-film/the-voice-chari-marcus-ladden-jr-battle-on-my-own-1236360461/",
-      "description": "“I’m so proud of both of you,” Queen Latifah enthused. “You have done a phenomenal job.”",
-      "date": "2026-10-14T08:40:01.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/awards/cezary-skubiszewski-saluted-2026-screen-music-awards-1236360450/",
-      "title": "Cezary Skubiszewski to Be Saluted at 2026 Screen Music&#160;Awards",
-      "link": "https://www.billboard.com/music/awards/cezary-skubiszewski-saluted-2026-screen-music-awards-1236360450/",
-      "description": "APRA AMCOS' annual ceremony will be presented Wednesday, Oct. 28 at Fortitude Music Hall in Brisbane, Australia.",
-      "date": "2026-10-14T06:50:13.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
       "id": "https://musically.com/2026/10/14/post-merger-bmg-doesnt-see-itself-as-the-fourth-major-for-a-good-reason/",
       "title": "Post-merger BMG doesn’t see itself as ‘the fourth major’ – for a good reason",
       "link": "https://musically.com/2026/10/14/post-merger-bmg-doesnt-see-itself-as-the-fourth-major-for-a-good-reason/",
@@ -62,34 +452,24 @@
       "category": "Technology"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/dom-dolla-lgood-fortune-records-1236360432/",
-      "title": "Dom Dolla Launches Good Fortune&#160;Records",
-      "link": "https://www.billboard.com/music/music-news/dom-dolla-lgood-fortune-records-1236360432/",
-      "description": "The superstar Australian DJ and producer unveils Good Fortune Records, which launches proper this Friday (Oct. 16) with its first release -- Torren Foot &#38; rhys from the sticks’ “DANCE.”",
-      "date": "2026-10-14T04:22:26.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/13/deezer-ai-toggle/",
+      "title": "Deezer Announces &#8216;On/Off Toggle&#8217; for AI Audio, Enabling Users to &#8216;Remove Fully AI-Generated Music Completely from Their Streaming Experience&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/deezer-ai-toggle/",
+      "description": "Hate AI slop? Deezer might be the on-demand platform for you, as it will soon allow users to “fully exclude AI-generated music” from their streaming experiences. Deezer announced the AI-audio toggle t…",
+      "date": "2026-10-14T04:58:02.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-costco-exclusive-trading-cards-shop-1236360008/",
-      "title": "Costco&#8217;s Exclusive &#8216;KPop Demon Hunters&#8217; Trading Card Set Includes 11 Rarity Levels &#038; A Character-Inspired Frame",
-      "link": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-costco-exclusive-trading-cards-shop-1236360008/",
-      "description": "Fans have a choice between the HUNTR/X or Saja Boys trading card Collector Box, each sold exclusively at Costco.",
-      "date": "2026-10-14T03:14:31.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.billboard.com/music/concerts/f1-singapore-lana-del-rey-hints-another-visit-asia-1236360421/",
-      "title": "After F1 Singapore Concert, Lana Del Rey Hints at Another Visit to&#160;Asia",
-      "link": "https://www.billboard.com/music/concerts/f1-singapore-lana-del-rey-hints-another-visit-asia-1236360421/",
-      "description": "“I know it’s not going to be the last time we see you,” Del Rey remarked near the finale.",
-      "date": "2026-10-14T03:10:48.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/13/youtube-european-content-creators/",
+      "title": "YouTube Says It&#8217;s Time to Liberate European Content Creators From Lack of Government Support and Industry Representation",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/youtube-european-content-creators/",
+      "description": "YouTube surveyed 20,000 European creators, many of whom say they lack government support, training, funding, and industry representation. Over the summer, Public First conducted a survey commissioned…",
+      "date": "2026-10-14T04:33:49.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://variety.com/2026/music/news/kelly-clarkson-art-of-play-molly-bird-footage-revealed-1236910838/",
@@ -102,44 +482,44 @@
       "category": "Business & Finance"
     },
     {
-      "id": "https://www.billboard.com/music/music-news/troye-sivan-role-model-dance-cowboy-tiktok-1236360392/",
-      "title": "Watch Troye Sivan and Role Model Saddle Up and Sway to Troye&#8217;s New Track &#8216;Cowboy&#8217;",
-      "link": "https://www.billboard.com/music/music-news/troye-sivan-role-model-dance-cowboy-tiktok-1236360392/",
-      "description": "The pop star dances with the singer/songwriter to the new track on his new album, She's the Best, which released last Friday (Oct. 9).",
-      "date": "2026-10-14T01:40:55.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/13/primary-wave-brian-vander-ark-deal/",
+      "title": "Primary Wave Inks Catalog Deal With The Verve Pipe&#8217;s Brian Vander Ark &#8212; Including &#8216;The Freshmen,&#8217; &#8216;Photograph,&#8217; and More",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/primary-wave-brian-vander-ark-deal/",
+      "description": "The Verve Pipe frontman Brian Vander Ark has inked a catalog deal with Primary Wave, which has taken an interest in “The Freshmen” singer-songwriter’s publishing and recorded IP. Primary Wave reached…",
+      "date": "2026-10-14T01:09:03.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
-      "title": "Rosalía&#8217;s &#8216;LUX&#8217; Is Making Hailey Bieber &#8216;Wanna Throw Up in a Good&#160;Way&#8217;",
-      "link": "https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
-      "description": "The model shared her love for the Spanish superstar's genre-bending album on her Instagram Story.",
-      "date": "2026-10-14T01:28:02.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/13/dolly-parton-estate-dispute-continues/",
+      "title": "Chaos Continues to Consume the Dolly Parton Estate",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/dolly-parton-estate-dispute-continues/",
+      "description": "Dolly Parton&#8217;s estate continues to battle her nephew and former head of her security, who denies accusations that he threatened violence and to destroy his aunt&#8217;s legacy. Dolly Parton&#821…",
+      "date": "2026-10-14T01:00:31.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
-      "title": "Here&#8217;s How Greta Gerwig Got Led Zeppelin to Say Yes to Using &#8216;Stairway to Heaven&#8217; in &#8216;Narnia&#8217; Trailer",
-      "link": "https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
-      "description": "Robert Plant &#38; Jimmy Page gave the filmmaker their blessing to use the rock classic in the first look at Narnia: The Magician's Nephew.",
-      "date": "2026-10-14T01:20:18.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/13/joni-mitchell-officially-granted-u-s-citizenship/",
+      "title": "Joni Mitchell Officially Granted U.S. Citizenship After 60+ Years",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/joni-mitchell-officially-granted-u-s-citizenship/",
+      "description": "Joni Mitchell has officially become a U.S. citizen 62 years after first traveling from Canada to the United States—though she&#8217;s lived in Southern California since the late &#8217;60s. Legendary…",
+      "date": "2026-10-13T23:54:24.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
-      "title": "A$AP Rocky Extends Olive Branch, Offers to Distribute New FERG Album: &#8216;U Know Where Home&#160;Is&#8217;",
-      "link": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
-      "description": "The two A$AP members have been going back and forth through the media over FERG's name change.",
-      "date": "2026-10-14T00:05:33.000Z",
-      "source": "Billboard",
-      "sourceId": "billboard",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/13/30-years-later-tupac-shakur-murder-suspect-heads-to-prison/",
+      "title": "30 Years Later, a Tupac Shakur Murder Suspect Heads to Prison",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/30-years-later-tupac-shakur-murder-suspect-heads-to-prison/",
+      "description": "30 years later, the man found guilty of helping orchestrate the murder of Tupac Shakur has been sentenced to 40 years to life in prison. Duane &#8220;Keffe D&#8221; Davis, the first and only person to…",
+      "date": "2026-10-13T23:40:21.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.musicbusinessworldwide.com/raye-says-scalpers-used-ai-bots-to-create-hundreds-of-thousands-of-fake-registrations-as-1-8m-sign-up-for-5000-royal-albert-hall-seats/",
@@ -152,14 +532,44 @@
       "category": "Industry"
     },
     {
-      "id": "https://variety.com/2026/music/news/jesse-jo-stark-wme-1236910696/",
-      "title": "Music Industry Moves: Jesse Jo Stark Signs With WME, Rebecca Allen Steps Down at Universal Music U.K.",
-      "link": "https://variety.com/2026/music/news/jesse-jo-stark-wme-1236910696/",
-      "description": "Singer-songwriter-actress and Chrome Hearts co-creative director Jesse Jo Stark has signed with WME for worldwide representation in all areas. Stark’s new album “Muse” is out Nov. 6, which follows dat…",
-      "date": "2026-10-13T20:43:57.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/13/raye-royal-albert-hall-tickets-scalpers/",
+      "title": "Raye&#8217;s Royal Albert Hall Concert &#8216;Overwhelmed by Scalpers&#8217; as &#8216;Hundreds of Thousands of Fake Registrations&#8217; Pour In &#8212; Prompting a Manual Review for &#8216;Real Fans&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/raye-royal-albert-hall-tickets-scalpers/",
+      "description": "Raye’s 5,000-capacity Royal Albert Hall concert was inundated with 1.8 million presale sign-ups and “hundreds of thousands of fake registrations” – prompting the artist and her team to conduct a manua…",
+      "date": "2026-10-13T20:48:47.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "title": "It looks like Apple Music is getting a new icon",
+      "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "description": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly…",
+      "date": "2026-10-13T20:05:02.000Z",
+      "source": "The Verge",
+      "sourceId": "verge-music",
+      "category": "Technology"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/13/live-nation-bizarro-chile-partnership/",
+      "title": "Live Nation&#8217;s Latin Music Expansion Continues with Bizarro Partnership in Chile",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/live-nation-bizarro-chile-partnership/",
+      "description": "Live Nation is poised to further its expansion into South America with a partnership with Bizarro to support the growth of Latin artists in Chile. Last week, Live Nation announced a partnership with L…",
+      "date": "2026-10-13T20:04:52.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/13/new-michael-jackson-documentaries/",
+      "title": "Ahead of &#8216;Michael 2&#8217; Comes a Slew of New MJ Documentaries",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/new-michael-jackson-documentaries/",
+      "description": "Several new Michael Jackson and Jackson family documentaries are in the works following the record-breaking success of Lionsgate&#8217;s Michael film. Michael Jackson is firmly back in the cultural ze…",
+      "date": "2026-10-13T19:48:18.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://variety.com/2026/music/news/joni-mitchell-american-citizen-sworn-in-1236910447/",
@@ -182,6 +592,16 @@
       "category": "Industry"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/10/13/apple-homepod-mini-2-reveal/",
+      "title": "After a Serious TV Audio Upgrade, Apple Reveals HomePod Mini 2 &#8216;Four-Speaker Surround Sound Experience&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/apple-homepod-mini-2-reveal/",
+      "description": "Apple announces the HomePod Mini 2 with a slew of new colors and enhanced audio capabilities alongside Siri AI integration in a future update. Today, Apple announced the highly anticipated HomePod Min…",
+      "date": "2026-10-13T18:59:38.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://variety.com/2026/music/news/duane-keffe-d-davis-sentenced-40-years-tupac-shakur-murder-1236909531/",
       "title": "Duane &#8216;Keffe D&#8217; Davis Sentenced to 40 Years to Life for Role in Tupac Shakur&#8217;s Murder",
       "link": "https://variety.com/2026/music/news/duane-keffe-d-davis-sentenced-40-years-tupac-shakur-murder-1236909531/",
@@ -190,6 +610,36 @@
       "source": "Variety",
       "sourceId": "variety-music",
       "category": "Business & Finance"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/13/too-lost-public-transparency-report-distributor/",
+      "title": "Too Lost Opens Its Books on Distribution Performance with Live Public Transparency Report",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/too-lost-public-transparency-report-distributor/",
+      "description": "Distribution is the part of the music business that clients are asked to trust and rarely get to measure. Too Lost is changing that. The global music distribution and technology company has launched t…",
+      "date": "2026-10-13T18:30:19.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/13/can-we-sue-our-way-to-ai-control/",
+      "title": "Can We Sue Our Way to AI Control?",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/can-we-sue-our-way-to-ai-control/",
+      "description": "The labels want their power back. Copyright needs to be rebuilt. There is a comforting version of the AI music story in which the record labels sue, the technology companies pay, and musicians emerge…",
+      "date": "2026-10-13T18:15:41.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/13/the-chainsmokers-become-indie-artists-again/",
+      "title": "The Chainsmokers Break with Columbia/Disruptor After 11 Years—&#8217;We Are Now Independent Artists&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/the-chainsmokers-become-indie-artists-again/",
+      "description": "The Chainsmokers officially go independent, parting ways with Columbia/Disruptor after 11 years and &#8220;unimaginable success.&#8221; The Chainsmokers have announced parting ways with Columbia/Disru…",
+      "date": "2026-10-13T18:00:28.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.musicbusinessworldwide.com/primary-wave-partners-with-brian-vander-ark-frontman-of-the-verve-pipe-covering-his-publishing-and-recorded-music-catalogs/",
@@ -207,26 +657,6 @@
       "link": "https://variety.com/2026/tv/news/michael-jackson-super-bowl-documentary-hulu-espn-1236910198/",
       "description": "Michael Jackson&#8217;s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN. Debuting in February 2027, &#8220;Spectacle: Mi…",
       "date": "2026-10-13T17:00:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/kelly-clarkson-jbrandi-carlile-girls-just-wanna-weekend-1236910209/",
-      "title": "Kelly Clarkson Joins Brandi Carlile&#8217;s Girls Just Wanna Weekend Festival as Co-Headliner",
-      "link": "https://variety.com/2026/music/news/kelly-clarkson-jbrandi-carlile-girls-just-wanna-weekend-1236910209/",
-      "description": "It may not be the biggest headline Kelly Clarkson will make this week, but the most talked-about celebrity of the moment has other news, as she is joining Brandi Carlile&#8217;s 8th annual female-cent…",
-      "date": "2026-10-13T16:51:15.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-remix-video-1236909332/",
-      "title": "Olivia Rodrigo and Chappell Roan Team Up for &#8216;Expectations&#8217; Remix and Music Video",
-      "link": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-remix-video-1236909332/",
-      "description": "Olivia Rodrigo and Chappell Roan are officially teaming up on an &#8220;Expectations&#8221; remix and music video. Rodrigo confirmed the news on Instagram Tuesday, sharing a photo of her and Roan posi…",
-      "date": "2026-10-13T16:18:34.000Z",
       "source": "Variety",
       "sourceId": "variety-music",
       "category": "Business & Finance"
@@ -252,56 +682,6 @@
       "category": "Industry"
     },
     {
-      "id": "https://www.musicbusinessworldwide.com/viktoria-siniavskaia-appointed-president-emea-at-believe/",
-      "title": "Viktoria Siniavskaia appointed President EMEA at Believe",
-      "link": "https://www.musicbusinessworldwide.com/viktoria-siniavskaia-appointed-president-emea-at-believe/",
-      "description": "The appointment is part of what Believe calls its \"evolution toward a stronger regional leadership model,\" the company said.\nSource",
-      "date": "2026-10-13T15:26:15.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/film/festivals/hildur-gudnadottir-sarah-polley-the-bell-jar-billie-eilish-1236908104/",
-      "title": "‘Joker’ Composer Hildur Guðnadóttir Confirms She’s Scoring Sarah Polley’s ‘The Bell Jar,’ Starring Billie Eilish",
-      "link": "https://variety.com/2026/film/festivals/hildur-gudnadottir-sarah-polley-the-bell-jar-billie-eilish-1236908104/",
-      "description": "Composer Hildur Guðnadóttir, who won an Oscar with &#8220;Joker,&#8221; is already deep into “The Bell Jar.” Sarah Polley’s Sylvia Plath adaptation, which recently wrapped, will give pop icon Billie E…",
-      "date": "2026-10-13T15:09:42.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/when-you-control-your-ip-you-control-your-destiny/",
-      "title": "&#8216;When you control your IP, you control your destiny.&#8217;",
-      "link": "https://www.musicbusinessworldwide.com/when-you-control-your-ip-you-control-your-destiny/",
-      "description": "Loud And Live boss and grammy-winning producer turned promoter Nelson Albareda talks venues, brand partnerships, and the economics of Latin touring\nSource",
-      "date": "2026-10-13T14:43:58.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://variety.com/2026/music/columns/rose-lacmas-art-film-gala-2026-1236909498/",
-      "title": "Rosé to Perform at LACMA&#8217;s Art+Film Gala",
-      "link": "https://variety.com/2026/music/columns/rose-lacmas-art-film-gala-2026-1236909498/",
-      "description": "Rosé is set to perform at this year’s LACMA Art+Film Gala. The Los Angeles County Museum of Art event takes place Nov. 7. The evening, as previously announced, will honor “Dune” filmmaker Denis Villen…",
-      "date": "2026-10-13T14:00:00.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/a-certain-amount-of-almost-unreasonable-self-belief-is-necessary/",
-      "title": "‘A certain amount of almost unreasonable self-belief is necessary’",
-      "link": "https://www.musicbusinessworldwide.com/a-certain-amount-of-almost-unreasonable-self-belief-is-necessary/",
-      "description": "With production credits on Don Toliver’s chart-topping OCTANE, Jaasu’s star is on the rise. Here he breaks down his philosophy on success, collaboration, leadership, honesty, and much more… \nSource",
-      "date": "2026-10-13T13:30:10.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
       "id": "https://completemusicupdate.com/approved-ex-re/",
       "title": "🎧 Approved: Ex:Re",
       "link": "https://completemusicupdate.com/approved-ex-re/",
@@ -309,16 +689,6 @@
       "date": "2026-10-13T13:06:09.000Z",
       "source": "Complete Music Update",
       "sourceId": "cmu",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/live-nation-moves-to-acquire-majority-stake-in-concert-promoter-bizarro-chile-months-after-buying-into-bizarro-peru/",
-      "title": "Live Nation moves to acquire majority stake in concert promoter Bizarro Chile, months after buying into Bizarro Peru",
-      "link": "https://www.musicbusinessworldwide.com/live-nation-moves-to-acquire-majority-stake-in-concert-promoter-bizarro-chile-months-after-buying-into-bizarro-peru/",
-      "description": "The deal comes less than nine months after Live Nation agreed to take a majority stake in Bizarro Peru\nSource",
-      "date": "2026-10-13T13:00:22.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
       "category": "Industry"
     },
     {
@@ -352,23 +722,13 @@
       "category": "Technology"
     },
     {
-      "id": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
-      "title": "Deezer to let users block AI-generated music from search results",
-      "link": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
-      "description": "Deezer is introducing an on/off toggle that will let users exclude fully AI-generated music from their search results\nSource",
-      "date": "2026-10-13T12:14:11.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
-      "category": "Industry"
-    },
-    {
-      "id": "https://www.musicbusinessworldwide.com/independent-artists-in-india-deserve-the-same-infrastructure-access-royalty-transparency-and-global-reach-that-western-artists-have-been-exposed-to/",
-      "title": "&#8216;Independent artists in India deserve the same infrastructure access, royalty transparency, and global reach that Western artists have been exposed to.&#8217;",
-      "link": "https://www.musicbusinessworldwide.com/independent-artists-in-india-deserve-the-same-infrastructure-access-royalty-transparency-and-global-reach-that-western-artists-have-been-exposed-to/",
-      "description": "Madverse boss Rohan Nesho Jain on the platform's positioning in the independent space, his predictions for the India's music market, and more…\nSource",
-      "date": "2026-10-13T11:00:52.000Z",
-      "source": "Music Business Worldwide",
-      "sourceId": "mbw",
+      "id": "https://www.digitalmusicnews.com/2026/10/13/massive-us-copyright-fee-increase-incoming/",
+      "title": "Brace Yourself: Massive US Copyright Fee Increases Hit November 11th",
+      "link": "https://www.digitalmusicnews.com/2026/10/13/massive-us-copyright-fee-increase-incoming/",
+      "description": "Despite the music industry&#8217;s best efforts, US Copyright Office fees are about to undergo a major price jump starting November 11. The U.S. Copyright Office is raising service fees starting Novem…",
+      "date": "2026-10-13T12:18:55.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -382,14 +742,64 @@
       "category": "Technology"
     },
     {
-      "id": "https://variety.com/2026/music/news/kacey-musgraves-fires-back-kristi-noem-dog-joke-talarico-1236909604/",
-      "title": "Kacey Musgraves Fires Back After Kristi Noem Disses Her: You Don&#8217;t &#8216;Have a Dog in This Fight, but If You Did You Would&#8217;ve Shot It&#8217;",
-      "link": "https://variety.com/2026/music/news/kacey-musgraves-fires-back-kristi-noem-dog-joke-talarico-1236909604/",
-      "description": "Kristi Noem might have thought twice before initiating a war of words with Kacey Musgraves, who had a mic-drop of a comeback post after the ousted Secretary of Homeland Security went on X to pick a fi…",
-      "date": "2026-10-12T23:52:55.000Z",
-      "source": "Variety",
-      "sourceId": "variety-music",
-      "category": "Business & Finance"
+      "id": "https://www.digitalmusicnews.com/2026/10/12/music-industry-handle-rightsholder-payouts/",
+      "title": "Will the Music Industry Ever Get a Handle on Rightsholder Payouts?",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/music-industry-handle-rightsholder-payouts/",
+      "description": "Digital formats have been around for decades. So why is the music industry still struggling with sluggish payouts, metadata mismatches, and the accumulation of enormous unpaid tranches? According to m…",
+      "date": "2026-10-13T04:18:41.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/you-release-music-and-chase-the-audience/",
+      "title": "You Release Music and Chase The Audience.",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/you-release-music-and-chase-the-audience/",
+      "description": "Attention loyalty and affection must be voluntary. Congratulations. Your brand new album is on Spotify (and about 150 other music streaming platforms). Nobody has declared an international holiday, yo…",
+      "date": "2026-10-13T04:16:50.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/muni-long-manager-dispute-subpoena-denied/",
+      "title": "Judge Denies Bid to Subpoena Muni Long&#8217;s Medical Records Amid Ugly Contract and Defamation Dispute With Ex-Managers",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/muni-long-manager-dispute-subpoena-denied/",
+      "description": "A federal court has rejected a push from Muni Long’s ex-managers to subpoena the artist’s medical records, which are “protected by the patient-doctor/psychotherapist privilege.” Magistrate Judge Sarah…",
+      "date": "2026-10-13T00:45:47.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/distrokid-v-umg-removals/",
+      "title": "DistroKid Extends Response Deadline, Removes Certain Tracks Amid UMG Lawsuit &#8212; But How Many Non-AI Uploads Are Being Pulled?",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/distrokid-v-umg-removals/",
+      "description": "Amid a contentious courtroom confrontation with Universal Music Group (UMG), DistroKid has received a response-deadline extension and started removing tracks. But is the AI-audio crackdown affecting p…",
+      "date": "2026-10-12T22:25:29.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/travis-scott-alright-lawsuit-dismissed/",
+      "title": "&#8216;Alright, Alright, Alright&#8217; Infringement Case Against Travis Scott Goes Poof After Years of Litigation",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/travis-scott-alright-lawsuit-dismissed/",
+      "description": "A copyright case filed against Travis Scott by two songwriters over an iconic sample has been dismissed without prejudice after nearly three years. A copyright infringement case against Travis Scott,…",
+      "date": "2026-10-12T20:52:33.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/apple-music-releases-a-serious-apple-tv-upgrade/",
+      "title": "Low-Key Bundle-Flex: Apple Music Quietly Releases a Serious Apple TV Upgrade",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/apple-music-releases-a-serious-apple-tv-upgrade/",
+      "description": "Apple quietly rolls out a major upgrade for Apple TV users, offering high-resolution lossless audio support for the Apple Music app on Apple TV. As Apple Music continues to vie with Spotify for music…",
+      "date": "2026-10-12T20:01:21.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://rainnews.com/audio-unequivocally-effective/",
@@ -399,6 +809,26 @@
       "date": "2026-10-12T19:36:22.000Z",
       "source": "RAIN News",
       "sourceId": "rain",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/interscope-umg-summer-walker-lawsuit/",
+      "title": "Watch This Court Battle: Interscope/UMG Sues Summer Walker for $50 Million as Ugly Contract Dispute Intensifies",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/interscope-umg-summer-walker-lawsuit/",
+      "description": "Interscope Records has now sued R&#38;B singer Summer Walker for $50 million, alleging she still owes them more albums before she can even think about getting out of her contract. Universal Music impr…",
+      "date": "2026-10-12T17:57:40.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/warner-music-essilorluxottica-lawsuit/",
+      "title": "Atlantic/WMG Sues Ray-Ban Owner Luxottica, Demands Over $64 Million in Damages as Social Media Infringement Crackdown Continues",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/warner-music-essilorluxottica-lawsuit/",
+      "description": "The social media copyright crackdown continues: Warner Music Group (WMG) is now suing multiple subsidiaries of eyewear giant EssilorLuxottica for allegedly infringing on north of 400 compositions and…",
+      "date": "2026-10-12T17:28:17.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -419,6 +849,16 @@
       "date": "2026-10-12T16:45:18.000Z",
       "source": "Complete Music Update",
       "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/12/furnace-fest-mug-kid-rock-merch/",
+      "title": "Alabama&#8217;s Furnace Fest Baffles Attendees With AI-Designed Merch and Fyre Festival-Style Meals",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/furnace-fest-mug-kid-rock-merch/",
+      "description": "Furnace Fest 2026, the event&#8217;s first installment under new ownership, has been a disaster, not least of all for its merch-related missteps. Over the weekend, the annual metal festival Furnace Fe…",
+      "date": "2026-10-12T12:48:57.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -452,14 +892,34 @@
       "category": "Technology"
     },
     {
-      "id": "https://musically.com/2026/10/12/netflix-reportedly-cutting-850-jobs-as-tech-and-media-layoffs-continue/",
-      "title": "Netflix reportedly cutting 850 jobs as tech and media layoffs continue",
-      "link": "https://musically.com/2026/10/12/netflix-reportedly-cutting-850-jobs-as-tech-and-media-layoffs-continue/",
-      "description": "Netflix is allegedly about to cut 850 jobs as early as next week, according to media industry reporting service Puck. If that’s true – Netflix has not commented – that’s about 5% of its global workfor…",
-      "date": "2026-10-12T12:45:00.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
+      "id": "https://www.digitalmusicnews.com/2026/10/12/diddy-head-injury-in-prison/",
+      "title": "Diddy Rushed to Hospital After Suffering a Head Injury in Prison",
+      "link": "https://www.digitalmusicnews.com/2026/10/12/diddy-head-injury-in-prison/",
+      "description": "Sean Combs was rushed from federal prison to the hospital over the weekend after suffering a reported head injury. Details remain scarce. Sean &#8220;Diddy&#8221; Combs, who is currently serving a 50-…",
+      "date": "2026-10-12T11:11:10.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/11/ed-sheeran-loop-tour-new-opening-acts/",
+      "title": "Ed Sheeran Quietly Adds Another Opening Act as the Loop Tour Soldiers Onward",
+      "link": "https://www.digitalmusicnews.com/2026/10/11/ed-sheeran-loop-tour-new-opening-acts/",
+      "description": "After Isaac Slade&#8217;s surprise performance at Ed Sheeran&#8217;s Atlanta show, he and American Idol&#8217;s Brooks Rosser will join him on several more dates. Isaac Slade of The Fray surprised fan…",
+      "date": "2026-10-12T03:44:34.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/11/live-music-new-geography/",
+      "title": "Live Music’s New Geography",
+      "link": "https://www.digitalmusicnews.com/2026/10/11/live-music-new-geography/",
+      "description": "Welcome to the decentralization of opportunity. There was a time when opportunity in music had an address in a big city. The Troubadour in Los Angeles, The Bitter End in New York and The Bluebird Cafe…",
+      "date": "2026-10-12T00:49:25.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
@@ -482,6 +942,76 @@
       "category": "Technology"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/10/09/daisy-chain-fields-vendor-complaints/",
+      "title": "Olivia Rodrigo&#8217;s Daisy Chain Fields Festival Goes Into Damage Control After Vendors Say They Weren&#8217;t Paid",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/daisy-chain-fields-vendor-complaints/",
+      "description": "At least two vendors claim that Olivia Rodrigo&#8217;s Live Nation-produced Daisy Chain Fields festival not only failed to pay them but also issued costly fees. Olivia Rodrigo&#8217;s inaugural Daisy…",
+      "date": "2026-10-10T06:00:52.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/09/top-dawg-entertainment-doxxing/",
+      "title": "Top Dawg Cleared of Doxxing Claim Amid Ugly Sexual Harassment Lawsuit &#8212; Jury Trial Tentatively Scheduled for May 2027",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/top-dawg-entertainment-doxxing/",
+      "description": "Amid a sexual harassment and breach of contract lawsuit filed by PR professional Linda Luna, Top Dawg Entertainment and several of its higher-ups have officially beaten a doxxing claim. That’s accordi…",
+      "date": "2026-10-09T22:01:53.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/09/jack-white-vegas-concert-poster-board-game/",
+      "title": "Jack White&#8217;s Vegas Concert Poster Doubles as a Board Game—And Now You&#8217;ll Have to Rely on eBay to Secure a Copy",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/jack-white-vegas-concert-poster-board-game/",
+      "description": "Jack White&#8217;s Las Vegas concert poster doubles as a playable board game, with a 52-card deck, six wooden playing pieces, a custom wooden die, and more. Jack White&#8217;s October 2 show at Fontai…",
+      "date": "2026-10-09T21:21:21.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/09/diddy-prison-release-date-pushed-back/",
+      "title": "Diddy&#8217;s Release Date Delayed After Details of Lavish Prison Lifestyle Emerge",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/diddy-prison-release-date-pushed-back/",
+      "description": "After details of Diddy&#8217;s lavish prison lifestyle emerge, the rap mogul&#8217;s release date has been pushed back, alongside a half-million-dollar fine. Following NBC News&#8217; report about Sea…",
+      "date": "2026-10-09T20:02:27.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/09/kanye-antisemitism-removal-lawsuit-shut-down/",
+      "title": "Kanye West Tries to Remove Pages of His Extreme Antisemitism From a Copyright Court Battle, Federal Judge Shuts Him Down",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/kanye-antisemitism-removal-lawsuit-shut-down/",
+      "description": "A federal judge has rejected Kanye&#8217;s attempt to strike references to his past antisemitic statements from Alice Merton&#8217;s copyright lawsuit against him. Ye, the disgraced rapper formerly kn…",
+      "date": "2026-10-09T19:02:58.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/09/music-industry-hires-oct-9-2026/",
+      "title": "Latest Music Industry Hires: Live Nation, Suno, Warner Music MENA, GoDigital, Empire Publishing, Believe, Music Publishers Association, More",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/music-industry-hires-oct-9-2026/",
+      "description": "Here’s a recap of recent music industry hires and in-house promotions as of October 9th, 2026. If you have a job shuffle to share, we’re all ears. Send us a note to news@digitalmusicnews.com. If you’d…",
+      "date": "2026-10-09T19:00:27.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/09/spotify-technology-launch/",
+      "title": "Introducing &#8216;Spotify Technology&#8217;: DSP Kicks Off Enterprise-Focused Software Sales Expansion, Says Its Products Are &#8216;Becoming the R&#038;D Operating System&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/09/spotify-technology-launch/",
+      "description": "Introducing Spotify Technology: The DSP is officially in the business of selling software and has already made several “battle-tested” products available to clients. Spotify disclosed the enterprise-f…",
+      "date": "2026-10-09T16:47:16.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/",
       "title": "Denmark’s new digital replica law should go into effect in early 2027, says Danish culture minister",
       "link": "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/",
@@ -502,54 +1032,64 @@
       "category": "Industry"
     },
     {
-      "id": "https://musically.com/2026/10/09/meta-and-tiktok-engage-in-tit-for-tat-ad-bans-on-their-platforms/",
-      "title": "Meta and TikTok engage in tit-for-tat ad bans on their platforms",
-      "link": "https://musically.com/2026/10/09/meta-and-tiktok-engage-in-tit-for-tat-ad-bans-on-their-platforms/",
-      "description": "If you’re a fan of SOCIAL MEDIA TITANS BEEF, prepare to record your direct-to-camera ragebait hot take: Meta, the parent company of Instagram and Facebook, has banned ads from ByteDance from running o…",
-      "date": "2026-10-09T13:24:18.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
+      "id": "https://www.digitalmusicnews.com/2026/10/08/gta-vi-radio-station-hosts/",
+      "title": "GTA VI Radio Stations Will Feature Hosts Bad Bunny, Burna Boy, Slayer, Trina, Robyn, Lana Del Rey, and Even Lana&#8217;s Husband",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/gta-vi-radio-station-hosts/",
+      "description": "Ahead of the much-anticipated release of the latest Grand Theft Auto game, Rockstar Games reveals that the in-game radio stations will feature some serious talent on hosting duty. Rockstar Games&#8217…",
+      "date": "2026-10-09T05:02:46.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://musically.com/2026/10/09/jack-whites-latest-concert-poster-is-also-a-150-board-game/",
-      "title": "Jack White’s latest concert poster is also a $150 board game",
-      "link": "https://musically.com/2026/10/09/jack-whites-latest-concert-poster-is-also-a-150-board-game/",
-      "description": "When Jack White played a show at BleauLive Theater in Las Vegas on October 2, 2026, the show’s poster was also available for sale – as a board game. All 350 copies of Jack White: Las Vegas Frenzy sold…",
-      "date": "2026-10-09T13:22:55.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
+      "id": "https://www.digitalmusicnews.com/2026/10/08/apple-umg-pop-therapy-wellness/",
+      "title": "Apple + UMG Announce &#8216;Pop Therapy&#8217; Audio Wellness Project; Olivia Dean, Jon Batiste, Shawn Mendes Among the Mellowed-Out Artists",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/apple-umg-pop-therapy-wellness/",
+      "description": "Audio wellness platform Sollos is marking World Mental Health Day with a release of re-engineered tracks from major artists via Apple Music. Today, audio wellness platform Sollos is marking World Ment…",
+      "date": "2026-10-09T04:00:48.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/",
-      "title": "New Suno live music division to help make it the “first creative entertainment platform”",
-      "link": "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/",
-      "description": "Part of Suno’s licensing deal with Warner Music Group last November involved acquiring concert-discovery platform Songkick. It felt like a strange quirk at the time – what does an AI music-generating…",
-      "date": "2026-10-09T13:20:53.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
+      "id": "https://www.digitalmusicnews.com/2026/10/08/sean-welch-business-manager-prison-sentence/",
+      "title": "A Bad Week for Music Criminals: Business Manager Sean Welch Begins Eight-Month Prison Sentence After Stealing from Juice WRLD and Others",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/sean-welch-business-manager-prison-sentence/",
+      "description": "It’s been a bad week for music criminals – including streaming fraudster Michael Smith and now business manager Sean Welch, who’s reported to federal prison after pleading guilty to wire fraud. Said g…",
+      "date": "2026-10-09T02:33:46.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://musically.com/2026/10/09/spotify-launches-enterprise-technology-division-rogan-re-signs-for-reported-250m/",
-      "title": "Spotify launches enterprise Technology division; Rogan re-signs for reported $250m",
-      "link": "https://musically.com/2026/10/09/spotify-launches-enterprise-technology-division-rogan-re-signs-for-reported-250m/",
-      "description": "Spotify has been feeling confident recently about its internally-built tools – for instance its bespoke “large taste model&#8221; to better recommend music, and its Studio platform that can build besp…",
-      "date": "2026-10-09T13:19:35.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
+      "id": "https://www.digitalmusicnews.com/2026/10/08/dr-luke-sd-broadcaster-lawsuit-settlement/",
+      "title": "Who Really Wrote Katy Perry&#8217;s &#8216;Hot N Cold&#8217;? A Bizarre Twist Could Derail a Dr. Luke Copyright Settlement In South Dakota",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/dr-luke-sd-broadcaster-lawsuit-settlement/",
+      "description": "A copyright case involving Dr. Luke enters settlement proceedings, but a third party has filed an intervention request, alleging an authorship stake. This week, in the ever-shifting world of copyright…",
+      "date": "2026-10-08T23:08:25.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
-      "id": "https://musically.com/2026/10/09/sollos-re-engineers-olivia-dean-and-sam-smith-songs-to-help-you-sleep-and-focus/",
-      "title": "Sollos “re-engineers” Olivia Dean and Sam Smith songs to help you sleep and focus",
-      "link": "https://musically.com/2026/10/09/sollos-re-engineers-olivia-dean-and-sam-smith-songs-to-help-you-sleep-and-focus/",
-      "description": "It&#8217;s comforting to remember that music isn’t merely a thing that exists in a series of breathless AI press releases – it’s also a nice thing that makes people feel nice. Feeling good can sometim…",
-      "date": "2026-10-09T13:18:07.000Z",
-      "source": "Music Ally",
-      "sourceId": "musically",
-      "category": "Technology"
+      "id": "https://www.digitalmusicnews.com/2026/10/08/grammys-navigate-drake-bts-stray-kids-boycotts/",
+      "title": "Who&#8217;s Next? Grammys Navigating Drake, BTS, and Stray Kids Boycotts",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/grammys-navigate-drake-bts-stray-kids-boycotts/",
+      "description": "On the heels of K-pop groups BTS and Stray Kids boycotting the Grammys, Drake makes it clear that he too is boycotting the awards event—again. Drake has a storied history of distaste for the Grammy Aw…",
+      "date": "2026-10-08T23:02:24.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/08/live-nation-michael-rapino-contract/",
+      "title": "Live Nation Renews CEO Michael Rapino&#8217;s Contract Through 2031 &#8212; Massive Deal Includes a $20 Million Stock Bonus and Upwards of $60 Million in Annual Compensation",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/live-nation-michael-rapino-contract/",
+      "description": "One massive contract renewal later, Michael Rapino is set to continue as Live Nation’s president and CEO – pulling down upwards of $60 million per year, provided the company hits certain performance t…",
+      "date": "2026-10-08T21:32:56.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://rainnews.com/radio-station-dip-nuance/",
@@ -559,6 +1099,26 @@
       "date": "2026-10-08T19:07:33.000Z",
       "source": "RAIN News",
       "sourceId": "rain",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/08/joe-rogan-spotify-deal-renewed/",
+      "title": "Joe Rogan Renews Multiyear Partnership with Spotify, Reports Suggest $250 Million Deal",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/joe-rogan-spotify-deal-renewed/",
+      "description": "Joe Rogan enters into a new multiyear partnership with Spotify, estimated at around $250 million, sources say. Rogan first inked with Spotify in 2020. Today, Spotify announced that Joe Rogan, the top…",
+      "date": "2026-10-08T18:19:44.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/08/michael-chua-suno-hire/",
+      "title": "Suno Taps Ticketmaster Vet Michael Chua to Lead Its Live Division, Says the Team&#8217;s &#8216;Central Focus&#8217; Is &#8216;Helping Emerging Artists&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/08/michael-chua-suno-hire/",
+      "description": "Suno the live music specialist? About one year after acquiring Songkick, the AI upstart has tapped longtime Ticketmaster partnerships exec Michael Chua to lead the concert discovery platform. Cambridg…",
+      "date": "2026-10-08T17:31:12.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -582,6 +1142,46 @@
       "category": "Industry"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/live-nation-data-breach-class-action-lawsuits/",
+      "title": "Live Nation Is Battling Multiple Class Action Lawsuits Following Its Latest Data Breach. DMN Has Already Discovered Three Separate Suits.",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/live-nation-data-breach-class-action-lawsuits/",
+      "description": "Live Nation recently disclosed a data breach that exposed sensitive customer information, according to details unearthed by DMN. Already, multiple class action lawsuits have emerged, with potentially…",
+      "date": "2026-10-08T05:44:29.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/us-copyright-office-streaming-fraud-investigation/",
+      "title": "The US Copyright Office Launches a Formal Investigation Into Music Streaming Fraud. Let&#8217;s Open This Cellar Door, Shall We?",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/us-copyright-office-streaming-fraud-investigation/",
+      "description": "Following the sentencing of Michael Smith, the US Copyright Office launches a formal notice of inquiry (NOI) into music streaming fraud. After the conviction and sentencing of music streaming fraudste…",
+      "date": "2026-10-08T05:36:42.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/spotify-audiobooks-plus-subscribers-stats/",
+      "title": "Publishers Call Spotify&#8217;s Audiobook &#8216;Bundle&#8217; a Scam; Spotify Says It Has Over a Million Audiobooks+ Subscribers Worldwide",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/spotify-audiobooks-plus-subscribers-stats/",
+      "description": "Spotify expands its audiobook access to over 180 markets as subscriptions to its Audiobook+ tier surpass one million users. It&#8217;s a well-known fact at this point that music publishers, particular…",
+      "date": "2026-10-08T00:30:54.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/deepseek-funding-tencent/",
+      "title": "DeepSeek Reportedly Set to Raise Up to $15 Billion &#8212; With Tencent Among the Leading Backers",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/deepseek-funding-tencent/",
+      "description": "DeepSeek is reportedly poised to raise as much as $15 billion, with Tencent among the gargantuan round&#8217;s leading participants. The massive figure just recently entered the stateside media spotli…",
+      "date": "2026-10-07T23:48:03.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
       "title": "Teenage Engineering’s CEO says it’ll stop making synths",
       "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
@@ -590,6 +1190,66 @@
       "source": "The Verge",
       "sourceId": "verge-music",
       "category": "Technology"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/super-bowl-61-halftime-rumors/",
+      "title": "Halftime Party In the USA Ahead? Apple Music Strategically Spills Some Beans On the Upcoming Super Bowl LXI Halftime Show",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/super-bowl-61-halftime-rumors/",
+      "description": "Following a leak from Apple Music implying that Miley Cyrus would be the next Super Bowl halftime headliner—Miley has fun on social media with the rumors. This week, Apple Music appeared to leak a hin…",
+      "date": "2026-10-07T20:40:29.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/the-ok-naming-rights-renewal/",
+      "title": "The O2 Signs the UK&#8217;s &#8216;Largest-Ever Naming Rights Renewal Deal&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/the-ok-naming-rights-renewal/",
+      "description": "AEG and O2 announce a massive extension of their long-standing naming rights partnership through 2038—the largest such renewal in UK history. It&#8217;s been a big year for The O2, and ahead of the ve…",
+      "date": "2026-10-07T19:25:25.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/word-collections-publisher-royalties-streaming/",
+      "title": "Apple, Amazon, Spotify, and YouTube Are Now Paying All Songwriter/Publisher Royalties Directly to Word Collections on Behalf of Clients in Territories Outside the U.S.",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/word-collections-publisher-royalties-streaming/",
+      "description": "Apple, Amazon, Spotify, YouTube, TikTok, and more have entered into agreements allowing Word Collections to license and collect all songwriter and music publisher royalties for its clients directly fr…",
+      "date": "2026-10-07T19:15:13.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/grok-bot-suno/",
+      "title": "Elon Likes Suno: Grok Bot to Begin Using &#8216;The Best Back End Model for Any Given Task,&#8217; With Suno Handling Music Generation, Musk Says",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/grok-bot-suno/",
+      "description": "SpaceXAI’s Grok Bot, which is said to provide “AI teammates that do real work for you,” is officially set to begin utilizing Suno’s music generation models. That’s according to Elon Musk, who disclose…",
+      "date": "2026-10-07T19:00:12.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/phonorecords-v-proposal-response-dima/",
+      "title": "Spotify and Other Streaming Giants Are &#8216;Looking Forward to a Timely Resolution&#8217; of the Phono V Proceedings. But Is an Ugly, Drawn-Out Rate-Setting Battle Inevitable?",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/phonorecords-v-proposal-response-dima/",
+      "description": "Ahead of what could prove a dragged-out rate-setting clash, DSPs including Spotify, Apple Music, Amazon Music, and Qobuz have responded to the newly submitted Phonorecords V mechanical rate proposal.…",
+      "date": "2026-10-07T18:41:15.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/07/wmg-atlantic-kakao-k-pop-partnership/",
+      "title": "After Some Serious Staffing Shakeups, WMG Goes Into Deal Mode with an Atlantic+Kakao K-pop Tie-Up",
+      "link": "https://www.digitalmusicnews.com/2026/10/07/wmg-atlantic-kakao-k-pop-partnership/",
+      "description": "Following WMG&#8217;s major staffing shakeups and moves into new regions, Atlantic tees up a partnership with Kakao Entertainment to buoy K-pop artists. Warner Music Group subsidiary Atlantic Music Gr…",
+      "date": "2026-10-07T18:37:40.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
     },
     {
       "id": "https://completemusicupdate.com/music-industry-welcomes-eighteen-month-prison-sentence-for-streaming-fraudster/",
@@ -609,6 +1269,96 @@
       "date": "2026-10-07T14:58:26.000Z",
       "source": "Complete Music Update",
       "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/saudi-arabia-soundstorm-festival-canceled/",
+      "title": "More Cancellations Hit MENA as Saudi Arabia&#8217;s Soundstorm Officially Nixed",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/saudi-arabia-soundstorm-festival-canceled/",
+      "description": "Saudi Arabia&#8217;s Soundstorm festival will not be taking place this year, the organizer MDLBEAST announced, but promises it will return in 2027. Saudi Arabia&#8217;s Soundstorm festival, which was…",
+      "date": "2026-10-07T06:00:21.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/phonorecords-v-streaming-rate-proposal/",
+      "title": "Time for a Simpler Mechanical? Bernie Taupin, Songwriters Guild of America, Word Collections, Others Backing a $0.003 Uniform Per-Play Rate In the US",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/phonorecords-v-streaming-rate-proposal/",
+      "description": "Is it time to put overly complex (and easily exploitable) mechanical rate formulas in the rearview? Organizations including the Songwriters Guild of America (SGA) believe so, and they’re now backing a…",
+      "date": "2026-10-07T06:00:11.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/google-penske-media-lawsuit-dismissal/",
+      "title": "Google Wins Dismissal Over Penske Media&#8217;s &#8216;Zero-Click&#8217; AI Summary Lawsuit",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/google-penske-media-lawsuit-dismissal/",
+      "description": "Google secures a major win against Penske Media as a federal judge dismisses claims that the tech giant unlawfully used their content in its AI-generated summaries. A federal judge has dismissed lawsu…",
+      "date": "2026-10-07T04:00:56.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/freddie-jackson-rb-singer-dead-69/",
+      "title": "Freddie Jackson, the Velvety Voice Behind &#8216;You Are My Lady,&#8217; Passes Away",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/freddie-jackson-rb-singer-dead-69/",
+      "description": "Freddie Jackson, the silky-voiced R&#38;B singer known for hits like &#8220;Rock Me Tonight&#8221; and &#8220;You Are My Lady,&#8221; passed away on Monday at age 69. Freddie Jackson, the R&#38;B sing…",
+      "date": "2026-10-07T01:49:28.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/michael-smith-streaming-fraud-sentence/",
+      "title": "Streaming Fraudster Michael Smith Sentenced to 18 Months in Prison On Top of $8 Million Fine",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/michael-smith-streaming-fraud-sentence/",
+      "description": "Michael Smith, the North Carolina man convicted of stealing over $8 million in streaming royalties, has been sentenced to 18 months in prison. The U.S. Attorney for the Southern District of New York,…",
+      "date": "2026-10-07T00:12:54.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/mlc-black-box-royalties-distribution/",
+      "title": "The MLC Tees Up First Multimillion-Dollar &#8216;Black Box&#8217; Royalty Distribution for April 2027; Major Pubs Expecting Small Fortunes Based on &#8216;Relative Market Shares&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/mlc-black-box-royalties-distribution/",
+      "description": "The Mechanical Licensing Collective (MLC) is officially set to begin distributing a sizable pile of unmatched and unclaimed “black box” royalties in April 2027. The MLC disclosed the distribution time…",
+      "date": "2026-10-06T23:45:17.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/fka-twigs-settles-shia-labeouf-sexual-battery-lawsuit/",
+      "title": "FKA twigs Settles Ugly Shia LaBeouf Sexual Battery Lawsuit",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/fka-twigs-settles-shia-labeouf-sexual-battery-lawsuit/",
+      "description": "FKA twigs settles her long-running legal battle against actor Shia LaBeouf over ugly sexual battery allegations, enabling her to discuss the matter. FKA twigs is finally free to speak about the allege…",
+      "date": "2026-10-06T20:42:18.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/dolly-parton-estate-lawsuit-seaver/",
+      "title": "Dolly Parton Estate Claims Nephew is Using Physical Barriers, Including Barbed Wire and Signs, to Avoid a Lawsuit",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/dolly-parton-estate-lawsuit-seaver/",
+      "description": "Dolly Parton&#8217;s estate claims that her nephew and former head of security is using barbed wire and a &#8220;no trespassing&#8221; sign to evade a lawsuit. The estate of Dolly Parton alleges that…",
+      "date": "2026-10-06T20:33:21.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/godigital-apac-expansion-japan/",
+      "title": "GoDigital Eyes APAC Expansion with Pony Canyon Partnership in Japan",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/godigital-apac-expansion-japan/",
+      "description": "GoDigital Music expands into Asia with a partnership with Japanese entertainment company Pony Canyon and a new president for the APAC market. GoDigital Music has announced a significant expansion in t…",
+      "date": "2026-10-06T18:25:23.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -632,6 +1382,16 @@
       "category": "Technology"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/suno-italy-investigation/",
+      "title": "Italian Competition Watchdog Launches Suno Investigation &#8216;Over Unfair Terms,&#8217; Says &#8216;The Contractual Provisions on Copyright Deserve Particular Attention&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/suno-italy-investigation/",
+      "description": "When it rains, it pours and, in Suno&#8217;s case, keeps on pouring: Besides facing a number of stateside lawsuits as well as international copyright claims, the AI music generator is now grappling wi…",
+      "date": "2026-10-06T15:39:23.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://completemusicupdate.com/approved-clinic/",
       "title": "🎧 Approved: Clinic",
       "link": "https://completemusicupdate.com/approved-clinic/",
@@ -652,6 +1412,106 @@
       "category": "Industry"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/10/06/apple-music-new-logo/",
+      "title": "Apple Music Launches New Logo to Accompany New Era",
+      "link": "https://www.digitalmusicnews.com/2026/10/06/apple-music-new-logo/",
+      "description": "Apple Music introduces a new logo alongside its latest software updates, intensifying its competition with Spotify for the top paid DSP in the US. After Apple debuted a new logo in the press materials…",
+      "date": "2026-10-06T09:28:59.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/ca-festival-slashes-ticket-fees/",
+      "title": "California Festival Slashes Ticketing Fees by 99% by Building Its Own Platform On Shopify—Now It&#8217;s Ready to Expand",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/ca-festival-slashes-ticket-fees/",
+      "description": "San Diego&#8217;s SSBD Festival claims it cut 99% of ticketing fees with its self-made Shopify platform, lowering the price of one of its tiers by $60. San Diego&#8217;s Same Same But Different Festiv…",
+      "date": "2026-10-06T05:10:46.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/wmg-reorganization-mena-2026/",
+      "title": "WMG&#8217;s Re-Org Reaches MENA, Pairing a Promotion With a Sony Hire",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/wmg-reorganization-mena-2026/",
+      "description": "Warner Music Group expands its regional leadership in the Middle East and North Africa after seismic shifts across the United States and beyond. Warner Music Group (WMG) has announced a strategic expa…",
+      "date": "2026-10-06T04:35:11.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/music-impact-coalition-grant-arts-programs/",
+      "title": "Music Impact Coalition to Grant $3 Million to Arts Programs, Starting in North Carolina",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/music-impact-coalition-grant-arts-programs/",
+      "description": "The Music Impact Coalition will kick off its new initiative starting in North Carolina with a combined $3 million grant for music and arts education. A coalition of more than 20 of the nation&#8217;s…",
+      "date": "2026-10-06T03:57:06.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/saudi-arabias-answer-to-the-grammy-awards-abruptly-canceled/",
+      "title": "Saudi Arabia&#8217;s Answer to the Grammy Awards Abruptly Canceled",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/saudi-arabias-answer-to-the-grammy-awards-abruptly-canceled/",
+      "description": "The Joy Awards, Saudi Arabia&#8217;s answer to the Grammy Awards, have been canceled amid financial strain on the country&#8217;s entertainment sector. Saudi Arabia&#8217;s Joy Awards, its annual Gram…",
+      "date": "2026-10-06T03:18:03.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/music-publishing-david-israelite-interview/",
+      "title": "You Wrote the Music. Who Gets the Value? A Special Interview With One of the Most Influential Figures In Music Publishing",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/music-publishing-david-israelite-interview/",
+      "description": "You can spend three weeks getting a melody right and three minutes clicking through the music publishing agreement that determines who gets paid for it. That imbalance should bother everyone who write…",
+      "date": "2026-10-06T03:14:43.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/ticketmaster-outage-2026/",
+      "title": "After a Rough Weekend of Ticketmaster Outages and Stranded Concertgoers, More Regulatory Questions Surface",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/ticketmaster-outage-2026/",
+      "description": "In a headache-inducing weekend for concertgoers, fans across the US couldn&#8217;t access or transfer tickets due to a systemwide Ticketmaster outage. As a result, some would-be attendees found themse…",
+      "date": "2026-10-06T03:00:08.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/what-your-music-data-does-not-know/",
+      "title": "What Your Music Data Doesn&#8217;t Know Could Be Costing You Money",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/what-your-music-data-does-not-know/",
+      "description": "Data quality in the music business is no longer just an administrative concern — it&#8217;s a revenue issue. When repertoire and rights information is incomplete, inconsistent, or poorly reconciled ac…",
+      "date": "2026-10-06T00:30:03.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/phonorecords-v-response-major-labels/",
+      "title": "Major Labels, NMPA, and Others Defend Their &#8216;Eminently Reasonable&#8217; Phono V Settlement Proposal in Response to CRB Questions",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/phonorecords-v-response-major-labels/",
+      "description": "It’s high time the Copyright Royalty Board (CRB) judges approved the proposed Phonorecords V settlement – at least according to the major labels, the NMPA, and the other signatories, which are defendi…",
+      "date": "2026-10-06T00:29:41.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/ubs-drops-spotify-price-target/",
+      "title": "UBS Drops Its Spotify Price Target Citing Cost Pressures, But the General Mood Among Analysts Remains Bullish",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/ubs-drops-spotify-price-target/",
+      "description": "Spotify&#8217;s stock is down nearly 30% year-over-year, with UBS dropping its price target due to cost pressures despite a generally bullish mood. Spotify&#8217;s stock (SPOT) has been lackluster thi…",
+      "date": "2026-10-05T19:33:12.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://rainnews.com/rain-notes-october-5/",
       "title": "RAIN Notes: October 5",
       "link": "https://rainnews.com/rain-notes-october-5/",
@@ -662,6 +1522,46 @@
       "category": "Industry"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/beatport-investment-square-nine/",
+      "title": "Beatport Scores a Square Nine-Led Investment, Targets Expansions &#8216;Across Its Platform, Products and Broader Ecosystem&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/beatport-investment-square-nine/",
+      "description": "With an eye on spearheading further expansion initiatives, Beatport has scored an investment from Square Nine Capital. Denver-headquartered Beatport and Peter Ma-founded Square Nine recently announced…",
+      "date": "2026-10-05T19:24:19.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/erica-campbell-settles-srg-lawsuit/",
+      "title": "Erica Campbell Quickly Settles Litigation Against SRG Over Alleged Non-Payments",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/erica-campbell-settles-srg-lawsuit/",
+      "description": "Erica Campbell&#8217;s label has quickly settled its lawsuit against distributor SRG over alleged royalty non-payment just two weeks after filing the case. Gospel singer-songwriter Erica Campbell&#821…",
+      "date": "2026-10-05T18:34:00.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/best-music-distributor-for-independent-artists/",
+      "title": "Best Services for Independent Artists Ready to Go Beyond Basic Distribution",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/best-music-distributor-for-independent-artists/",
+      "description": "I spend most of my time thinking about a fairly narrow question: what does an independent artist actually need from a distribution platform once &#8220;upload and wait&#8221; stops being enough? I&#82…",
+      "date": "2026-10-05T16:15:49.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/05/sony-music-ai-takedowns/",
+      "title": "Sony Music&#8217;s AI Slop and Deepfakes Crackdown Intensifies &#8212; Soundalike Track Removal Requests Reportedly Top 250,000",
+      "link": "https://www.digitalmusicnews.com/2026/10/05/sony-music-ai-takedowns/",
+      "description": "Sony Music’s AI deepfakes crackdown is intensifying: As of September’s end, the major label had fired off north of 250,000 cumulative soundalike-track takedown demands. That concrete figure came to li…",
+      "date": "2026-10-05T16:00:04.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://completemusicupdate.com/london-olympia-cancels-first-concerts-in-grand-hall-after-revamp-due-to-problems-with-planning-application/",
       "title": "London Olympia cancels first concerts in Grand Hall after revamp due to “problems with planning application”",
       "link": "https://completemusicupdate.com/london-olympia-cancels-first-concerts-in-grand-hall-after-revamp-due-to-problems-with-planning-application/",
@@ -669,6 +1569,36 @@
       "date": "2026-10-05T15:37:41.000Z",
       "source": "Complete Music Update",
       "sourceId": "cmu",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/04/ed-sheeran-macklemore-replacement-atlanta/",
+      "title": "Ed Sheeran Surprises Fans In Atlanta With a Possible Macklemore Replacement",
+      "link": "https://www.digitalmusicnews.com/2026/10/04/ed-sheeran-macklemore-replacement-atlanta/",
+      "description": "Ed Sheeran brings out a surprise opener at his October 3 show in Atlanta amid the controversy surrounding Macklemore&#8217;s exit. On Saturday, October 3, Ed Sheeran brought out a surprise guest opene…",
+      "date": "2026-10-05T05:25:11.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/04/umg-apple-corps-refresh-rubber-soul/",
+      "title": "UMG and Apple Corps Refresh The Beatles&#8217; &#8216;Rubber Soul&#8217; With Unreleased Tracks, New Stereo and Dolby Atmos Mixes",
+      "link": "https://www.digitalmusicnews.com/2026/10/04/umg-apple-corps-refresh-rubber-soul/",
+      "description": "UMG and Apple Corps have re-released The Beatles&#8217; 1965 album Rubber Soul in an expanded form, featuring previously unreleased session recordings. On Friday, Universal Music Group (UMG) and The B…",
+      "date": "2026-10-05T04:34:12.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/04/shakira-amazon-music-livestream-stats/",
+      "title": "Shakira Makes Amazon Music History as the Most-Watched Livestream Performance by a Female Artist of All Time",
+      "link": "https://www.digitalmusicnews.com/2026/10/04/shakira-amazon-music-livestream-stats/",
+      "description": "Shakira&#8217;s concert in Madrid on October 3 was the most-viewed livestream performance by a female artist on Amazon Music in history. Shakira&#8217;s highly anticipated concert in Madrid on October…",
+      "date": "2026-10-05T04:30:31.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -692,6 +1622,56 @@
       "category": "Technology"
     },
     {
+      "id": "https://www.digitalmusicnews.com/2026/10/02/grammys-best-asian-pop-music-performance-category-decision/",
+      "title": "Grammys Won&#8217;t Retire the &#8216;Asian Pop&#8217; Category &#8212; Harvey Mason Says &#8216;It’s the Right Conclusion for the Music Community Overall&#8217; Despite BTS and Stray Kids Boycotts",
+      "link": "https://www.digitalmusicnews.com/2026/10/02/grammys-best-asian-pop-music-performance-category-decision/",
+      "description": "Despite facing considerable pushback – and prompting multiple boycotts – the Grammys’ controversial “Best Asian Pop Music Performance” award category will still be part of the 2027 event. Recording Ac…",
+      "date": "2026-10-03T06:00:21.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/02/creator-nation-launch-live-nation/",
+      "title": "Live Nation Launches &#8216;Creator Nation&#8217; to &#8216;Turn Followers Into Lasting Fans&#8217; &#8212; Acquisitions Expected &#8216;In the Coming Months&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/02/creator-nation-launch-live-nation/",
+      "description": "With an eye on helping content creators turn their “followers into lasting fans” – and aggressively pursuing acquisitions in the space – Live Nation has launched “Creator Nation.” The Ticketmaster par…",
+      "date": "2026-10-03T05:00:24.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/02/music-industry-hires-oct-2-2026/",
+      "title": "Latest Music Industry Hires: Warner Music, SESAC, Universal Music, SoundExchange, BandLab, Live Nation, Chrysalis/Blue Raincoat, More",
+      "link": "https://www.digitalmusicnews.com/2026/10/02/music-industry-hires-oct-2-2026/",
+      "description": "Here’s a recap of recent music industry hires and in-house promotions as of October 2nd, 2026. If you have a job shuffle to share, we’re all ears. Send us a note to news@digitalmusicnews.com. If you’d…",
+      "date": "2026-10-03T00:18:00.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/02/ai-music-separate-chart-debate/",
+      "title": "Should AI Music Get a Separate Chart? Kelly Clarkson Makes the Case for Separating the Robots from the Humans",
+      "link": "https://www.digitalmusicnews.com/2026/10/02/ai-music-separate-chart-debate/",
+      "description": "Should AI music get its own separate chart? Kelly Clarkson thinks it should, even amid her own enthusiasm for AI developments, and she&#8217;s not alone. Kelly Clarkson believes that AI can play a sig…",
+      "date": "2026-10-02T22:34:55.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/02/youtube-shorts-prioritize-original-content/",
+      "title": "YouTube Shorts Recommendations Will Prioritize &#8216;Genuinely Valuable&#8217; Original Content",
+      "link": "https://www.digitalmusicnews.com/2026/10/02/youtube-shorts-prioritize-original-content/",
+      "description": "To surface better Shorts recommendations for users, YouTube has adjusted its algorithm to &#8220;focus on originality.&#8221; YouTube says it will &#8220;focus on originality&#8221; in recommending Sh…",
+      "date": "2026-10-02T18:59:28.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
       "id": "https://rainnews.com/rain-time-travel-october-2016-headlines/",
       "title": "RAIN Time Travel: October 2016 headlines",
       "link": "https://rainnews.com/rain-time-travel-october-2016-headlines/",
@@ -712,13 +1692,63 @@
       "category": "Industry"
     },
     {
-      "id": "https://completemusicupdate.com/cmu-selects-week-78-2026/",
-      "title": "CMU Selects - the last week’s standout releases",
-      "link": "https://completemusicupdate.com/cmu-selects-week-78-2026/",
-      "description": "Our selection of five releases that cut through the noise this week, from Logic1000, Sasha Keable, Fontaines D.C., Strawberry Guy + Petra",
-      "date": "2026-10-02T13:46:42.000Z",
-      "source": "Complete Music Update",
-      "sourceId": "cmu",
+      "id": "https://www.digitalmusicnews.com/2026/10/02/diddy-high-life-in-prison/",
+      "title": "Diddy Enjoying a High-Luxury Lifestyle on the Inside: Private Meals, Massages, Top-Shelf Liquor, Around-the-Clock &#8216;Staff&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/02/diddy-high-life-in-prison/",
+      "description": "Diddy is reportedly living a luxury lifestyle in prison, complete with a team of fellow inmates who act as his personal staff. Sean &#8220;Diddy&#8221; Combs arrived at Fort Dix in New Jersey last Oct…",
+      "date": "2026-10-02T09:36:18.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/02/gabe-jagger-wmg-emp-merch/",
+      "title": "Gabe Jagger&#8217;s whynow Snags WMG&#8217;s Distressed EMP Merch Play",
+      "link": "https://www.digitalmusicnews.com/2026/10/02/gabe-jagger-wmg-emp-merch/",
+      "description": "Gabe Jagger&#8217;s whynow scoops up Warner Music Group&#8217;s direct-to-consumer brand, EMP, to create an &#8220;integrated global fan commerce platform.&#8221; Gabe Jagger&#8217;s entertainment com…",
+      "date": "2026-10-02T08:39:08.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/01/suno-revenue-october-2026/",
+      "title": "Suno Has &#8216;Far Beyond&#8217; Two Million Subscribers and $300 Million in Annual Revenue Following Sweeping &#8216;v6&#8217; Overhaul, CEO Says",
+      "link": "https://www.digitalmusicnews.com/2026/10/01/suno-revenue-october-2026/",
+      "description": "How’s Suno faring after shifting exclusively to licensed models? Quite well, according to CEO Mikey Shulman, who says the company now boasts “far beyond” two million subscribers and $300 million in an…",
+      "date": "2026-10-02T06:30:04.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/01/the-game-virgin-umg-lawsuit/",
+      "title": "The Game Sues Virgin/UMG Over His Underwhelming &#8216;Drillmatic&#8217; Album",
+      "link": "https://www.digitalmusicnews.com/2026/10/01/the-game-virgin-umg-lawsuit/",
+      "description": "The Game is suing Virgin and UMG over his underwhelming album sales, claiming they didn&#8217;t spend most of the promised advertising budget and that sales of the record suffered for it. Rapper The G…",
+      "date": "2026-10-02T05:54:24.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/01/doj-cites-mffa-streaming-fraud-case/",
+      "title": "Spotify, Amazon Music, Merlin, Empire, Downtown, Distrokid, Meta, Others Join the DOJ In Recommending Prison Time for Streaming Fraudster Michael Smith",
+      "link": "https://www.digitalmusicnews.com/2026/10/01/doj-cites-mffa-streaming-fraud-case/",
+      "description": "Ahead of Michael Smith&#8217;s October 6th sentencing, the Music Fights Fraud Alliance (MFFA) has submitted a letter to the court arguing for a significant sentence to deter future abuse. Michael Smit…",
+      "date": "2026-10-02T04:00:40.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
+      "category": "Industry"
+    },
+    {
+      "id": "https://www.digitalmusicnews.com/2026/10/01/evolutions-music-festival-lawsuit/",
+      "title": "Evolutions Festival Faces a Fraud Lawsuit In New York After Canceling Its 2025 Edition &#8216;Without Returning Any Money to Ticket Purchasers&#8217;",
+      "link": "https://www.digitalmusicnews.com/2026/10/01/evolutions-music-festival-lawsuit/",
+      "description": "After abruptly calling off its 2025 edition – and allegedly failing to refund would-be attendees – Evolutions Music Festival and its organizers are facing a fraud lawsuit in New York. AG Letitia James…",
+      "date": "2026-10-02T01:00:25.000Z",
+      "source": "Digital Music News",
+      "sourceId": "dmn",
       "category": "Industry"
     },
     {
@@ -729,16 +1759,6 @@
       "date": "2026-10-01T19:31:52.000Z",
       "source": "RAIN News",
       "sourceId": "rain",
-      "category": "Industry"
-    },
-    {
-      "id": "https://completemusicupdate.com/japanese-court-says-voice-is-protected-by-publicity-rights-us-appeals-court-says-ai-training-is-not-fair-use/",
-      "title": "Japanese court says voice is protected by publicity rights; US appeals court says AI training is not fair use",
-      "link": "https://completemusicupdate.com/japanese-court-says-voice-is-protected-by-publicity-rights-us-appeals-court-says-ai-training-is-not-fair-use/",
-      "description": "There have been two judgments this week of relevance to the ongoing AI debates in the music industry. A Japanese court ruled that publicity rights allow performers to stop unapproved AI voice clones.…",
-      "date": "2026-10-01T15:46:23.000Z",
-      "source": "Complete Music Update",
-      "sourceId": "cmu",
       "category": "Industry"
     },
     {
@@ -767,16 +1787,6 @@
       "link": "https://rainnews.com/sony-and-warner-team-in-billion-dollar-ip-lawsuit-against-ai-founders/",
       "description": "AI is under legal attack again, and this time the intellectual property at the center of the case is not music, but lyrics. Sony Music Publishing and Warner Chappell Music are teaming against AI compa…",
       "date": "2026-09-29T15:29:57.000Z",
-      "source": "RAIN News",
-      "sourceId": "rain",
-      "category": "Industry"
-    },
-    {
-      "id": "https://rainnews.com/wendys-markets-to-elder-emo-listeners-with-commissioned-playlist/",
-      "title": "Wendy&#8217;s markets to &#8220;elder EMO&#8221; listeners with commissioned playlist",
-      "link": "https://rainnews.com/wendys-markets-to-elder-emo-listeners-with-commissioned-playlist/",
-      "description": "Quick-serve restaurant Wendy’s has created a streaming playlist of songs for listening in the car while, um, dining out. It’s a six-track EMO collection. Wendy's collaborated with producer Rise Record…",
-      "date": "2026-09-28T19:57:56.000Z",
       "source": "RAIN News",
       "sourceId": "rain",
       "category": "Industry"
@@ -820,16 +1830,6 @@
       "source": "RIAA Newsroom",
       "sourceId": "riaa",
       "category": "Policy & Legal"
-    },
-    {
-      "id": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-      "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
-      "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-      "description": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music H…",
-      "date": "2026-09-22T08:35:54.000Z",
-      "source": "The Verge",
-      "sourceId": "verge-music",
-      "category": "Technology"
     },
     {
       "id": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
